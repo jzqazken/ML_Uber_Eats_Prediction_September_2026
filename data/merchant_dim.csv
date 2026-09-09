@@ -1,0 +1,2001 @@
+merchant_id,merchant_name,city,cuisine_type,segment,join_date,menu_ready,competitor_presence,profile_avg_rating
+M00001,Merchant 00001,Oakland,Mexican,SMB,2024-08-19,1,0,4.48
+M00002,Merchant 00002,San Jose,American,SMB,2024-07-10,1,0,4.23
+M00003,Merchant 00003,San Francisco,Italian,SMB,2023-12-26,1,1,4.44
+M00004,Merchant 00004,Oakland,Japanese,Mid-Market,2021-03-05,1,1,4.19
+M00005,Merchant 00005,San Francisco,Thai,SMB,2023-03-08,1,0,4.59
+M00006,Merchant 00006,Fremont,American,SMB,2021-04-09,1,1,4.25
+M00007,Merchant 00007,Oakland,Thai,Mid-Market,2020-03-19,1,0,4.21
+M00008,Merchant 00008,Fremont,Mexican,SMB,2021-03-14,1,1,4.84
+M00009,Merchant 00009,Oakland,American,SMB,2024-08-22,1,1,4.11
+M00010,Merchant 00010,Palo Alto,Mediterranean,SMB,2020-12-28,1,1,4.83
+M00011,Merchant 00011,San Francisco,Thai,Mid-Market,2021-11-02,1,0,4.41
+M00012,Merchant 00012,Berkeley,American,SMB,2021-02-23,1,0,4.39
+M00013,Merchant 00013,Oakland,Italian,SMB,2025-05-09,1,0,4.46
+M00014,Merchant 00014,Berkeley,Mediterranean,SMB,2022-10-30,1,1,4.41
+M00015,Merchant 00015,Palo Alto,Mexican,SMB,2023-02-02,0,0,4.19
+M00016,Merchant 00016,San Jose,Thai,SMB,2024-07-19,1,0,3.93
+M00017,Merchant 00017,Berkeley,American,SMB,2022-05-16,1,1,4.04
+M00018,Merchant 00018,San Francisco,Thai,Mid-Market,2021-10-22,1,1,3.9
+M00019,Merchant 00019,Oakland,American,SMB,2020-07-25,1,0,4.56
+M00020,Merchant 00020,Fremont,Thai,SMB,2025-05-18,1,1,4.46
+M00021,Merchant 00021,Berkeley,Italian,Mid-Market,2020-03-31,1,0,4.51
+M00022,Merchant 00022,Palo Alto,Japanese,SMB,2020-03-20,1,0,3.91
+M00023,Merchant 00023,San Francisco,American,SMB,2021-04-05,1,0,3.64
+M00024,Merchant 00024,Berkeley,Thai,SMB,2024-07-24,1,0,4.22
+M00025,Merchant 00025,San Jose,Mediterranean,SMB,2024-01-11,1,0,4.28
+M00026,Merchant 00026,San Francisco,Indian,Enterprise,2023-05-13,1,0,4.09
+M00027,Merchant 00027,San Jose,Italian,SMB,2021-11-26,0,0,4.85
+M00028,Merchant 00028,San Francisco,American,SMB,2024-03-24,1,1,4.72
+M00029,Merchant 00029,San Francisco,Chinese,Mid-Market,2022-01-27,1,0,3.96
+M00030,Merchant 00030,Oakland,Thai,Mid-Market,2025-05-20,1,1,4.63
+M00031,Merchant 00031,Fremont,Indian,Mid-Market,2020-11-10,1,1,4.5
+M00032,Merchant 00032,San Francisco,American,Mid-Market,2023-09-04,1,0,4.08
+M00033,Merchant 00033,Fremont,Indian,SMB,2025-05-16,1,1,4.43
+M00034,Merchant 00034,Berkeley,Mediterranean,SMB,2021-11-17,1,0,4.87
+M00035,Merchant 00035,Berkeley,Chinese,SMB,2024-11-22,0,0,4.08
+M00036,Merchant 00036,Fremont,American,Mid-Market,2025-01-27,1,0,4.23
+M00037,Merchant 00037,San Francisco,Thai,SMB,2024-12-04,1,1,4.22
+M00038,Merchant 00038,San Francisco,American,SMB,2024-12-30,1,1,4.99
+M00039,Merchant 00039,Oakland,Indian,Mid-Market,2025-03-16,1,0,4.53
+M00040,Merchant 00040,San Francisco,American,SMB,2022-01-30,1,1,4.09
+M00041,Merchant 00041,Berkeley,Thai,SMB,2025-07-04,1,1,4.31
+M00042,Merchant 00042,Berkeley,American,SMB,2023-04-05,1,0,4.13
+M00043,Merchant 00043,Berkeley,Thai,SMB,2021-05-22,1,1,3.48
+M00044,Merchant 00044,San Francisco,Indian,SMB,2023-06-09,0,0,4.9
+M00045,Merchant 00045,Oakland,Mexican,SMB,2024-01-20,1,1,4.0
+M00046,Merchant 00046,Berkeley,Indian,SMB,2023-12-08,0,1,4.25
+M00047,Merchant 00047,Fremont,American,SMB,2025-04-15,1,0,4.02
+M00048,Merchant 00048,Palo Alto,Italian,SMB,2021-04-12,1,1,3.85
+M00049,Merchant 00049,San Francisco,Indian,SMB,2024-01-16,1,0,5.0
+M00050,Merchant 00050,Palo Alto,Indian,SMB,2022-08-02,1,0,4.51
+M00051,Merchant 00051,Berkeley,American,Enterprise,2023-06-18,1,0,4.8
+M00052,Merchant 00052,Palo Alto,Thai,SMB,2020-12-28,1,0,4.45
+M00053,Merchant 00053,San Francisco,Chinese,Mid-Market,2022-04-16,1,0,4.44
+M00054,Merchant 00054,San Jose,Italian,SMB,2025-07-23,1,0,4.09
+M00055,Merchant 00055,Palo Alto,Japanese,SMB,2024-03-21,1,0,4.05
+M00056,Merchant 00056,Oakland,Italian,SMB,2022-01-14,0,0,4.11
+M00057,Merchant 00057,San Francisco,Italian,SMB,2021-12-11,1,1,3.89
+M00058,Merchant 00058,Fremont,Mexican,SMB,2020-11-19,0,0,4.31
+M00059,Merchant 00059,Fremont,American,SMB,2025-03-18,0,0,4.16
+M00060,Merchant 00060,San Francisco,Mexican,SMB,2023-01-06,1,0,4.45
+M00061,Merchant 00061,Oakland,Indian,SMB,2023-11-13,1,0,3.73
+M00062,Merchant 00062,Palo Alto,Mediterranean,SMB,2023-07-29,1,0,3.81
+M00063,Merchant 00063,San Francisco,American,SMB,2022-08-27,1,0,3.77
+M00064,Merchant 00064,Oakland,Mediterranean,Mid-Market,2020-10-12,1,0,4.4
+M00065,Merchant 00065,San Francisco,Mexican,Mid-Market,2024-04-14,1,0,4.41
+M00066,Merchant 00066,Berkeley,Indian,SMB,2023-12-24,1,1,4.21
+M00067,Merchant 00067,San Jose,Indian,SMB,2023-01-03,1,1,4.1
+M00068,Merchant 00068,Berkeley,Mexican,SMB,2024-06-10,1,1,4.57
+M00069,Merchant 00069,Fremont,Chinese,SMB,2024-09-19,1,0,3.86
+M00070,Merchant 00070,Berkeley,Chinese,SMB,2023-09-06,1,0,4.95
+M00071,Merchant 00071,Palo Alto,Japanese,Mid-Market,2025-04-30,1,0,4.35
+M00072,Merchant 00072,Berkeley,Japanese,Mid-Market,2024-11-02,1,0,4.56
+M00073,Merchant 00073,Oakland,American,SMB,2022-12-19,0,1,3.84
+M00074,Merchant 00074,Palo Alto,American,SMB,2024-06-14,1,0,4.57
+M00075,Merchant 00075,Palo Alto,Chinese,SMB,2020-05-13,0,1,4.31
+M00076,Merchant 00076,Berkeley,Indian,Enterprise,2021-01-12,1,0,4.75
+M00077,Merchant 00077,Palo Alto,Mediterranean,SMB,2025-07-06,1,1,3.82
+M00078,Merchant 00078,San Jose,Japanese,SMB,2025-03-12,1,0,3.92
+M00079,Merchant 00079,San Jose,Indian,Mid-Market,2023-07-23,1,0,3.74
+M00080,Merchant 00080,Fremont,Japanese,SMB,2021-11-02,1,1,3.08
+M00081,Merchant 00081,Berkeley,American,SMB,2020-09-25,1,1,3.62
+M00082,Merchant 00082,San Francisco,American,SMB,2020-07-13,1,1,4.58
+M00083,Merchant 00083,Berkeley,Chinese,Mid-Market,2025-08-15,1,0,4.43
+M00084,Merchant 00084,Oakland,Italian,SMB,2025-02-20,1,0,4.37
+M00085,Merchant 00085,Berkeley,American,SMB,2022-07-06,1,0,4.25
+M00086,Merchant 00086,Fremont,Italian,SMB,2020-04-02,1,0,4.09
+M00087,Merchant 00087,Oakland,Indian,SMB,2020-10-29,1,1,3.71
+M00088,Merchant 00088,Berkeley,Indian,SMB,2022-05-31,0,0,5.0
+M00089,Merchant 00089,Berkeley,Mexican,SMB,2024-07-05,1,0,4.24
+M00090,Merchant 00090,Oakland,Japanese,SMB,2021-05-20,1,0,4.94
+M00091,Merchant 00091,Fremont,Thai,Mid-Market,2023-10-30,1,0,4.64
+M00092,Merchant 00092,San Jose,Italian,SMB,2022-10-27,0,0,4.39
+M00093,Merchant 00093,Palo Alto,Mediterranean,SMB,2020-03-28,1,0,4.52
+M00094,Merchant 00094,San Jose,Indian,Mid-Market,2020-07-20,1,1,4.03
+M00095,Merchant 00095,Berkeley,Mediterranean,SMB,2023-06-18,1,0,4.88
+M00096,Merchant 00096,Oakland,Thai,SMB,2024-11-21,1,1,4.65
+M00097,Merchant 00097,Fremont,Thai,SMB,2021-04-20,1,0,4.48
+M00098,Merchant 00098,Oakland,Chinese,SMB,2022-11-29,1,0,4.04
+M00099,Merchant 00099,Palo Alto,Japanese,SMB,2023-10-15,0,0,3.82
+M00100,Merchant 00100,Palo Alto,Chinese,SMB,2025-04-05,1,0,4.52
+M00101,Merchant 00101,Palo Alto,Indian,Enterprise,2021-01-10,1,1,4.01
+M00102,Merchant 00102,San Francisco,Mediterranean,Mid-Market,2025-04-28,1,1,3.5
+M00103,Merchant 00103,Oakland,Chinese,SMB,2021-05-31,0,0,3.82
+M00104,Merchant 00104,San Francisco,Indian,SMB,2024-02-18,1,1,4.83
+M00105,Merchant 00105,San Jose,Italian,SMB,2022-07-20,1,0,3.83
+M00106,Merchant 00106,Berkeley,Italian,Mid-Market,2021-10-08,1,1,4.49
+M00107,Merchant 00107,San Jose,Japanese,SMB,2020-06-09,1,0,4.08
+M00108,Merchant 00108,Fremont,Japanese,SMB,2020-06-28,1,1,4.29
+M00109,Merchant 00109,Palo Alto,Mediterranean,SMB,2023-01-15,1,1,4.53
+M00110,Merchant 00110,Palo Alto,Indian,SMB,2023-08-16,1,0,4.22
+M00111,Merchant 00111,Palo Alto,Mexican,SMB,2024-07-20,1,1,3.92
+M00112,Merchant 00112,Fremont,Indian,SMB,2021-02-25,1,0,4.38
+M00113,Merchant 00113,Fremont,Mediterranean,SMB,2021-08-25,1,1,3.85
+M00114,Merchant 00114,Fremont,American,SMB,2025-05-29,1,0,4.04
+M00115,Merchant 00115,Oakland,American,SMB,2020-08-09,1,0,4.59
+M00116,Merchant 00116,Oakland,Italian,SMB,2021-04-19,1,0,3.82
+M00117,Merchant 00117,San Francisco,Thai,SMB,2024-05-11,1,1,4.3
+M00118,Merchant 00118,Berkeley,Chinese,SMB,2024-08-12,0,0,4.33
+M00119,Merchant 00119,San Jose,Japanese,SMB,2020-09-24,1,1,4.45
+M00120,Merchant 00120,San Francisco,Italian,Mid-Market,2023-03-06,1,0,4.0
+M00121,Merchant 00121,Fremont,Japanese,SMB,2025-05-11,1,1,3.78
+M00122,Merchant 00122,Oakland,Japanese,SMB,2023-05-09,1,0,4.71
+M00123,Merchant 00123,Fremont,Mediterranean,SMB,2025-07-10,1,1,4.25
+M00124,Merchant 00124,Fremont,Thai,SMB,2024-07-10,1,0,4.34
+M00125,Merchant 00125,Berkeley,Mexican,SMB,2025-07-08,1,1,4.65
+M00126,Merchant 00126,San Jose,Mexican,SMB,2021-01-20,1,1,4.19
+M00127,Merchant 00127,Palo Alto,Thai,SMB,2022-10-25,1,1,4.15
+M00128,Merchant 00128,San Francisco,Thai,SMB,2024-12-12,1,1,3.59
+M00129,Merchant 00129,Fremont,Mexican,SMB,2022-10-13,1,0,4.79
+M00130,Merchant 00130,San Jose,Thai,SMB,2021-08-08,1,1,3.69
+M00131,Merchant 00131,Berkeley,Thai,SMB,2023-02-06,1,1,4.8
+M00132,Merchant 00132,San Francisco,Thai,SMB,2021-09-21,1,1,3.81
+M00133,Merchant 00133,Berkeley,Mexican,Mid-Market,2020-12-26,1,0,4.06
+M00134,Merchant 00134,Oakland,Thai,SMB,2025-03-25,1,1,4.11
+M00135,Merchant 00135,Oakland,Thai,SMB,2025-01-31,1,0,3.78
+M00136,Merchant 00136,Fremont,Italian,SMB,2022-01-27,1,1,3.91
+M00137,Merchant 00137,San Francisco,Italian,SMB,2022-05-20,1,0,4.15
+M00138,Merchant 00138,San Jose,Thai,SMB,2020-12-12,1,1,3.97
+M00139,Merchant 00139,San Francisco,American,SMB,2021-03-09,1,0,4.64
+M00140,Merchant 00140,San Francisco,Mexican,SMB,2024-04-28,1,0,3.83
+M00141,Merchant 00141,San Francisco,Thai,SMB,2021-11-04,1,1,4.06
+M00142,Merchant 00142,San Francisco,Japanese,Mid-Market,2025-05-25,1,0,4.55
+M00143,Merchant 00143,San Francisco,American,SMB,2020-07-23,1,0,3.88
+M00144,Merchant 00144,Berkeley,Chinese,SMB,2020-02-23,1,1,4.37
+M00145,Merchant 00145,Berkeley,Thai,SMB,2022-01-10,1,1,3.51
+M00146,Merchant 00146,Oakland,Thai,SMB,2024-01-17,1,0,5.0
+M00147,Merchant 00147,Oakland,Japanese,SMB,2020-03-21,1,1,4.06
+M00148,Merchant 00148,Palo Alto,Indian,SMB,2025-07-11,1,0,4.4
+M00149,Merchant 00149,Berkeley,Italian,Mid-Market,2022-10-18,1,0,4.04
+M00150,Merchant 00150,Oakland,Chinese,SMB,2025-08-31,0,1,4.01
+M00151,Merchant 00151,Fremont,American,SMB,2022-01-14,1,0,4.62
+M00152,Merchant 00152,San Francisco,Mediterranean,Mid-Market,2021-10-02,1,0,4.92
+M00153,Merchant 00153,Oakland,American,Mid-Market,2022-12-28,0,0,4.51
+M00154,Merchant 00154,San Francisco,Thai,Mid-Market,2022-08-22,1,1,4.12
+M00155,Merchant 00155,Palo Alto,Mediterranean,Mid-Market,2023-10-08,1,1,4.13
+M00156,Merchant 00156,Palo Alto,Mediterranean,SMB,2021-03-11,1,0,4.28
+M00157,Merchant 00157,Berkeley,Italian,SMB,2021-06-20,1,0,4.39
+M00158,Merchant 00158,Berkeley,Mediterranean,Mid-Market,2022-09-28,1,1,4.13
+M00159,Merchant 00159,San Francisco,Mexican,SMB,2025-07-16,1,0,3.72
+M00160,Merchant 00160,Fremont,Thai,SMB,2021-03-22,1,0,4.13
+M00161,Merchant 00161,Berkeley,Mediterranean,SMB,2021-07-27,1,0,4.25
+M00162,Merchant 00162,Oakland,Indian,SMB,2023-02-23,1,1,4.57
+M00163,Merchant 00163,San Francisco,Indian,Enterprise,2023-06-11,1,0,4.32
+M00164,Merchant 00164,Oakland,American,SMB,2020-05-30,1,1,4.35
+M00165,Merchant 00165,Berkeley,Italian,Mid-Market,2024-12-14,1,0,4.29
+M00166,Merchant 00166,San Francisco,Mediterranean,SMB,2024-03-27,1,1,4.69
+M00167,Merchant 00167,Fremont,Italian,SMB,2022-04-20,1,1,3.91
+M00168,Merchant 00168,San Jose,Mexican,Mid-Market,2024-06-19,1,0,4.03
+M00169,Merchant 00169,Oakland,Chinese,SMB,2022-05-07,1,0,4.75
+M00170,Merchant 00170,San Francisco,American,SMB,2024-08-18,1,1,4.18
+M00171,Merchant 00171,San Jose,Japanese,SMB,2025-06-28,1,0,4.15
+M00172,Merchant 00172,Palo Alto,Indian,SMB,2025-06-11,1,1,4.57
+M00173,Merchant 00173,San Francisco,Japanese,SMB,2020-04-09,0,1,4.05
+M00174,Merchant 00174,San Francisco,Thai,SMB,2020-10-01,1,1,4.71
+M00175,Merchant 00175,Palo Alto,Indian,SMB,2024-11-10,0,1,4.35
+M00176,Merchant 00176,Berkeley,Chinese,Mid-Market,2020-11-16,1,0,3.31
+M00177,Merchant 00177,San Jose,Thai,SMB,2020-07-24,1,1,4.42
+M00178,Merchant 00178,San Jose,Chinese,SMB,2024-02-29,1,0,4.97
+M00179,Merchant 00179,Fremont,Japanese,SMB,2023-04-04,1,1,4.71
+M00180,Merchant 00180,San Jose,Mediterranean,Mid-Market,2021-10-11,1,1,3.75
+M00181,Merchant 00181,Oakland,Chinese,SMB,2021-04-10,1,1,4.74
+M00182,Merchant 00182,Palo Alto,Indian,Mid-Market,2025-03-19,1,1,4.08
+M00183,Merchant 00183,Oakland,Mexican,SMB,2024-07-12,1,0,4.2
+M00184,Merchant 00184,Fremont,American,SMB,2022-04-15,1,0,4.22
+M00185,Merchant 00185,Fremont,Chinese,SMB,2021-11-13,1,0,3.97
+M00186,Merchant 00186,Berkeley,Italian,SMB,2022-08-17,1,0,4.28
+M00187,Merchant 00187,San Francisco,Thai,Mid-Market,2023-11-30,1,1,3.9
+M00188,Merchant 00188,San Jose,Thai,SMB,2020-11-07,1,1,4.46
+M00189,Merchant 00189,Berkeley,Mexican,SMB,2023-09-11,1,0,4.28
+M00190,Merchant 00190,San Francisco,Mexican,Mid-Market,2024-05-20,1,1,4.03
+M00191,Merchant 00191,Oakland,Japanese,Mid-Market,2021-06-16,0,1,4.72
+M00192,Merchant 00192,San Francisco,Mediterranean,Mid-Market,2020-09-06,1,1,4.82
+M00193,Merchant 00193,Fremont,Thai,SMB,2024-02-16,1,1,4.43
+M00194,Merchant 00194,San Francisco,Italian,SMB,2020-12-06,1,1,4.21
+M00195,Merchant 00195,Fremont,Italian,Mid-Market,2021-02-17,1,1,4.27
+M00196,Merchant 00196,Palo Alto,Mexican,Enterprise,2023-11-21,1,0,4.46
+M00197,Merchant 00197,San Jose,Mediterranean,Mid-Market,2025-08-15,1,1,4.06
+M00198,Merchant 00198,Fremont,Thai,SMB,2024-11-18,1,1,4.52
+M00199,Merchant 00199,Palo Alto,Chinese,SMB,2024-04-03,1,1,4.38
+M00200,Merchant 00200,Palo Alto,Italian,SMB,2020-10-13,1,0,4.89
+M00201,Merchant 00201,San Jose,Japanese,SMB,2022-08-15,1,0,4.22
+M00202,Merchant 00202,Berkeley,Japanese,SMB,2024-02-18,1,0,5.0
+M00203,Merchant 00203,Palo Alto,Japanese,SMB,2023-03-27,1,0,4.2
+M00204,Merchant 00204,San Francisco,Thai,Mid-Market,2021-12-09,1,1,4.25
+M00205,Merchant 00205,Palo Alto,Mediterranean,SMB,2020-09-24,1,0,3.57
+M00206,Merchant 00206,Oakland,Japanese,Mid-Market,2025-04-19,1,0,4.45
+M00207,Merchant 00207,Oakland,Chinese,SMB,2025-06-04,1,1,3.87
+M00208,Merchant 00208,Berkeley,Mexican,SMB,2020-04-11,1,0,3.67
+M00209,Merchant 00209,San Francisco,Mediterranean,SMB,2025-02-14,0,1,4.71
+M00210,Merchant 00210,Oakland,Indian,SMB,2023-08-27,1,0,4.24
+M00211,Merchant 00211,Berkeley,Chinese,SMB,2022-12-10,1,0,4.17
+M00212,Merchant 00212,Palo Alto,Mexican,SMB,2023-06-03,1,0,4.77
+M00213,Merchant 00213,Palo Alto,Indian,Mid-Market,2020-03-11,1,0,3.94
+M00214,Merchant 00214,Oakland,Indian,SMB,2024-09-01,0,0,3.9
+M00215,Merchant 00215,Oakland,Chinese,SMB,2020-10-01,1,0,4.72
+M00216,Merchant 00216,Oakland,Mexican,SMB,2023-05-05,1,1,4.03
+M00217,Merchant 00217,San Jose,Japanese,Enterprise,2020-03-07,1,0,5.0
+M00218,Merchant 00218,Oakland,Japanese,Mid-Market,2020-06-22,1,0,4.49
+M00219,Merchant 00219,Fremont,Mediterranean,SMB,2023-05-13,1,0,4.87
+M00220,Merchant 00220,San Francisco,Thai,SMB,2025-08-04,1,0,3.67
+M00221,Merchant 00221,Oakland,Italian,SMB,2022-12-22,1,1,4.05
+M00222,Merchant 00222,Oakland,Italian,SMB,2020-03-26,1,1,4.16
+M00223,Merchant 00223,Fremont,Chinese,SMB,2025-01-21,1,0,4.02
+M00224,Merchant 00224,Oakland,Thai,SMB,2022-02-04,1,0,3.96
+M00225,Merchant 00225,Oakland,Chinese,SMB,2024-08-15,0,0,4.46
+M00226,Merchant 00226,Berkeley,Italian,SMB,2021-10-28,1,0,4.04
+M00227,Merchant 00227,Palo Alto,Indian,SMB,2022-09-07,1,1,3.48
+M00228,Merchant 00228,San Francisco,Thai,Mid-Market,2025-01-05,1,1,4.65
+M00229,Merchant 00229,Oakland,Japanese,SMB,2023-07-21,1,1,3.84
+M00230,Merchant 00230,Palo Alto,Italian,SMB,2022-09-14,1,0,4.04
+M00231,Merchant 00231,San Francisco,Mexican,Mid-Market,2020-09-02,1,0,4.44
+M00232,Merchant 00232,Berkeley,Thai,SMB,2023-05-16,0,0,3.58
+M00233,Merchant 00233,Palo Alto,Thai,Enterprise,2025-03-13,0,1,4.14
+M00234,Merchant 00234,San Jose,Japanese,SMB,2020-05-19,1,1,2.82
+M00235,Merchant 00235,Palo Alto,Japanese,Enterprise,2021-05-19,1,0,3.7
+M00236,Merchant 00236,San Jose,Indian,SMB,2023-11-19,1,0,4.48
+M00237,Merchant 00237,Palo Alto,Italian,Mid-Market,2024-05-08,1,0,4.8
+M00238,Merchant 00238,San Francisco,Mexican,Mid-Market,2023-08-08,1,1,3.37
+M00239,Merchant 00239,Berkeley,Thai,SMB,2024-05-15,1,1,4.36
+M00240,Merchant 00240,San Jose,Japanese,SMB,2023-02-19,1,0,3.5
+M00241,Merchant 00241,San Jose,American,SMB,2020-12-27,1,0,4.12
+M00242,Merchant 00242,Oakland,Mediterranean,SMB,2022-03-12,1,0,4.32
+M00243,Merchant 00243,Fremont,Mexican,SMB,2021-06-30,1,1,4.15
+M00244,Merchant 00244,San Jose,American,SMB,2021-04-15,1,0,4.31
+M00245,Merchant 00245,San Jose,Mediterranean,SMB,2022-02-23,0,1,4.0
+M00246,Merchant 00246,San Francisco,Thai,SMB,2021-06-09,1,0,3.85
+M00247,Merchant 00247,Palo Alto,Mediterranean,SMB,2020-10-11,1,0,4.36
+M00248,Merchant 00248,San Jose,Thai,Mid-Market,2023-03-01,0,0,4.61
+M00249,Merchant 00249,Palo Alto,Mediterranean,SMB,2020-10-07,1,1,3.74
+M00250,Merchant 00250,Oakland,Indian,SMB,2020-11-11,1,0,4.31
+M00251,Merchant 00251,Palo Alto,American,Mid-Market,2023-05-03,1,0,4.45
+M00252,Merchant 00252,San Francisco,Japanese,Mid-Market,2025-01-06,1,0,4.27
+M00253,Merchant 00253,Oakland,Thai,Mid-Market,2023-04-03,1,0,3.91
+M00254,Merchant 00254,San Francisco,Mexican,SMB,2025-08-10,1,1,4.35
+M00255,Merchant 00255,Berkeley,Mediterranean,SMB,2024-04-14,1,1,3.93
+M00256,Merchant 00256,San Jose,Thai,Enterprise,2022-07-09,1,1,3.99
+M00257,Merchant 00257,San Jose,Mediterranean,SMB,2020-07-02,1,0,4.48
+M00258,Merchant 00258,Berkeley,Mediterranean,SMB,2021-08-21,1,1,4.06
+M00259,Merchant 00259,San Jose,Thai,Mid-Market,2025-08-23,1,1,3.85
+M00260,Merchant 00260,San Francisco,Chinese,SMB,2021-04-02,1,1,4.29
+M00261,Merchant 00261,Oakland,American,SMB,2025-05-17,1,1,4.2
+M00262,Merchant 00262,Palo Alto,Chinese,SMB,2024-04-24,1,0,4.58
+M00263,Merchant 00263,Palo Alto,Japanese,SMB,2025-06-14,0,0,4.3
+M00264,Merchant 00264,Palo Alto,Mediterranean,Mid-Market,2020-12-31,1,0,4.67
+M00265,Merchant 00265,San Francisco,Mexican,Mid-Market,2025-08-20,1,0,3.85
+M00266,Merchant 00266,Fremont,Japanese,SMB,2022-01-15,1,0,4.31
+M00267,Merchant 00267,Fremont,Mexican,SMB,2022-03-24,1,0,3.96
+M00268,Merchant 00268,San Francisco,Japanese,SMB,2020-12-19,1,0,3.98
+M00269,Merchant 00269,Oakland,Mediterranean,Mid-Market,2024-02-02,0,1,3.86
+M00270,Merchant 00270,Palo Alto,Japanese,SMB,2025-08-04,1,0,4.21
+M00271,Merchant 00271,Fremont,Italian,SMB,2023-07-01,1,0,3.94
+M00272,Merchant 00272,San Jose,Italian,Mid-Market,2023-02-05,1,0,4.79
+M00273,Merchant 00273,San Jose,Thai,SMB,2021-10-05,1,1,4.63
+M00274,Merchant 00274,Fremont,Chinese,Mid-Market,2025-01-12,1,0,3.74
+M00275,Merchant 00275,San Francisco,Thai,SMB,2024-07-28,1,1,4.56
+M00276,Merchant 00276,Palo Alto,Mexican,SMB,2024-08-30,1,0,3.9
+M00277,Merchant 00277,Palo Alto,Mexican,Mid-Market,2021-08-22,1,0,4.7
+M00278,Merchant 00278,San Francisco,Italian,SMB,2022-04-19,1,0,4.87
+M00279,Merchant 00279,San Jose,Japanese,Enterprise,2021-05-24,1,0,3.92
+M00280,Merchant 00280,San Francisco,Italian,SMB,2024-02-13,1,0,4.27
+M00281,Merchant 00281,Palo Alto,Japanese,Mid-Market,2025-01-31,1,1,4.57
+M00282,Merchant 00282,Palo Alto,Thai,Mid-Market,2024-10-29,1,0,4.83
+M00283,Merchant 00283,Berkeley,Japanese,Enterprise,2022-06-18,1,1,3.7
+M00284,Merchant 00284,Fremont,Indian,SMB,2022-04-05,1,0,4.61
+M00285,Merchant 00285,San Jose,Italian,SMB,2023-08-04,1,0,4.24
+M00286,Merchant 00286,Oakland,Mexican,Mid-Market,2021-09-11,1,0,4.23
+M00287,Merchant 00287,Fremont,Thai,SMB,2020-07-03,1,0,4.13
+M00288,Merchant 00288,Palo Alto,Italian,SMB,2024-06-05,1,0,4.61
+M00289,Merchant 00289,Palo Alto,Japanese,Mid-Market,2023-11-27,1,0,4.3
+M00290,Merchant 00290,Berkeley,Italian,SMB,2024-01-20,1,0,4.99
+M00291,Merchant 00291,San Francisco,Japanese,SMB,2024-09-03,1,0,3.89
+M00292,Merchant 00292,San Francisco,Italian,Mid-Market,2021-12-06,1,1,4.81
+M00293,Merchant 00293,San Francisco,Italian,SMB,2021-11-14,0,1,3.97
+M00294,Merchant 00294,Fremont,Thai,SMB,2023-11-05,1,0,4.3
+M00295,Merchant 00295,Oakland,Indian,SMB,2024-06-14,1,0,4.06
+M00296,Merchant 00296,San Francisco,Japanese,Mid-Market,2020-03-16,1,1,3.98
+M00297,Merchant 00297,Palo Alto,Japanese,SMB,2024-11-19,1,1,4.49
+M00298,Merchant 00298,Oakland,Mexican,Mid-Market,2024-09-16,1,0,4.16
+M00299,Merchant 00299,Palo Alto,Indian,SMB,2024-01-24,1,0,4.83
+M00300,Merchant 00300,San Jose,Mediterranean,SMB,2024-08-04,1,0,3.45
+M00301,Merchant 00301,Oakland,Italian,SMB,2023-04-15,0,0,5.0
+M00302,Merchant 00302,San Francisco,Mediterranean,SMB,2024-01-08,1,0,5.0
+M00303,Merchant 00303,Fremont,Mexican,SMB,2025-02-12,1,0,3.51
+M00304,Merchant 00304,Berkeley,Japanese,SMB,2024-01-15,1,1,4.14
+M00305,Merchant 00305,San Francisco,Indian,SMB,2025-06-14,1,0,4.76
+M00306,Merchant 00306,Oakland,Italian,SMB,2022-08-09,1,0,4.31
+M00307,Merchant 00307,Oakland,Chinese,Mid-Market,2023-12-27,1,0,5.0
+M00308,Merchant 00308,San Francisco,Thai,Enterprise,2020-03-23,1,1,3.95
+M00309,Merchant 00309,San Jose,Thai,Mid-Market,2023-09-27,1,0,3.96
+M00310,Merchant 00310,Oakland,Chinese,SMB,2020-09-01,1,1,3.89
+M00311,Merchant 00311,Berkeley,Japanese,SMB,2022-09-01,1,0,3.72
+M00312,Merchant 00312,Oakland,Chinese,SMB,2021-03-29,1,0,4.03
+M00313,Merchant 00313,San Jose,Mexican,Mid-Market,2022-10-31,1,1,4.3
+M00314,Merchant 00314,San Francisco,American,Mid-Market,2024-01-13,1,1,4.41
+M00315,Merchant 00315,Fremont,Italian,SMB,2020-12-16,1,1,4.28
+M00316,Merchant 00316,San Francisco,Mediterranean,SMB,2023-03-25,1,0,4.33
+M00317,Merchant 00317,Fremont,Japanese,Mid-Market,2024-11-18,1,1,4.16
+M00318,Merchant 00318,San Francisco,Indian,SMB,2024-03-27,1,0,3.99
+M00319,Merchant 00319,Berkeley,Mexican,SMB,2022-08-05,1,1,4.68
+M00320,Merchant 00320,San Francisco,Mediterranean,SMB,2021-11-18,1,0,3.89
+M00321,Merchant 00321,Fremont,Indian,SMB,2022-05-27,1,1,4.02
+M00322,Merchant 00322,Fremont,Mediterranean,Mid-Market,2024-03-08,0,1,4.34
+M00323,Merchant 00323,Fremont,Mediterranean,SMB,2025-08-26,1,0,4.09
+M00324,Merchant 00324,Fremont,Thai,SMB,2023-05-09,1,0,3.9
+M00325,Merchant 00325,San Francisco,Japanese,SMB,2024-02-11,1,1,4.07
+M00326,Merchant 00326,San Francisco,Indian,SMB,2020-12-26,1,1,4.26
+M00327,Merchant 00327,San Jose,Mexican,SMB,2024-09-26,1,0,3.91
+M00328,Merchant 00328,San Francisco,Mexican,SMB,2022-10-01,1,1,4.33
+M00329,Merchant 00329,San Jose,Mexican,SMB,2023-09-28,1,0,3.87
+M00330,Merchant 00330,Palo Alto,American,SMB,2023-10-14,1,0,4.08
+M00331,Merchant 00331,San Jose,Chinese,Mid-Market,2023-01-14,1,1,4.63
+M00332,Merchant 00332,Berkeley,American,Mid-Market,2023-02-17,0,1,4.39
+M00333,Merchant 00333,San Jose,Chinese,SMB,2021-05-31,1,1,4.06
+M00334,Merchant 00334,San Francisco,Indian,Mid-Market,2020-05-06,1,0,4.19
+M00335,Merchant 00335,Oakland,Italian,SMB,2023-10-27,1,0,4.45
+M00336,Merchant 00336,San Francisco,Japanese,Mid-Market,2024-10-24,1,0,3.37
+M00337,Merchant 00337,Oakland,Thai,SMB,2025-07-09,1,0,4.0
+M00338,Merchant 00338,San Francisco,Italian,SMB,2022-08-06,1,1,3.76
+M00339,Merchant 00339,Berkeley,Italian,SMB,2024-10-19,1,0,4.14
+M00340,Merchant 00340,Palo Alto,Mexican,Mid-Market,2020-04-03,1,0,4.26
+M00341,Merchant 00341,Oakland,Mediterranean,Enterprise,2021-07-29,1,0,4.69
+M00342,Merchant 00342,Oakland,American,SMB,2021-04-26,0,1,4.0
+M00343,Merchant 00343,San Jose,Mediterranean,SMB,2024-11-24,1,0,4.4
+M00344,Merchant 00344,Fremont,Italian,SMB,2023-04-17,1,0,4.58
+M00345,Merchant 00345,Fremont,Mexican,Enterprise,2023-05-07,1,1,4.49
+M00346,Merchant 00346,Fremont,American,SMB,2021-02-21,1,0,4.53
+M00347,Merchant 00347,San Jose,Thai,SMB,2020-08-31,1,0,4.02
+M00348,Merchant 00348,San Francisco,Japanese,SMB,2021-07-14,1,0,4.51
+M00349,Merchant 00349,Palo Alto,Chinese,Mid-Market,2023-09-15,1,0,4.6
+M00350,Merchant 00350,Palo Alto,Italian,SMB,2020-06-16,1,0,4.28
+M00351,Merchant 00351,Oakland,American,SMB,2023-08-16,1,1,4.09
+M00352,Merchant 00352,Oakland,American,Enterprise,2020-03-15,0,1,4.23
+M00353,Merchant 00353,San Francisco,Indian,SMB,2022-12-11,1,0,4.05
+M00354,Merchant 00354,Berkeley,Chinese,SMB,2024-11-07,1,0,4.06
+M00355,Merchant 00355,Fremont,Thai,Mid-Market,2023-09-14,0,0,5.0
+M00356,Merchant 00356,Oakland,American,Enterprise,2025-08-31,1,1,4.34
+M00357,Merchant 00357,Berkeley,Indian,SMB,2024-03-19,1,0,4.75
+M00358,Merchant 00358,San Francisco,American,SMB,2024-06-21,1,1,4.12
+M00359,Merchant 00359,Oakland,American,SMB,2020-03-15,1,0,4.26
+M00360,Merchant 00360,Palo Alto,Mediterranean,SMB,2022-11-02,1,1,4.47
+M00361,Merchant 00361,Berkeley,Mexican,SMB,2023-09-15,1,0,4.0
+M00362,Merchant 00362,Oakland,Mexican,SMB,2022-02-17,1,1,4.01
+M00363,Merchant 00363,Palo Alto,Chinese,SMB,2024-09-13,1,1,4.6
+M00364,Merchant 00364,Berkeley,Mediterranean,SMB,2025-07-21,1,0,4.32
+M00365,Merchant 00365,Palo Alto,Thai,SMB,2024-12-01,1,0,4.05
+M00366,Merchant 00366,Palo Alto,Japanese,SMB,2023-11-20,1,1,4.28
+M00367,Merchant 00367,San Jose,Mediterranean,SMB,2021-09-23,1,0,4.33
+M00368,Merchant 00368,Palo Alto,American,Mid-Market,2024-11-12,1,1,4.64
+M00369,Merchant 00369,Berkeley,Mediterranean,SMB,2023-08-22,1,0,4.13
+M00370,Merchant 00370,Palo Alto,Japanese,Enterprise,2020-11-27,1,1,3.96
+M00371,Merchant 00371,San Francisco,Thai,SMB,2024-03-18,1,0,4.74
+M00372,Merchant 00372,Oakland,American,SMB,2024-08-26,0,0,5.0
+M00373,Merchant 00373,San Jose,Mexican,Mid-Market,2020-08-23,1,0,4.45
+M00374,Merchant 00374,Fremont,Mexican,Enterprise,2022-09-03,0,1,4.77
+M00375,Merchant 00375,Fremont,Japanese,SMB,2023-02-28,1,0,3.94
+M00376,Merchant 00376,San Francisco,American,SMB,2023-01-11,0,1,4.29
+M00377,Merchant 00377,Berkeley,American,SMB,2024-06-25,1,0,4.01
+M00378,Merchant 00378,Fremont,Japanese,Mid-Market,2020-11-30,1,0,4.29
+M00379,Merchant 00379,Palo Alto,Japanese,SMB,2023-04-22,0,0,4.15
+M00380,Merchant 00380,Fremont,American,Enterprise,2025-05-16,1,1,4.06
+M00381,Merchant 00381,San Francisco,American,Mid-Market,2025-01-21,0,0,3.97
+M00382,Merchant 00382,San Francisco,Indian,SMB,2020-06-20,1,0,3.74
+M00383,Merchant 00383,Oakland,Japanese,Mid-Market,2025-08-18,1,0,3.97
+M00384,Merchant 00384,Oakland,Japanese,Mid-Market,2024-11-25,1,1,4.49
+M00385,Merchant 00385,San Jose,Mexican,SMB,2023-10-04,1,1,3.98
+M00386,Merchant 00386,Fremont,American,SMB,2021-12-08,1,1,4.39
+M00387,Merchant 00387,Palo Alto,Mediterranean,SMB,2023-01-14,1,1,4.19
+M00388,Merchant 00388,San Jose,Italian,Enterprise,2021-01-21,1,1,4.1
+M00389,Merchant 00389,San Jose,Thai,SMB,2020-11-21,1,0,3.98
+M00390,Merchant 00390,Oakland,Japanese,SMB,2023-12-22,0,1,4.01
+M00391,Merchant 00391,Fremont,Japanese,SMB,2020-11-13,1,0,4.07
+M00392,Merchant 00392,San Jose,Italian,SMB,2023-12-28,1,1,3.83
+M00393,Merchant 00393,San Francisco,American,SMB,2025-04-17,1,0,4.01
+M00394,Merchant 00394,Oakland,Thai,Mid-Market,2024-02-21,1,1,4.26
+M00395,Merchant 00395,Berkeley,Japanese,SMB,2022-02-28,1,0,4.13
+M00396,Merchant 00396,Palo Alto,Mediterranean,SMB,2024-02-19,1,0,4.17
+M00397,Merchant 00397,Palo Alto,Chinese,Mid-Market,2024-10-03,1,0,4.72
+M00398,Merchant 00398,San Jose,Mexican,SMB,2024-07-09,1,0,4.79
+M00399,Merchant 00399,Fremont,Indian,Mid-Market,2020-11-22,1,0,3.75
+M00400,Merchant 00400,Palo Alto,Indian,SMB,2023-11-23,0,0,4.71
+M00401,Merchant 00401,Palo Alto,Mediterranean,Enterprise,2024-10-25,1,1,4.04
+M00402,Merchant 00402,Palo Alto,Japanese,SMB,2022-10-20,1,0,4.28
+M00403,Merchant 00403,San Jose,Mexican,SMB,2024-11-27,1,0,4.56
+M00404,Merchant 00404,San Francisco,Mexican,Mid-Market,2024-04-11,1,0,4.24
+M00405,Merchant 00405,Berkeley,Indian,SMB,2025-03-28,1,1,3.98
+M00406,Merchant 00406,Fremont,Italian,SMB,2021-03-16,1,1,4.22
+M00407,Merchant 00407,San Jose,Chinese,Mid-Market,2022-10-06,1,0,4.19
+M00408,Merchant 00408,San Francisco,Indian,Enterprise,2024-07-19,1,0,4.95
+M00409,Merchant 00409,Fremont,Indian,SMB,2023-10-20,1,1,4.42
+M00410,Merchant 00410,San Francisco,Japanese,SMB,2023-08-11,0,1,4.5
+M00411,Merchant 00411,Berkeley,Mediterranean,SMB,2024-04-19,1,0,5.0
+M00412,Merchant 00412,Berkeley,Chinese,Enterprise,2022-09-09,1,0,3.98
+M00413,Merchant 00413,Oakland,Thai,SMB,2024-10-06,1,1,4.28
+M00414,Merchant 00414,Fremont,Mexican,SMB,2020-04-05,1,0,3.92
+M00415,Merchant 00415,Palo Alto,Chinese,SMB,2024-07-29,1,0,4.25
+M00416,Merchant 00416,San Francisco,American,SMB,2020-10-27,1,0,4.55
+M00417,Merchant 00417,San Jose,American,SMB,2024-11-17,1,0,4.21
+M00418,Merchant 00418,San Francisco,Chinese,SMB,2023-08-26,1,1,4.58
+M00419,Merchant 00419,San Francisco,Mexican,SMB,2023-04-24,1,0,5.0
+M00420,Merchant 00420,Fremont,Italian,SMB,2025-08-01,1,0,4.34
+M00421,Merchant 00421,San Francisco,Thai,Enterprise,2021-04-27,1,0,4.24
+M00422,Merchant 00422,San Jose,Mediterranean,Mid-Market,2020-03-28,1,0,3.89
+M00423,Merchant 00423,San Francisco,Thai,Enterprise,2023-12-07,1,0,4.65
+M00424,Merchant 00424,Fremont,American,Mid-Market,2020-11-22,1,0,3.81
+M00425,Merchant 00425,San Jose,Indian,SMB,2021-08-23,1,1,4.48
+M00426,Merchant 00426,San Francisco,Italian,SMB,2022-10-25,1,0,4.43
+M00427,Merchant 00427,Palo Alto,Mexican,SMB,2022-01-29,1,1,4.48
+M00428,Merchant 00428,San Jose,Indian,SMB,2022-05-24,1,0,4.04
+M00429,Merchant 00429,Oakland,Italian,SMB,2021-11-13,1,1,4.17
+M00430,Merchant 00430,San Jose,Mexican,SMB,2021-11-30,1,1,4.53
+M00431,Merchant 00431,Oakland,Japanese,SMB,2021-04-02,1,0,5.0
+M00432,Merchant 00432,San Francisco,Japanese,SMB,2022-03-18,1,1,3.94
+M00433,Merchant 00433,San Jose,Thai,SMB,2020-07-03,1,0,4.29
+M00434,Merchant 00434,Berkeley,Japanese,SMB,2024-07-18,1,1,4.09
+M00435,Merchant 00435,Fremont,Japanese,SMB,2023-07-14,1,1,4.35
+M00436,Merchant 00436,Palo Alto,Italian,SMB,2020-12-31,1,0,3.85
+M00437,Merchant 00437,Palo Alto,Japanese,SMB,2022-02-07,1,1,4.42
+M00438,Merchant 00438,Berkeley,Italian,Mid-Market,2021-08-31,1,0,4.6
+M00439,Merchant 00439,Palo Alto,Mediterranean,SMB,2022-09-26,1,0,4.5
+M00440,Merchant 00440,San Francisco,American,SMB,2021-03-24,0,1,3.86
+M00441,Merchant 00441,Oakland,Mexican,SMB,2021-10-21,1,1,3.8
+M00442,Merchant 00442,Palo Alto,Indian,SMB,2021-05-08,1,1,4.12
+M00443,Merchant 00443,San Francisco,Mediterranean,Mid-Market,2021-03-29,1,1,4.51
+M00444,Merchant 00444,Palo Alto,Thai,SMB,2021-04-06,1,1,3.78
+M00445,Merchant 00445,Palo Alto,American,SMB,2025-05-03,1,1,4.78
+M00446,Merchant 00446,Berkeley,American,SMB,2024-07-18,1,1,3.96
+M00447,Merchant 00447,San Francisco,Italian,Enterprise,2021-03-30,1,1,4.58
+M00448,Merchant 00448,Fremont,Italian,SMB,2024-05-09,1,1,3.93
+M00449,Merchant 00449,Palo Alto,Mediterranean,SMB,2024-09-26,1,0,4.54
+M00450,Merchant 00450,Fremont,Mediterranean,SMB,2022-12-24,1,0,3.52
+M00451,Merchant 00451,Oakland,American,Mid-Market,2020-10-15,1,1,4.24
+M00452,Merchant 00452,Berkeley,American,SMB,2021-03-10,1,0,3.89
+M00453,Merchant 00453,Fremont,Thai,SMB,2021-06-15,1,0,4.64
+M00454,Merchant 00454,San Francisco,Italian,Mid-Market,2021-06-16,1,1,4.13
+M00455,Merchant 00455,Berkeley,Mediterranean,SMB,2021-03-19,1,0,3.59
+M00456,Merchant 00456,San Jose,Indian,SMB,2020-10-08,1,0,4.73
+M00457,Merchant 00457,San Jose,Indian,SMB,2021-10-03,1,0,3.72
+M00458,Merchant 00458,Oakland,Mexican,Mid-Market,2023-05-05,1,0,4.53
+M00459,Merchant 00459,Berkeley,Mediterranean,SMB,2022-03-25,1,0,4.57
+M00460,Merchant 00460,Berkeley,Indian,SMB,2021-06-28,1,1,4.09
+M00461,Merchant 00461,San Jose,Japanese,SMB,2021-04-28,1,1,3.76
+M00462,Merchant 00462,Berkeley,Italian,Mid-Market,2022-04-04,1,1,4.24
+M00463,Merchant 00463,Oakland,Chinese,Mid-Market,2022-01-02,1,0,3.83
+M00464,Merchant 00464,Oakland,Japanese,SMB,2022-06-03,0,0,3.79
+M00465,Merchant 00465,San Francisco,Japanese,Mid-Market,2021-07-03,1,1,3.89
+M00466,Merchant 00466,Fremont,Chinese,Mid-Market,2021-08-05,0,1,4.45
+M00467,Merchant 00467,San Francisco,Italian,SMB,2022-04-28,1,1,3.93
+M00468,Merchant 00468,San Jose,Mediterranean,SMB,2021-10-08,1,0,3.95
+M00469,Merchant 00469,Palo Alto,Mexican,Mid-Market,2025-06-23,1,0,4.38
+M00470,Merchant 00470,Palo Alto,Italian,SMB,2022-05-23,1,1,4.24
+M00471,Merchant 00471,Oakland,Mediterranean,SMB,2025-07-24,1,0,3.93
+M00472,Merchant 00472,Palo Alto,Mediterranean,SMB,2021-05-12,1,1,3.97
+M00473,Merchant 00473,Oakland,Japanese,SMB,2024-09-23,1,0,4.07
+M00474,Merchant 00474,San Francisco,Indian,Mid-Market,2025-08-04,1,1,3.92
+M00475,Merchant 00475,Oakland,Japanese,SMB,2025-04-06,1,1,4.19
+M00476,Merchant 00476,Oakland,American,SMB,2023-11-21,1,0,3.66
+M00477,Merchant 00477,San Jose,Thai,SMB,2020-07-23,1,0,4.5
+M00478,Merchant 00478,Palo Alto,Japanese,SMB,2021-02-16,1,0,4.28
+M00479,Merchant 00479,Oakland,Mediterranean,SMB,2022-06-13,1,1,4.39
+M00480,Merchant 00480,San Jose,Thai,SMB,2020-05-28,1,1,4.27
+M00481,Merchant 00481,Palo Alto,Mediterranean,SMB,2023-09-10,1,0,4.66
+M00482,Merchant 00482,Oakland,Thai,Enterprise,2022-05-14,1,0,4.52
+M00483,Merchant 00483,San Jose,Italian,SMB,2023-03-09,1,1,3.88
+M00484,Merchant 00484,San Jose,Italian,SMB,2025-07-22,1,1,4.7
+M00485,Merchant 00485,San Jose,Thai,SMB,2022-01-06,1,1,4.88
+M00486,Merchant 00486,San Jose,Italian,SMB,2020-05-29,0,0,4.51
+M00487,Merchant 00487,Palo Alto,Mediterranean,SMB,2025-08-04,1,0,4.02
+M00488,Merchant 00488,Berkeley,Japanese,Mid-Market,2023-10-03,1,0,4.0
+M00489,Merchant 00489,San Jose,American,Mid-Market,2021-01-27,1,0,4.22
+M00490,Merchant 00490,San Francisco,American,SMB,2020-09-24,1,0,4.0
+M00491,Merchant 00491,Oakland,Italian,SMB,2022-01-04,1,0,3.83
+M00492,Merchant 00492,Palo Alto,Thai,Enterprise,2022-12-02,1,1,4.22
+M00493,Merchant 00493,San Francisco,Italian,SMB,2021-06-18,1,1,4.67
+M00494,Merchant 00494,Oakland,Thai,Mid-Market,2023-08-04,1,0,4.32
+M00495,Merchant 00495,Oakland,American,SMB,2020-03-27,1,0,4.39
+M00496,Merchant 00496,Oakland,Mexican,Enterprise,2021-09-11,1,0,4.48
+M00497,Merchant 00497,Oakland,Japanese,SMB,2022-09-08,1,0,4.02
+M00498,Merchant 00498,Fremont,Mexican,SMB,2022-06-18,1,0,3.89
+M00499,Merchant 00499,Fremont,Mediterranean,Enterprise,2023-12-23,1,0,4.84
+M00500,Merchant 00500,Berkeley,Mexican,Mid-Market,2021-02-08,1,0,4.62
+M00501,Merchant 00501,Fremont,American,SMB,2024-11-29,1,0,4.41
+M00502,Merchant 00502,Oakland,Thai,SMB,2025-02-12,1,0,4.31
+M00503,Merchant 00503,Berkeley,Mexican,SMB,2024-12-29,1,0,4.38
+M00504,Merchant 00504,San Francisco,Chinese,SMB,2020-09-16,1,1,4.25
+M00505,Merchant 00505,Berkeley,Mediterranean,SMB,2023-05-16,1,1,4.35
+M00506,Merchant 00506,Oakland,Italian,SMB,2021-02-19,1,0,3.94
+M00507,Merchant 00507,Palo Alto,Thai,Mid-Market,2022-11-06,1,1,3.49
+M00508,Merchant 00508,Fremont,Mediterranean,SMB,2025-06-18,1,0,3.58
+M00509,Merchant 00509,San Jose,American,SMB,2022-02-23,1,1,4.14
+M00510,Merchant 00510,Oakland,Japanese,SMB,2023-03-30,1,1,4.59
+M00511,Merchant 00511,San Francisco,Thai,SMB,2023-10-24,1,0,5.0
+M00512,Merchant 00512,San Jose,Japanese,SMB,2021-08-24,1,1,4.8
+M00513,Merchant 00513,Palo Alto,Italian,SMB,2022-02-23,1,0,4.4
+M00514,Merchant 00514,San Jose,Mediterranean,Mid-Market,2022-10-05,1,1,5.0
+M00515,Merchant 00515,San Francisco,Japanese,SMB,2021-10-02,1,0,4.17
+M00516,Merchant 00516,Palo Alto,Chinese,Mid-Market,2021-02-21,1,1,4.01
+M00517,Merchant 00517,San Francisco,Mediterranean,SMB,2020-05-07,0,0,3.45
+M00518,Merchant 00518,San Jose,Mexican,SMB,2023-02-05,1,0,4.55
+M00519,Merchant 00519,Berkeley,Mexican,Mid-Market,2024-04-17,1,1,4.28
+M00520,Merchant 00520,Oakland,Japanese,SMB,2022-02-09,1,1,3.73
+M00521,Merchant 00521,Fremont,Indian,Mid-Market,2021-03-18,1,0,4.28
+M00522,Merchant 00522,San Jose,Japanese,Mid-Market,2022-03-15,1,1,3.78
+M00523,Merchant 00523,Fremont,American,SMB,2024-07-20,1,0,3.89
+M00524,Merchant 00524,San Jose,Mexican,SMB,2021-06-09,1,0,4.55
+M00525,Merchant 00525,Palo Alto,Mexican,Mid-Market,2022-07-01,1,0,4.68
+M00526,Merchant 00526,Oakland,Italian,Mid-Market,2021-12-18,1,0,4.46
+M00527,Merchant 00527,Oakland,Japanese,SMB,2021-08-07,1,0,4.37
+M00528,Merchant 00528,Fremont,Italian,SMB,2022-09-24,1,0,4.09
+M00529,Merchant 00529,Oakland,Japanese,Mid-Market,2021-06-14,1,0,4.33
+M00530,Merchant 00530,Palo Alto,Mexican,SMB,2023-01-30,1,0,4.59
+M00531,Merchant 00531,Berkeley,American,Mid-Market,2022-11-04,1,0,4.16
+M00532,Merchant 00532,San Francisco,Thai,SMB,2023-02-17,1,0,4.29
+M00533,Merchant 00533,San Jose,American,SMB,2023-01-21,1,0,4.58
+M00534,Merchant 00534,San Jose,Chinese,Mid-Market,2024-10-01,1,1,4.33
+M00535,Merchant 00535,Oakland,Japanese,Enterprise,2024-04-30,1,0,4.06
+M00536,Merchant 00536,Berkeley,Thai,SMB,2021-10-19,1,0,4.87
+M00537,Merchant 00537,Fremont,American,SMB,2021-11-05,1,1,3.98
+M00538,Merchant 00538,San Jose,Chinese,SMB,2024-10-23,1,0,4.56
+M00539,Merchant 00539,Palo Alto,Japanese,SMB,2024-12-16,1,0,3.57
+M00540,Merchant 00540,San Jose,Italian,Enterprise,2023-12-15,1,0,4.1
+M00541,Merchant 00541,Oakland,Japanese,SMB,2024-09-22,1,1,3.96
+M00542,Merchant 00542,San Francisco,Mexican,Mid-Market,2023-03-12,1,0,4.4
+M00543,Merchant 00543,Berkeley,Thai,SMB,2020-03-03,1,0,3.95
+M00544,Merchant 00544,San Jose,Italian,SMB,2021-07-24,1,0,4.04
+M00545,Merchant 00545,San Francisco,Japanese,Mid-Market,2023-05-26,1,1,4.59
+M00546,Merchant 00546,San Jose,Japanese,SMB,2021-06-06,1,0,4.35
+M00547,Merchant 00547,San Francisco,Mexican,Mid-Market,2024-10-02,1,0,4.17
+M00548,Merchant 00548,Oakland,Indian,Mid-Market,2021-01-22,0,1,4.86
+M00549,Merchant 00549,Berkeley,Mexican,Mid-Market,2021-09-23,1,1,3.78
+M00550,Merchant 00550,Berkeley,Thai,SMB,2021-11-28,1,0,4.68
+M00551,Merchant 00551,Oakland,American,SMB,2024-10-12,1,1,4.01
+M00552,Merchant 00552,Oakland,Japanese,SMB,2021-01-03,1,0,4.79
+M00553,Merchant 00553,Berkeley,Japanese,SMB,2025-03-22,1,0,4.47
+M00554,Merchant 00554,Fremont,Japanese,SMB,2023-08-30,1,0,4.14
+M00555,Merchant 00555,San Jose,Japanese,SMB,2025-08-23,1,0,4.46
+M00556,Merchant 00556,San Francisco,American,SMB,2021-01-05,1,1,4.29
+M00557,Merchant 00557,San Francisco,American,SMB,2022-02-05,1,1,4.13
+M00558,Merchant 00558,Palo Alto,Mexican,SMB,2020-06-21,1,1,4.45
+M00559,Merchant 00559,San Francisco,American,SMB,2024-06-06,1,1,3.82
+M00560,Merchant 00560,Fremont,Chinese,SMB,2023-09-08,1,1,4.16
+M00561,Merchant 00561,Oakland,Mexican,SMB,2021-02-19,1,1,4.12
+M00562,Merchant 00562,San Jose,Chinese,Mid-Market,2025-03-26,1,1,4.21
+M00563,Merchant 00563,San Jose,Mexican,Mid-Market,2021-01-16,1,0,4.06
+M00564,Merchant 00564,Berkeley,American,SMB,2020-05-27,1,1,4.29
+M00565,Merchant 00565,San Jose,Mexican,Mid-Market,2023-11-26,1,1,3.58
+M00566,Merchant 00566,San Francisco,Italian,SMB,2021-02-10,1,0,4.0
+M00567,Merchant 00567,Berkeley,Indian,SMB,2023-12-17,1,0,3.63
+M00568,Merchant 00568,San Francisco,American,SMB,2022-03-03,1,1,3.91
+M00569,Merchant 00569,San Francisco,Japanese,SMB,2021-12-19,1,0,4.61
+M00570,Merchant 00570,San Jose,Italian,SMB,2020-05-08,1,0,4.36
+M00571,Merchant 00571,San Francisco,Japanese,SMB,2022-02-28,1,1,4.49
+M00572,Merchant 00572,Oakland,Italian,SMB,2023-11-03,1,0,4.83
+M00573,Merchant 00573,Berkeley,Mediterranean,SMB,2021-12-12,0,0,4.12
+M00574,Merchant 00574,Berkeley,Chinese,SMB,2022-08-21,1,0,4.51
+M00575,Merchant 00575,Oakland,Chinese,SMB,2024-04-24,1,1,4.21
+M00576,Merchant 00576,San Francisco,Indian,SMB,2023-05-28,1,0,3.71
+M00577,Merchant 00577,Berkeley,Chinese,SMB,2021-01-27,0,0,4.62
+M00578,Merchant 00578,San Jose,American,Enterprise,2024-10-14,0,0,4.63
+M00579,Merchant 00579,Oakland,Mexican,SMB,2023-10-11,1,0,4.16
+M00580,Merchant 00580,San Jose,Chinese,Mid-Market,2021-10-04,1,0,4.28
+M00581,Merchant 00581,Fremont,American,SMB,2021-08-06,1,0,4.49
+M00582,Merchant 00582,Palo Alto,Thai,SMB,2023-12-17,1,0,3.64
+M00583,Merchant 00583,San Jose,Italian,SMB,2024-06-20,1,0,3.96
+M00584,Merchant 00584,Fremont,Japanese,SMB,2025-08-08,0,1,3.98
+M00585,Merchant 00585,Berkeley,Thai,SMB,2025-05-23,1,0,4.15
+M00586,Merchant 00586,Oakland,Italian,SMB,2021-11-20,1,0,4.06
+M00587,Merchant 00587,San Francisco,Indian,SMB,2020-05-26,1,0,4.61
+M00588,Merchant 00588,Berkeley,Mediterranean,SMB,2023-01-08,1,0,4.08
+M00589,Merchant 00589,San Jose,American,SMB,2025-04-24,1,1,4.29
+M00590,Merchant 00590,San Francisco,Chinese,Mid-Market,2021-05-26,1,0,4.02
+M00591,Merchant 00591,Berkeley,Indian,SMB,2020-12-04,1,0,5.0
+M00592,Merchant 00592,Oakland,Italian,SMB,2021-10-22,1,0,4.15
+M00593,Merchant 00593,Oakland,Chinese,SMB,2025-04-22,1,0,4.14
+M00594,Merchant 00594,Berkeley,Italian,Mid-Market,2025-03-15,1,1,4.22
+M00595,Merchant 00595,Oakland,Italian,SMB,2023-08-03,1,1,4.16
+M00596,Merchant 00596,San Jose,American,SMB,2022-04-29,1,0,4.77
+M00597,Merchant 00597,Palo Alto,Japanese,SMB,2020-10-28,0,1,4.25
+M00598,Merchant 00598,Oakland,Mexican,Mid-Market,2020-03-08,1,1,4.61
+M00599,Merchant 00599,Berkeley,Indian,SMB,2021-09-22,1,0,4.35
+M00600,Merchant 00600,Fremont,Japanese,SMB,2023-03-11,1,0,4.34
+M00601,Merchant 00601,San Jose,Mediterranean,SMB,2020-11-11,1,1,4.67
+M00602,Merchant 00602,Oakland,Japanese,SMB,2021-09-15,1,0,4.32
+M00603,Merchant 00603,San Francisco,Japanese,Mid-Market,2021-10-30,1,1,4.47
+M00604,Merchant 00604,Fremont,Thai,SMB,2023-07-24,1,1,4.59
+M00605,Merchant 00605,Palo Alto,Thai,SMB,2020-05-22,1,1,4.19
+M00606,Merchant 00606,San Jose,Indian,SMB,2023-08-20,0,0,4.31
+M00607,Merchant 00607,Oakland,Mediterranean,SMB,2024-10-17,1,0,4.26
+M00608,Merchant 00608,San Francisco,Chinese,Enterprise,2021-01-07,1,0,4.21
+M00609,Merchant 00609,Berkeley,American,Mid-Market,2020-04-29,1,1,3.92
+M00610,Merchant 00610,San Jose,Thai,SMB,2023-06-14,1,1,4.01
+M00611,Merchant 00611,San Jose,Thai,SMB,2021-12-22,1,0,4.17
+M00612,Merchant 00612,Fremont,Mexican,Mid-Market,2021-05-20,1,0,4.76
+M00613,Merchant 00613,San Jose,American,SMB,2022-04-09,0,0,4.58
+M00614,Merchant 00614,Oakland,Italian,SMB,2024-08-04,1,0,4.55
+M00615,Merchant 00615,San Francisco,American,SMB,2020-05-24,1,1,4.38
+M00616,Merchant 00616,Oakland,Italian,SMB,2021-01-20,1,0,4.14
+M00617,Merchant 00617,Oakland,Chinese,SMB,2024-07-02,1,1,3.88
+M00618,Merchant 00618,Fremont,Italian,SMB,2020-05-10,1,1,3.96
+M00619,Merchant 00619,Oakland,Chinese,SMB,2025-04-02,1,0,4.03
+M00620,Merchant 00620,Oakland,Italian,SMB,2022-12-23,1,0,4.48
+M00621,Merchant 00621,San Francisco,Mexican,SMB,2023-09-10,1,0,4.87
+M00622,Merchant 00622,San Jose,Mexican,SMB,2022-05-10,1,0,4.13
+M00623,Merchant 00623,Palo Alto,American,SMB,2022-08-16,0,0,5.0
+M00624,Merchant 00624,San Francisco,Thai,Mid-Market,2024-09-08,1,0,4.58
+M00625,Merchant 00625,Berkeley,Mexican,Mid-Market,2025-03-07,1,0,4.6
+M00626,Merchant 00626,Palo Alto,Mexican,SMB,2021-11-18,0,0,4.06
+M00627,Merchant 00627,San Jose,Mexican,SMB,2023-06-26,0,1,3.85
+M00628,Merchant 00628,San Francisco,Japanese,SMB,2021-05-08,1,0,4.64
+M00629,Merchant 00629,Oakland,Mediterranean,SMB,2025-07-26,1,1,5.0
+M00630,Merchant 00630,San Francisco,Indian,Mid-Market,2024-12-16,1,1,4.17
+M00631,Merchant 00631,San Jose,Japanese,SMB,2020-07-27,1,0,4.19
+M00632,Merchant 00632,San Francisco,Italian,SMB,2023-08-03,1,1,4.13
+M00633,Merchant 00633,Fremont,Mediterranean,Mid-Market,2023-04-22,1,0,4.61
+M00634,Merchant 00634,San Jose,Thai,SMB,2022-12-05,1,1,4.43
+M00635,Merchant 00635,San Francisco,Mediterranean,SMB,2025-07-19,1,0,3.72
+M00636,Merchant 00636,San Francisco,Indian,SMB,2023-05-08,1,1,3.94
+M00637,Merchant 00637,San Jose,Italian,Mid-Market,2024-02-18,1,0,3.51
+M00638,Merchant 00638,San Francisco,Thai,Mid-Market,2020-09-29,1,1,4.54
+M00639,Merchant 00639,Berkeley,Mexican,Mid-Market,2020-06-21,1,0,4.43
+M00640,Merchant 00640,Palo Alto,Thai,Mid-Market,2023-09-17,1,0,3.77
+M00641,Merchant 00641,Palo Alto,Italian,SMB,2020-03-01,1,0,4.12
+M00642,Merchant 00642,Fremont,Japanese,SMB,2023-03-11,1,1,4.45
+M00643,Merchant 00643,Fremont,Indian,SMB,2024-07-19,1,0,4.99
+M00644,Merchant 00644,Berkeley,Mexican,SMB,2023-04-17,1,0,4.25
+M00645,Merchant 00645,Oakland,Italian,SMB,2022-04-24,1,0,4.12
+M00646,Merchant 00646,Berkeley,Chinese,SMB,2021-02-18,1,0,4.29
+M00647,Merchant 00647,Berkeley,Indian,SMB,2023-05-12,1,0,3.61
+M00648,Merchant 00648,Palo Alto,Chinese,SMB,2022-09-20,1,1,3.94
+M00649,Merchant 00649,Oakland,Mexican,SMB,2025-07-10,1,0,4.45
+M00650,Merchant 00650,San Francisco,Thai,SMB,2023-12-26,1,1,3.56
+M00651,Merchant 00651,Fremont,Italian,SMB,2025-08-21,1,0,4.21
+M00652,Merchant 00652,San Jose,Italian,SMB,2022-11-18,1,1,4.64
+M00653,Merchant 00653,San Francisco,Mediterranean,SMB,2022-06-26,1,1,4.17
+M00654,Merchant 00654,San Francisco,Japanese,Mid-Market,2021-11-11,1,1,4.41
+M00655,Merchant 00655,Palo Alto,Thai,Mid-Market,2025-04-16,1,1,4.29
+M00656,Merchant 00656,San Francisco,American,Mid-Market,2023-03-03,1,1,4.94
+M00657,Merchant 00657,San Francisco,Indian,SMB,2025-08-07,1,0,4.73
+M00658,Merchant 00658,Palo Alto,Mexican,SMB,2022-03-20,1,0,4.84
+M00659,Merchant 00659,Berkeley,Italian,Mid-Market,2020-08-03,1,0,4.45
+M00660,Merchant 00660,Berkeley,Mediterranean,SMB,2023-12-07,1,1,4.22
+M00661,Merchant 00661,Berkeley,Mexican,Mid-Market,2020-09-11,1,1,3.96
+M00662,Merchant 00662,Palo Alto,Mexican,SMB,2020-03-01,1,0,4.43
+M00663,Merchant 00663,Oakland,Thai,Enterprise,2021-09-29,1,0,4.65
+M00664,Merchant 00664,Berkeley,Mexican,SMB,2023-05-10,1,0,4.74
+M00665,Merchant 00665,San Francisco,Japanese,SMB,2024-07-14,1,0,4.12
+M00666,Merchant 00666,Berkeley,Italian,SMB,2021-08-21,1,0,4.04
+M00667,Merchant 00667,Palo Alto,Thai,SMB,2024-03-03,1,0,4.61
+M00668,Merchant 00668,Berkeley,Japanese,Mid-Market,2025-01-13,0,0,4.57
+M00669,Merchant 00669,Oakland,Italian,SMB,2022-07-11,1,1,4.62
+M00670,Merchant 00670,Fremont,Thai,Mid-Market,2024-11-17,1,1,4.56
+M00671,Merchant 00671,San Jose,Mediterranean,SMB,2022-02-05,1,1,4.2
+M00672,Merchant 00672,San Francisco,Chinese,Mid-Market,2024-11-26,1,0,4.4
+M00673,Merchant 00673,Fremont,American,SMB,2021-09-10,1,1,4.48
+M00674,Merchant 00674,San Jose,Italian,Mid-Market,2021-05-15,1,0,4.66
+M00675,Merchant 00675,Berkeley,Mediterranean,SMB,2022-06-20,1,0,4.36
+M00676,Merchant 00676,San Francisco,American,SMB,2020-08-19,1,1,3.56
+M00677,Merchant 00677,Oakland,Italian,Mid-Market,2021-03-10,1,0,3.94
+M00678,Merchant 00678,Oakland,Japanese,Mid-Market,2022-05-30,0,0,4.36
+M00679,Merchant 00679,San Francisco,Chinese,SMB,2024-04-29,1,1,4.16
+M00680,Merchant 00680,San Francisco,Japanese,Mid-Market,2024-02-08,1,0,4.81
+M00681,Merchant 00681,Palo Alto,Indian,Mid-Market,2024-09-27,1,1,4.1
+M00682,Merchant 00682,Berkeley,Indian,SMB,2022-06-12,1,0,4.16
+M00683,Merchant 00683,San Francisco,American,SMB,2021-04-16,1,0,4.2
+M00684,Merchant 00684,Fremont,Thai,SMB,2020-11-16,1,1,3.95
+M00685,Merchant 00685,San Jose,Mediterranean,SMB,2023-09-11,1,0,3.66
+M00686,Merchant 00686,Palo Alto,Chinese,SMB,2022-08-17,0,1,4.12
+M00687,Merchant 00687,Palo Alto,Japanese,SMB,2022-11-29,1,1,4.46
+M00688,Merchant 00688,Fremont,Mediterranean,Mid-Market,2025-03-18,1,0,4.72
+M00689,Merchant 00689,San Jose,Thai,SMB,2020-11-06,1,1,3.9
+M00690,Merchant 00690,San Jose,Mediterranean,SMB,2024-05-18,1,0,4.1
+M00691,Merchant 00691,San Francisco,Thai,SMB,2020-03-20,1,0,4.33
+M00692,Merchant 00692,Fremont,Chinese,Mid-Market,2022-02-28,1,0,4.04
+M00693,Merchant 00693,San Francisco,Japanese,Enterprise,2025-08-01,1,0,3.91
+M00694,Merchant 00694,Oakland,Indian,SMB,2021-09-02,1,0,3.96
+M00695,Merchant 00695,Palo Alto,Thai,SMB,2025-04-21,1,1,4.03
+M00696,Merchant 00696,Fremont,Thai,SMB,2024-08-14,1,0,4.53
+M00697,Merchant 00697,San Jose,Mediterranean,Mid-Market,2020-06-10,1,1,3.86
+M00698,Merchant 00698,Berkeley,Chinese,SMB,2024-01-19,1,1,4.02
+M00699,Merchant 00699,Palo Alto,Thai,SMB,2021-08-30,1,1,4.35
+M00700,Merchant 00700,Palo Alto,Thai,Mid-Market,2024-07-09,1,1,4.08
+M00701,Merchant 00701,Palo Alto,Chinese,SMB,2020-10-25,1,1,4.57
+M00702,Merchant 00702,San Jose,Thai,SMB,2022-08-07,1,1,4.67
+M00703,Merchant 00703,Palo Alto,American,SMB,2021-03-01,1,0,4.25
+M00704,Merchant 00704,Oakland,Indian,SMB,2024-10-21,1,0,4.44
+M00705,Merchant 00705,Oakland,Thai,SMB,2022-11-26,1,0,4.19
+M00706,Merchant 00706,Oakland,Thai,SMB,2022-12-31,1,1,4.49
+M00707,Merchant 00707,San Jose,Japanese,SMB,2024-03-24,1,0,4.39
+M00708,Merchant 00708,Oakland,Chinese,SMB,2020-12-13,1,1,3.69
+M00709,Merchant 00709,San Jose,Japanese,SMB,2021-09-21,1,1,4.21
+M00710,Merchant 00710,Palo Alto,Japanese,SMB,2020-11-24,1,0,3.76
+M00711,Merchant 00711,San Jose,Indian,Mid-Market,2025-01-16,1,0,4.91
+M00712,Merchant 00712,San Francisco,Italian,Mid-Market,2020-10-16,1,0,4.53
+M00713,Merchant 00713,San Jose,Mediterranean,SMB,2021-03-16,1,0,3.94
+M00714,Merchant 00714,San Jose,Mediterranean,SMB,2022-10-15,1,0,3.95
+M00715,Merchant 00715,Oakland,Thai,SMB,2024-02-22,1,0,3.9
+M00716,Merchant 00716,San Jose,Thai,Mid-Market,2023-01-04,1,1,4.15
+M00717,Merchant 00717,San Jose,Mexican,SMB,2023-12-12,1,1,4.39
+M00718,Merchant 00718,Palo Alto,Italian,SMB,2020-07-01,1,1,4.91
+M00719,Merchant 00719,Palo Alto,Mexican,SMB,2023-12-14,1,0,4.14
+M00720,Merchant 00720,Fremont,Mediterranean,SMB,2021-01-17,1,1,3.76
+M00721,Merchant 00721,San Francisco,American,SMB,2022-06-06,1,1,3.52
+M00722,Merchant 00722,Palo Alto,Mexican,SMB,2024-05-11,1,0,4.24
+M00723,Merchant 00723,San Francisco,Thai,SMB,2020-05-19,1,1,3.88
+M00724,Merchant 00724,San Jose,Indian,SMB,2025-06-20,1,0,4.21
+M00725,Merchant 00725,San Francisco,Chinese,SMB,2025-01-03,1,0,4.96
+M00726,Merchant 00726,Fremont,Indian,SMB,2024-10-01,1,1,5.0
+M00727,Merchant 00727,Palo Alto,Thai,SMB,2023-10-07,1,0,4.2
+M00728,Merchant 00728,Oakland,Thai,SMB,2025-03-10,1,0,4.6
+M00729,Merchant 00729,Palo Alto,American,SMB,2021-04-18,1,1,3.87
+M00730,Merchant 00730,San Jose,Chinese,Enterprise,2023-02-14,1,0,4.27
+M00731,Merchant 00731,Berkeley,Italian,SMB,2022-09-22,1,0,4.54
+M00732,Merchant 00732,Fremont,Italian,SMB,2022-05-11,1,0,4.6
+M00733,Merchant 00733,Oakland,Italian,SMB,2021-11-25,1,0,4.46
+M00734,Merchant 00734,Oakland,Indian,SMB,2020-12-31,1,0,4.08
+M00735,Merchant 00735,Berkeley,American,Mid-Market,2023-07-03,0,1,4.4
+M00736,Merchant 00736,San Francisco,Chinese,SMB,2022-09-26,1,0,4.27
+M00737,Merchant 00737,Palo Alto,Indian,SMB,2024-12-04,1,0,4.04
+M00738,Merchant 00738,Palo Alto,Indian,SMB,2023-03-26,1,0,4.01
+M00739,Merchant 00739,Oakland,Mexican,SMB,2024-07-07,1,0,4.89
+M00740,Merchant 00740,Oakland,Thai,SMB,2021-10-20,1,1,4.13
+M00741,Merchant 00741,Berkeley,American,SMB,2020-09-19,0,1,4.24
+M00742,Merchant 00742,San Jose,Chinese,SMB,2021-09-07,1,0,3.9
+M00743,Merchant 00743,San Jose,Mediterranean,SMB,2024-04-29,0,0,4.29
+M00744,Merchant 00744,Palo Alto,Mexican,Mid-Market,2021-06-13,1,0,3.94
+M00745,Merchant 00745,Palo Alto,Chinese,SMB,2020-05-07,1,1,3.71
+M00746,Merchant 00746,Fremont,Chinese,SMB,2020-12-09,0,1,4.28
+M00747,Merchant 00747,Oakland,Chinese,Enterprise,2021-08-21,1,0,4.58
+M00748,Merchant 00748,San Francisco,Japanese,SMB,2022-12-26,1,0,4.36
+M00749,Merchant 00749,Palo Alto,Mediterranean,Enterprise,2020-06-14,1,0,4.17
+M00750,Merchant 00750,Oakland,American,Mid-Market,2020-04-25,1,0,4.97
+M00751,Merchant 00751,Berkeley,Italian,SMB,2024-11-02,1,1,4.4
+M00752,Merchant 00752,Oakland,Italian,Enterprise,2024-08-22,1,0,3.84
+M00753,Merchant 00753,San Francisco,Mexican,SMB,2022-03-23,1,0,4.27
+M00754,Merchant 00754,Palo Alto,Mediterranean,SMB,2023-09-11,1,0,3.71
+M00755,Merchant 00755,Oakland,Thai,SMB,2020-07-23,1,0,4.17
+M00756,Merchant 00756,San Francisco,American,Mid-Market,2024-01-09,1,0,4.61
+M00757,Merchant 00757,Palo Alto,Japanese,SMB,2021-01-07,1,0,4.64
+M00758,Merchant 00758,Oakland,Indian,SMB,2023-06-30,1,0,4.26
+M00759,Merchant 00759,Berkeley,Mediterranean,SMB,2021-11-10,1,0,4.01
+M00760,Merchant 00760,Fremont,American,SMB,2020-11-12,1,1,4.57
+M00761,Merchant 00761,San Francisco,Italian,SMB,2025-01-13,1,0,4.27
+M00762,Merchant 00762,Berkeley,Japanese,Mid-Market,2021-04-04,0,0,3.98
+M00763,Merchant 00763,Fremont,American,SMB,2025-07-30,1,0,4.17
+M00764,Merchant 00764,Berkeley,Mexican,SMB,2023-06-21,1,0,4.19
+M00765,Merchant 00765,Oakland,Chinese,Mid-Market,2022-09-29,0,0,4.19
+M00766,Merchant 00766,San Francisco,American,SMB,2021-04-19,1,0,4.15
+M00767,Merchant 00767,Berkeley,Chinese,SMB,2023-04-27,1,1,4.12
+M00768,Merchant 00768,Palo Alto,American,SMB,2025-02-21,1,0,3.73
+M00769,Merchant 00769,Oakland,Mediterranean,SMB,2021-05-16,1,1,3.76
+M00770,Merchant 00770,Berkeley,Japanese,SMB,2023-12-07,0,0,4.37
+M00771,Merchant 00771,Berkeley,Italian,Mid-Market,2023-04-04,1,0,3.69
+M00772,Merchant 00772,Berkeley,Italian,SMB,2021-07-08,0,0,4.5
+M00773,Merchant 00773,Berkeley,Italian,SMB,2023-02-28,1,0,4.4
+M00774,Merchant 00774,San Francisco,Japanese,SMB,2021-09-23,1,0,4.45
+M00775,Merchant 00775,Fremont,Thai,SMB,2022-10-10,1,1,3.83
+M00776,Merchant 00776,Palo Alto,American,SMB,2023-08-09,1,0,4.55
+M00777,Merchant 00777,Berkeley,Thai,SMB,2022-02-18,1,0,4.47
+M00778,Merchant 00778,Oakland,Thai,Mid-Market,2020-12-05,1,0,4.17
+M00779,Merchant 00779,Palo Alto,Mexican,SMB,2020-03-10,1,0,4.29
+M00780,Merchant 00780,San Jose,Mexican,Enterprise,2021-06-03,1,0,4.26
+M00781,Merchant 00781,Fremont,Thai,SMB,2023-11-18,1,1,4.06
+M00782,Merchant 00782,San Francisco,Thai,SMB,2025-05-20,1,0,4.11
+M00783,Merchant 00783,Oakland,Chinese,Mid-Market,2024-07-19,0,0,3.98
+M00784,Merchant 00784,Palo Alto,Mexican,Mid-Market,2025-05-09,1,1,4.33
+M00785,Merchant 00785,Berkeley,Italian,SMB,2025-03-02,1,1,3.93
+M00786,Merchant 00786,Fremont,Indian,SMB,2023-06-10,0,0,3.8
+M00787,Merchant 00787,Palo Alto,Indian,SMB,2025-06-07,1,0,4.17
+M00788,Merchant 00788,San Francisco,Chinese,SMB,2025-01-21,1,0,4.56
+M00789,Merchant 00789,Oakland,Mexican,SMB,2021-10-03,1,1,3.54
+M00790,Merchant 00790,Oakland,Thai,SMB,2021-03-03,1,0,4.35
+M00791,Merchant 00791,San Jose,Indian,SMB,2025-07-23,1,0,4.73
+M00792,Merchant 00792,San Francisco,Japanese,SMB,2022-10-18,1,0,3.88
+M00793,Merchant 00793,Oakland,Mexican,Mid-Market,2025-02-25,1,0,4.28
+M00794,Merchant 00794,San Jose,Mexican,SMB,2023-08-23,1,0,4.07
+M00795,Merchant 00795,Oakland,Indian,SMB,2024-12-01,1,0,3.92
+M00796,Merchant 00796,Oakland,American,SMB,2021-08-19,1,1,3.41
+M00797,Merchant 00797,San Jose,Chinese,SMB,2022-07-10,1,1,4.84
+M00798,Merchant 00798,Palo Alto,Mexican,SMB,2022-07-08,1,0,4.47
+M00799,Merchant 00799,San Jose,Italian,SMB,2025-08-27,1,1,4.17
+M00800,Merchant 00800,Oakland,Italian,SMB,2024-06-05,1,1,4.04
+M00801,Merchant 00801,Berkeley,American,Mid-Market,2023-06-02,1,1,4.53
+M00802,Merchant 00802,Palo Alto,Mexican,SMB,2024-01-07,0,0,4.16
+M00803,Merchant 00803,Oakland,American,Mid-Market,2020-12-20,1,0,4.27
+M00804,Merchant 00804,San Jose,Thai,SMB,2024-03-31,1,0,4.7
+M00805,Merchant 00805,Berkeley,Indian,SMB,2022-09-08,1,0,5.0
+M00806,Merchant 00806,San Jose,American,SMB,2023-09-21,1,1,4.29
+M00807,Merchant 00807,San Jose,Mexican,SMB,2020-09-03,1,1,3.99
+M00808,Merchant 00808,San Jose,Mediterranean,SMB,2020-12-29,1,0,3.91
+M00809,Merchant 00809,Oakland,Italian,Mid-Market,2023-06-15,1,0,4.11
+M00810,Merchant 00810,Palo Alto,Mexican,Enterprise,2020-06-12,1,0,4.63
+M00811,Merchant 00811,Palo Alto,Japanese,Mid-Market,2023-04-02,1,0,4.46
+M00812,Merchant 00812,San Jose,Mediterranean,SMB,2023-08-06,1,0,4.22
+M00813,Merchant 00813,Palo Alto,Indian,SMB,2022-08-17,1,0,4.26
+M00814,Merchant 00814,San Francisco,Italian,Mid-Market,2021-05-03,1,1,4.83
+M00815,Merchant 00815,San Francisco,Japanese,Mid-Market,2020-12-09,1,0,3.76
+M00816,Merchant 00816,San Francisco,Chinese,SMB,2021-01-20,1,1,4.32
+M00817,Merchant 00817,Fremont,Japanese,SMB,2024-10-17,1,0,4.77
+M00818,Merchant 00818,San Francisco,Japanese,SMB,2021-11-30,1,1,4.1
+M00819,Merchant 00819,Fremont,Japanese,SMB,2025-08-26,1,1,4.3
+M00820,Merchant 00820,San Jose,Mediterranean,SMB,2023-08-14,1,1,4.27
+M00821,Merchant 00821,Berkeley,Mexican,SMB,2024-11-30,1,0,4.41
+M00822,Merchant 00822,San Jose,Chinese,SMB,2024-04-16,0,0,4.93
+M00823,Merchant 00823,Fremont,Mexican,SMB,2021-02-11,1,0,4.04
+M00824,Merchant 00824,Fremont,Mexican,SMB,2021-06-27,1,0,4.31
+M00825,Merchant 00825,San Jose,Thai,SMB,2024-04-16,1,0,3.92
+M00826,Merchant 00826,San Francisco,Indian,SMB,2022-02-16,1,0,4.02
+M00827,Merchant 00827,San Jose,Chinese,SMB,2020-02-24,1,0,4.04
+M00828,Merchant 00828,Berkeley,Japanese,SMB,2024-07-31,1,0,3.68
+M00829,Merchant 00829,Berkeley,Indian,SMB,2025-08-29,0,1,4.62
+M00830,Merchant 00830,San Francisco,Thai,SMB,2023-04-23,1,0,3.58
+M00831,Merchant 00831,Oakland,Indian,Mid-Market,2021-02-20,0,0,4.51
+M00832,Merchant 00832,Berkeley,Thai,SMB,2023-03-12,1,1,3.31
+M00833,Merchant 00833,Berkeley,Italian,SMB,2022-03-05,1,0,4.72
+M00834,Merchant 00834,Palo Alto,Mediterranean,Mid-Market,2022-08-30,1,0,4.18
+M00835,Merchant 00835,Fremont,Chinese,Mid-Market,2020-12-19,1,0,4.94
+M00836,Merchant 00836,San Francisco,Indian,Mid-Market,2024-11-12,1,0,3.66
+M00837,Merchant 00837,Oakland,Chinese,SMB,2021-08-31,1,1,4.07
+M00838,Merchant 00838,Berkeley,Mexican,SMB,2023-12-01,1,0,5.0
+M00839,Merchant 00839,Palo Alto,Italian,Mid-Market,2025-01-05,1,0,3.74
+M00840,Merchant 00840,Berkeley,Mexican,Mid-Market,2020-05-15,1,0,4.31
+M00841,Merchant 00841,Oakland,Chinese,SMB,2022-05-12,1,0,4.16
+M00842,Merchant 00842,Palo Alto,Chinese,SMB,2025-08-10,1,0,4.15
+M00843,Merchant 00843,Palo Alto,Mediterranean,SMB,2021-01-07,1,1,4.37
+M00844,Merchant 00844,Berkeley,Chinese,SMB,2021-11-12,1,1,4.11
+M00845,Merchant 00845,San Jose,Italian,Mid-Market,2022-12-05,1,1,4.12
+M00846,Merchant 00846,San Jose,Mediterranean,Mid-Market,2020-12-19,1,0,3.72
+M00847,Merchant 00847,Fremont,American,SMB,2020-11-18,1,0,4.14
+M00848,Merchant 00848,Berkeley,Chinese,SMB,2023-04-24,0,1,3.65
+M00849,Merchant 00849,San Jose,Thai,SMB,2021-05-16,1,1,4.16
+M00850,Merchant 00850,Berkeley,Mexican,Mid-Market,2021-12-18,0,0,3.67
+M00851,Merchant 00851,Oakland,American,SMB,2022-04-01,1,0,4.28
+M00852,Merchant 00852,Palo Alto,Mexican,SMB,2023-01-18,1,0,3.73
+M00853,Merchant 00853,San Francisco,Indian,Mid-Market,2022-01-02,1,0,4.23
+M00854,Merchant 00854,Oakland,Chinese,SMB,2025-08-29,0,0,4.16
+M00855,Merchant 00855,Palo Alto,American,Mid-Market,2024-09-14,1,1,4.42
+M00856,Merchant 00856,San Jose,Thai,SMB,2021-05-31,1,1,3.89
+M00857,Merchant 00857,Palo Alto,Japanese,SMB,2022-10-26,1,0,4.23
+M00858,Merchant 00858,San Jose,Japanese,Enterprise,2020-05-15,1,1,4.05
+M00859,Merchant 00859,Palo Alto,Indian,SMB,2022-03-06,1,0,4.27
+M00860,Merchant 00860,Palo Alto,Indian,SMB,2024-08-19,1,1,4.22
+M00861,Merchant 00861,San Jose,Mediterranean,SMB,2021-01-30,1,0,4.2
+M00862,Merchant 00862,San Francisco,Italian,SMB,2024-12-25,1,1,4.08
+M00863,Merchant 00863,Oakland,American,SMB,2021-04-10,1,0,4.15
+M00864,Merchant 00864,Palo Alto,Indian,Mid-Market,2024-12-30,1,0,4.49
+M00865,Merchant 00865,San Francisco,American,Mid-Market,2020-10-11,1,0,5.0
+M00866,Merchant 00866,Palo Alto,American,SMB,2021-08-19,1,0,4.32
+M00867,Merchant 00867,Palo Alto,Thai,SMB,2022-02-08,1,1,4.05
+M00868,Merchant 00868,Oakland,American,SMB,2023-10-30,0,0,4.84
+M00869,Merchant 00869,Fremont,Mediterranean,Mid-Market,2023-09-08,1,1,4.56
+M00870,Merchant 00870,Fremont,Chinese,SMB,2021-01-01,1,0,3.74
+M00871,Merchant 00871,Oakland,Mexican,Mid-Market,2021-12-19,1,0,4.16
+M00872,Merchant 00872,Palo Alto,Chinese,SMB,2025-08-06,1,1,4.62
+M00873,Merchant 00873,San Jose,Italian,SMB,2022-09-28,1,0,4.42
+M00874,Merchant 00874,Fremont,Japanese,SMB,2022-02-28,1,0,4.27
+M00875,Merchant 00875,Fremont,Japanese,Enterprise,2020-04-16,1,1,4.35
+M00876,Merchant 00876,San Francisco,Japanese,SMB,2024-12-03,0,0,3.95
+M00877,Merchant 00877,San Jose,American,SMB,2023-06-02,1,0,3.89
+M00878,Merchant 00878,San Francisco,Italian,SMB,2022-02-27,1,0,4.31
+M00879,Merchant 00879,Berkeley,Japanese,SMB,2025-08-12,1,0,3.95
+M00880,Merchant 00880,Oakland,Mediterranean,SMB,2023-08-08,1,0,4.66
+M00881,Merchant 00881,San Francisco,Japanese,SMB,2024-12-23,0,1,4.07
+M00882,Merchant 00882,San Francisco,American,SMB,2023-01-16,1,0,4.63
+M00883,Merchant 00883,Berkeley,Japanese,SMB,2023-03-09,1,0,4.51
+M00884,Merchant 00884,Palo Alto,Indian,SMB,2022-02-27,1,0,4.56
+M00885,Merchant 00885,Berkeley,Chinese,SMB,2024-01-15,1,0,4.21
+M00886,Merchant 00886,Oakland,Mediterranean,SMB,2021-03-23,1,0,3.27
+M00887,Merchant 00887,San Jose,Thai,SMB,2022-08-22,1,0,4.17
+M00888,Merchant 00888,Berkeley,American,SMB,2024-07-12,0,0,4.03
+M00889,Merchant 00889,Fremont,Mediterranean,SMB,2024-12-19,1,0,4.08
+M00890,Merchant 00890,Berkeley,Chinese,SMB,2024-12-30,1,1,4.0
+M00891,Merchant 00891,Berkeley,Italian,SMB,2020-09-24,1,0,3.42
+M00892,Merchant 00892,Fremont,American,Mid-Market,2024-04-05,1,0,4.09
+M00893,Merchant 00893,San Francisco,Japanese,Mid-Market,2025-01-31,1,0,4.22
+M00894,Merchant 00894,Fremont,American,SMB,2023-04-01,1,1,4.61
+M00895,Merchant 00895,Fremont,Thai,SMB,2022-04-18,1,1,3.87
+M00896,Merchant 00896,Palo Alto,Mediterranean,Enterprise,2021-07-21,1,1,3.98
+M00897,Merchant 00897,San Jose,Mediterranean,Mid-Market,2025-03-17,1,0,4.56
+M00898,Merchant 00898,San Jose,Thai,Mid-Market,2025-08-30,1,0,4.29
+M00899,Merchant 00899,San Jose,Mexican,SMB,2021-10-23,1,0,4.73
+M00900,Merchant 00900,Berkeley,American,SMB,2025-03-24,1,0,4.33
+M00901,Merchant 00901,San Jose,Italian,SMB,2023-11-24,1,1,4.01
+M00902,Merchant 00902,Fremont,Mediterranean,SMB,2021-04-11,1,1,3.94
+M00903,Merchant 00903,Fremont,Chinese,SMB,2023-07-24,1,0,4.0
+M00904,Merchant 00904,Berkeley,Japanese,Mid-Market,2022-07-13,1,1,3.92
+M00905,Merchant 00905,Berkeley,Japanese,SMB,2021-04-28,1,0,5.0
+M00906,Merchant 00906,Fremont,Mediterranean,SMB,2020-07-21,1,0,4.35
+M00907,Merchant 00907,Palo Alto,Chinese,SMB,2022-10-25,1,0,4.41
+M00908,Merchant 00908,San Jose,Italian,SMB,2024-09-13,1,1,4.04
+M00909,Merchant 00909,Berkeley,Japanese,SMB,2025-02-05,0,1,4.19
+M00910,Merchant 00910,Oakland,Chinese,Mid-Market,2023-06-04,1,0,4.31
+M00911,Merchant 00911,San Francisco,Mediterranean,SMB,2024-01-09,1,0,4.76
+M00912,Merchant 00912,Palo Alto,Indian,SMB,2022-09-21,1,0,4.78
+M00913,Merchant 00913,Oakland,Mexican,SMB,2022-05-15,1,1,3.86
+M00914,Merchant 00914,Fremont,Italian,SMB,2023-04-17,1,0,4.42
+M00915,Merchant 00915,Oakland,Japanese,SMB,2022-11-07,1,0,4.02
+M00916,Merchant 00916,San Jose,Chinese,SMB,2024-06-27,1,0,3.86
+M00917,Merchant 00917,Palo Alto,Mediterranean,SMB,2023-07-13,1,1,4.43
+M00918,Merchant 00918,Berkeley,Mexican,Mid-Market,2021-09-22,1,0,4.88
+M00919,Merchant 00919,San Francisco,Indian,Enterprise,2021-12-16,1,0,4.13
+M00920,Merchant 00920,San Francisco,Mediterranean,SMB,2024-12-21,1,0,4.34
+M00921,Merchant 00921,Oakland,American,SMB,2022-08-02,1,0,4.12
+M00922,Merchant 00922,San Jose,Thai,SMB,2020-06-29,1,0,3.74
+M00923,Merchant 00923,San Jose,American,SMB,2023-07-05,1,1,4.37
+M00924,Merchant 00924,Berkeley,American,SMB,2024-09-02,1,1,3.46
+M00925,Merchant 00925,Berkeley,Thai,SMB,2022-11-04,1,1,4.47
+M00926,Merchant 00926,Oakland,Indian,SMB,2025-02-05,1,1,4.67
+M00927,Merchant 00927,Palo Alto,Mexican,SMB,2022-07-05,1,0,4.05
+M00928,Merchant 00928,Oakland,Mediterranean,SMB,2020-11-21,1,1,4.09
+M00929,Merchant 00929,Fremont,Mediterranean,SMB,2025-02-13,1,1,4.2
+M00930,Merchant 00930,Palo Alto,Indian,SMB,2021-09-17,1,1,4.38
+M00931,Merchant 00931,Fremont,Italian,SMB,2022-10-21,1,1,3.89
+M00932,Merchant 00932,Fremont,Chinese,SMB,2023-04-16,1,0,3.14
+M00933,Merchant 00933,San Jose,Italian,SMB,2025-04-07,1,0,3.7
+M00934,Merchant 00934,Oakland,Mexican,SMB,2020-05-17,1,0,4.39
+M00935,Merchant 00935,Palo Alto,American,SMB,2023-03-28,1,0,3.7
+M00936,Merchant 00936,Palo Alto,Italian,Mid-Market,2023-05-03,1,0,3.98
+M00937,Merchant 00937,San Francisco,Thai,SMB,2022-05-07,1,0,4.1
+M00938,Merchant 00938,Fremont,Indian,SMB,2024-08-26,1,0,4.35
+M00939,Merchant 00939,Oakland,Chinese,SMB,2023-03-21,1,0,4.71
+M00940,Merchant 00940,San Jose,Chinese,SMB,2024-10-11,1,1,3.72
+M00941,Merchant 00941,Palo Alto,Japanese,SMB,2021-10-20,1,0,3.78
+M00942,Merchant 00942,Palo Alto,Japanese,Mid-Market,2021-11-03,1,1,4.13
+M00943,Merchant 00943,Berkeley,Italian,Mid-Market,2022-09-17,0,0,4.83
+M00944,Merchant 00944,Oakland,Italian,SMB,2023-08-23,1,0,3.79
+M00945,Merchant 00945,Oakland,Italian,SMB,2020-11-04,0,0,3.73
+M00946,Merchant 00946,Fremont,Italian,SMB,2025-02-28,1,0,4.05
+M00947,Merchant 00947,Palo Alto,Thai,Mid-Market,2025-06-28,1,0,3.67
+M00948,Merchant 00948,Berkeley,Indian,SMB,2022-11-10,1,0,3.81
+M00949,Merchant 00949,Palo Alto,Indian,SMB,2024-10-02,1,0,4.1
+M00950,Merchant 00950,Palo Alto,Japanese,SMB,2023-04-26,1,0,4.96
+M00951,Merchant 00951,Fremont,Chinese,Mid-Market,2020-03-31,1,0,3.85
+M00952,Merchant 00952,San Jose,American,SMB,2024-03-13,1,0,4.25
+M00953,Merchant 00953,San Francisco,Indian,Mid-Market,2025-08-16,1,1,4.62
+M00954,Merchant 00954,Palo Alto,Italian,SMB,2025-01-14,1,0,4.05
+M00955,Merchant 00955,Oakland,Japanese,SMB,2023-03-06,0,0,4.4
+M00956,Merchant 00956,Oakland,American,SMB,2021-01-27,1,1,3.86
+M00957,Merchant 00957,Oakland,Mediterranean,SMB,2021-10-14,1,1,4.65
+M00958,Merchant 00958,Palo Alto,Italian,Enterprise,2022-07-01,1,0,3.63
+M00959,Merchant 00959,Fremont,Japanese,SMB,2024-01-23,1,0,4.69
+M00960,Merchant 00960,Palo Alto,Indian,Mid-Market,2020-12-31,1,1,4.33
+M00961,Merchant 00961,Berkeley,Chinese,SMB,2022-09-19,1,0,4.63
+M00962,Merchant 00962,San Francisco,Chinese,SMB,2022-08-30,1,0,4.29
+M00963,Merchant 00963,San Jose,Mediterranean,SMB,2023-03-08,1,0,4.37
+M00964,Merchant 00964,Berkeley,Mexican,SMB,2022-05-10,1,0,3.87
+M00965,Merchant 00965,Palo Alto,Japanese,SMB,2023-12-12,1,0,4.51
+M00966,Merchant 00966,San Francisco,Mediterranean,SMB,2024-12-10,1,1,4.18
+M00967,Merchant 00967,Oakland,Chinese,Mid-Market,2024-05-11,1,1,4.63
+M00968,Merchant 00968,Palo Alto,Mediterranean,SMB,2023-07-22,1,1,4.3
+M00969,Merchant 00969,Oakland,Indian,SMB,2020-08-21,1,0,3.59
+M00970,Merchant 00970,San Jose,Thai,SMB,2023-12-18,1,1,4.01
+M00971,Merchant 00971,Palo Alto,Chinese,SMB,2024-01-27,1,1,4.48
+M00972,Merchant 00972,San Francisco,Thai,SMB,2022-11-04,1,0,3.78
+M00973,Merchant 00973,San Jose,American,SMB,2021-01-04,1,1,3.91
+M00974,Merchant 00974,Berkeley,Mediterranean,SMB,2025-03-08,1,0,4.21
+M00975,Merchant 00975,Palo Alto,Mediterranean,SMB,2022-01-15,0,1,4.28
+M00976,Merchant 00976,San Jose,Chinese,SMB,2023-11-26,1,0,4.14
+M00977,Merchant 00977,San Francisco,Mexican,SMB,2025-05-19,0,0,3.8
+M00978,Merchant 00978,Berkeley,Indian,SMB,2022-06-23,1,1,4.52
+M00979,Merchant 00979,Berkeley,Indian,SMB,2022-08-02,1,0,4.05
+M00980,Merchant 00980,San Jose,Indian,SMB,2022-06-18,1,1,4.17
+M00981,Merchant 00981,San Francisco,Chinese,Mid-Market,2024-08-06,1,1,4.36
+M00982,Merchant 00982,Oakland,Mediterranean,SMB,2021-06-30,1,0,5.0
+M00983,Merchant 00983,San Jose,Italian,Enterprise,2023-05-01,1,1,4.62
+M00984,Merchant 00984,San Jose,Mexican,SMB,2022-06-10,1,0,4.58
+M00985,Merchant 00985,San Jose,Thai,Enterprise,2022-06-04,1,1,4.09
+M00986,Merchant 00986,Berkeley,Indian,Mid-Market,2021-07-19,1,0,4.01
+M00987,Merchant 00987,Oakland,Mediterranean,Mid-Market,2021-08-03,1,0,4.45
+M00988,Merchant 00988,Berkeley,Mexican,SMB,2022-09-21,1,0,4.14
+M00989,Merchant 00989,San Francisco,Thai,Mid-Market,2020-12-13,1,0,4.42
+M00990,Merchant 00990,San Jose,Chinese,SMB,2024-07-01,1,1,4.11
+M00991,Merchant 00991,San Jose,Italian,SMB,2021-01-25,1,1,4.43
+M00992,Merchant 00992,San Francisco,Japanese,SMB,2022-04-27,1,1,3.61
+M00993,Merchant 00993,Fremont,Japanese,SMB,2024-12-23,0,1,4.35
+M00994,Merchant 00994,San Jose,Chinese,SMB,2021-05-17,1,0,3.84
+M00995,Merchant 00995,Oakland,Japanese,SMB,2023-04-29,1,1,4.72
+M00996,Merchant 00996,Palo Alto,Mexican,Enterprise,2021-03-24,1,0,3.83
+M00997,Merchant 00997,Fremont,Italian,Mid-Market,2021-08-18,1,1,4.22
+M00998,Merchant 00998,San Jose,Mexican,SMB,2021-07-23,1,0,4.07
+M00999,Merchant 00999,Berkeley,Indian,SMB,2020-03-01,1,0,4.51
+M01000,Merchant 01000,San Francisco,Chinese,SMB,2021-09-26,0,0,4.21
+M01001,Merchant 01001,Berkeley,Mediterranean,SMB,2022-12-18,1,0,4.66
+M01002,Merchant 01002,Fremont,Mexican,SMB,2020-10-17,1,1,4.25
+M01003,Merchant 01003,Berkeley,Mexican,SMB,2025-01-01,1,0,4.32
+M01004,Merchant 01004,Berkeley,Italian,Mid-Market,2023-01-10,0,0,4.57
+M01005,Merchant 01005,San Jose,American,Mid-Market,2023-03-26,1,1,4.22
+M01006,Merchant 01006,Oakland,Mediterranean,SMB,2025-04-18,1,0,5.0
+M01007,Merchant 01007,San Francisco,Italian,SMB,2022-11-06,1,1,2.63
+M01008,Merchant 01008,Berkeley,Chinese,Mid-Market,2020-05-12,1,0,4.19
+M01009,Merchant 01009,Palo Alto,Mexican,SMB,2024-11-18,1,0,4.26
+M01010,Merchant 01010,Palo Alto,Chinese,SMB,2025-05-16,1,0,3.97
+M01011,Merchant 01011,Oakland,Mexican,SMB,2023-07-17,1,0,3.43
+M01012,Merchant 01012,Palo Alto,American,SMB,2022-03-19,1,1,3.78
+M01013,Merchant 01013,Fremont,Chinese,SMB,2020-04-02,1,0,4.63
+M01014,Merchant 01014,Fremont,Chinese,SMB,2023-01-20,1,0,4.37
+M01015,Merchant 01015,San Jose,Japanese,SMB,2022-09-23,1,1,4.78
+M01016,Merchant 01016,Oakland,Mediterranean,SMB,2024-07-30,1,0,4.2
+M01017,Merchant 01017,Fremont,Japanese,SMB,2021-10-09,1,0,4.39
+M01018,Merchant 01018,Berkeley,Thai,Mid-Market,2023-12-07,1,0,4.93
+M01019,Merchant 01019,Berkeley,Thai,SMB,2024-08-09,1,0,3.82
+M01020,Merchant 01020,Berkeley,Mediterranean,Mid-Market,2021-11-21,1,1,3.88
+M01021,Merchant 01021,Palo Alto,Mexican,SMB,2025-04-06,1,0,4.25
+M01022,Merchant 01022,Palo Alto,Indian,SMB,2024-03-10,1,1,3.96
+M01023,Merchant 01023,Berkeley,Thai,Mid-Market,2024-08-13,1,0,4.36
+M01024,Merchant 01024,San Jose,Mediterranean,SMB,2020-04-05,1,0,3.96
+M01025,Merchant 01025,Palo Alto,American,SMB,2024-07-05,1,1,4.33
+M01026,Merchant 01026,Palo Alto,Italian,Mid-Market,2021-04-24,1,1,4.19
+M01027,Merchant 01027,Fremont,Italian,SMB,2022-10-10,1,1,4.27
+M01028,Merchant 01028,San Francisco,Italian,Mid-Market,2023-08-06,1,0,4.46
+M01029,Merchant 01029,Palo Alto,Mediterranean,SMB,2023-04-13,1,0,4.34
+M01030,Merchant 01030,San Jose,Chinese,Mid-Market,2024-10-13,1,1,3.71
+M01031,Merchant 01031,San Jose,Indian,Mid-Market,2020-07-05,1,0,4.59
+M01032,Merchant 01032,San Francisco,Thai,SMB,2022-10-09,1,0,3.91
+M01033,Merchant 01033,San Francisco,Mexican,SMB,2020-03-30,1,1,4.35
+M01034,Merchant 01034,Fremont,American,Mid-Market,2024-05-20,1,0,3.86
+M01035,Merchant 01035,San Francisco,Japanese,Mid-Market,2025-06-28,1,1,4.34
+M01036,Merchant 01036,Oakland,Italian,SMB,2022-08-27,1,1,3.87
+M01037,Merchant 01037,Palo Alto,Japanese,Enterprise,2024-09-06,1,0,4.43
+M01038,Merchant 01038,San Jose,American,SMB,2024-05-30,1,0,4.65
+M01039,Merchant 01039,Berkeley,Thai,Enterprise,2022-08-10,1,0,4.12
+M01040,Merchant 01040,Palo Alto,Chinese,SMB,2021-09-13,1,0,4.68
+M01041,Merchant 01041,Berkeley,Chinese,SMB,2022-01-22,1,1,4.08
+M01042,Merchant 01042,Berkeley,American,SMB,2023-09-23,1,0,4.1
+M01043,Merchant 01043,Palo Alto,Italian,SMB,2021-10-12,1,0,3.99
+M01044,Merchant 01044,Fremont,Mexican,SMB,2025-07-26,0,1,4.66
+M01045,Merchant 01045,San Jose,Mediterranean,SMB,2020-09-28,0,0,4.28
+M01046,Merchant 01046,Berkeley,Thai,Mid-Market,2020-09-16,1,0,4.02
+M01047,Merchant 01047,San Jose,Indian,Enterprise,2023-04-12,1,1,4.39
+M01048,Merchant 01048,San Francisco,Italian,Mid-Market,2024-02-01,1,0,3.96
+M01049,Merchant 01049,San Francisco,Italian,Mid-Market,2022-02-16,1,1,4.26
+M01050,Merchant 01050,Berkeley,Mexican,SMB,2021-10-21,1,0,4.43
+M01051,Merchant 01051,Fremont,Indian,SMB,2022-12-06,1,1,4.54
+M01052,Merchant 01052,San Francisco,Mediterranean,SMB,2023-02-01,1,1,3.93
+M01053,Merchant 01053,Berkeley,Japanese,SMB,2023-06-19,1,0,4.97
+M01054,Merchant 01054,Fremont,Italian,Mid-Market,2023-07-29,1,1,4.67
+M01055,Merchant 01055,Palo Alto,American,Enterprise,2024-05-17,1,0,4.7
+M01056,Merchant 01056,Fremont,American,Enterprise,2021-01-20,0,0,4.48
+M01057,Merchant 01057,Fremont,Mexican,SMB,2021-01-01,1,0,4.7
+M01058,Merchant 01058,Palo Alto,Indian,SMB,2024-01-10,0,1,4.02
+M01059,Merchant 01059,Oakland,Chinese,SMB,2022-09-04,1,0,4.4
+M01060,Merchant 01060,Fremont,Indian,Enterprise,2025-05-13,1,0,3.57
+M01061,Merchant 01061,Oakland,Japanese,SMB,2024-07-28,1,0,4.39
+M01062,Merchant 01062,Berkeley,Japanese,SMB,2021-05-16,1,1,4.33
+M01063,Merchant 01063,Fremont,Indian,Mid-Market,2024-05-20,1,1,4.14
+M01064,Merchant 01064,San Francisco,American,Mid-Market,2025-06-21,1,1,4.95
+M01065,Merchant 01065,San Francisco,Chinese,Mid-Market,2022-04-26,1,0,4.42
+M01066,Merchant 01066,San Francisco,Chinese,SMB,2020-04-20,1,0,4.38
+M01067,Merchant 01067,Fremont,Japanese,Mid-Market,2021-01-20,1,0,4.77
+M01068,Merchant 01068,Berkeley,Italian,Mid-Market,2024-07-12,1,0,4.13
+M01069,Merchant 01069,Fremont,Italian,SMB,2024-10-18,0,0,3.76
+M01070,Merchant 01070,Oakland,Japanese,SMB,2024-02-22,1,0,3.74
+M01071,Merchant 01071,Berkeley,Japanese,SMB,2022-08-28,1,1,3.79
+M01072,Merchant 01072,San Francisco,Japanese,SMB,2024-02-22,1,0,3.62
+M01073,Merchant 01073,Palo Alto,Mediterranean,SMB,2021-11-26,1,0,4.43
+M01074,Merchant 01074,Fremont,Chinese,SMB,2022-04-23,1,1,4.64
+M01075,Merchant 01075,Fremont,Mexican,SMB,2024-10-17,1,0,4.43
+M01076,Merchant 01076,Berkeley,Mexican,SMB,2020-12-30,1,1,4.13
+M01077,Merchant 01077,Palo Alto,Thai,SMB,2023-06-04,1,0,4.31
+M01078,Merchant 01078,San Francisco,Thai,SMB,2022-11-15,1,0,4.37
+M01079,Merchant 01079,Oakland,Thai,SMB,2024-12-13,1,1,4.28
+M01080,Merchant 01080,San Jose,Italian,SMB,2025-04-12,1,0,4.17
+M01081,Merchant 01081,San Francisco,Italian,SMB,2024-03-05,1,0,4.42
+M01082,Merchant 01082,Fremont,American,SMB,2025-01-05,1,1,4.25
+M01083,Merchant 01083,San Jose,Chinese,SMB,2025-03-03,1,1,4.76
+M01084,Merchant 01084,Palo Alto,Mexican,SMB,2021-08-06,1,1,3.81
+M01085,Merchant 01085,Oakland,Italian,SMB,2021-10-18,1,1,4.25
+M01086,Merchant 01086,San Francisco,Chinese,Enterprise,2023-01-01,1,0,4.64
+M01087,Merchant 01087,Fremont,Mediterranean,SMB,2022-07-01,1,0,4.34
+M01088,Merchant 01088,Berkeley,Mediterranean,SMB,2020-05-09,1,0,3.93
+M01089,Merchant 01089,Berkeley,Thai,SMB,2024-06-22,1,0,4.4
+M01090,Merchant 01090,San Jose,Mexican,SMB,2023-07-01,1,0,4.05
+M01091,Merchant 01091,Fremont,Japanese,SMB,2023-05-23,1,1,3.97
+M01092,Merchant 01092,Oakland,Thai,SMB,2021-10-10,1,0,3.79
+M01093,Merchant 01093,Palo Alto,Japanese,SMB,2023-05-13,1,1,4.66
+M01094,Merchant 01094,Fremont,Italian,SMB,2020-09-23,1,0,3.84
+M01095,Merchant 01095,Berkeley,Mediterranean,SMB,2020-03-07,1,1,4.51
+M01096,Merchant 01096,Berkeley,Thai,SMB,2025-04-04,1,1,4.41
+M01097,Merchant 01097,Fremont,Thai,SMB,2020-06-29,1,1,3.99
+M01098,Merchant 01098,Palo Alto,Thai,Enterprise,2022-08-05,1,1,4.34
+M01099,Merchant 01099,Fremont,Mexican,SMB,2024-07-10,1,1,3.67
+M01100,Merchant 01100,Palo Alto,Chinese,Mid-Market,2024-09-05,1,1,5.0
+M01101,Merchant 01101,Oakland,Italian,SMB,2023-05-29,1,1,5.0
+M01102,Merchant 01102,San Jose,Mediterranean,SMB,2021-04-15,1,0,4.36
+M01103,Merchant 01103,Palo Alto,Thai,SMB,2025-07-20,0,0,3.79
+M01104,Merchant 01104,San Jose,Indian,SMB,2021-07-22,1,0,4.64
+M01105,Merchant 01105,Palo Alto,Japanese,SMB,2021-08-01,1,1,4.18
+M01106,Merchant 01106,Fremont,American,SMB,2021-06-21,1,1,4.56
+M01107,Merchant 01107,Berkeley,Chinese,SMB,2020-05-24,1,0,3.87
+M01108,Merchant 01108,Palo Alto,Chinese,SMB,2020-09-25,1,1,3.98
+M01109,Merchant 01109,Palo Alto,Italian,SMB,2022-05-13,0,1,4.37
+M01110,Merchant 01110,San Francisco,American,SMB,2021-07-21,1,1,4.89
+M01111,Merchant 01111,Palo Alto,Indian,SMB,2020-04-04,1,0,3.87
+M01112,Merchant 01112,San Jose,Thai,Mid-Market,2020-08-24,1,0,3.74
+M01113,Merchant 01113,San Francisco,American,SMB,2024-02-12,1,0,4.39
+M01114,Merchant 01114,Palo Alto,Mexican,SMB,2021-12-17,1,0,3.78
+M01115,Merchant 01115,San Jose,Chinese,SMB,2022-12-14,1,0,5.0
+M01116,Merchant 01116,Oakland,Chinese,SMB,2025-07-27,1,0,4.33
+M01117,Merchant 01117,Palo Alto,Mexican,SMB,2025-04-10,1,0,3.79
+M01118,Merchant 01118,San Jose,Chinese,SMB,2024-02-22,1,0,4.53
+M01119,Merchant 01119,Berkeley,Thai,SMB,2020-08-28,0,0,3.74
+M01120,Merchant 01120,Fremont,Thai,Mid-Market,2024-01-10,1,0,4.23
+M01121,Merchant 01121,Berkeley,Mediterranean,SMB,2024-04-05,1,0,4.69
+M01122,Merchant 01122,Fremont,Mediterranean,SMB,2023-08-26,1,1,4.4
+M01123,Merchant 01123,Berkeley,Japanese,SMB,2021-11-21,1,0,3.56
+M01124,Merchant 01124,Oakland,Italian,Mid-Market,2022-10-27,0,1,3.77
+M01125,Merchant 01125,Fremont,Japanese,SMB,2023-07-24,1,1,4.59
+M01126,Merchant 01126,Palo Alto,Indian,SMB,2023-05-09,1,1,4.12
+M01127,Merchant 01127,Fremont,Thai,SMB,2020-11-10,1,0,4.12
+M01128,Merchant 01128,Oakland,American,SMB,2023-06-10,1,0,4.54
+M01129,Merchant 01129,San Francisco,Japanese,Mid-Market,2021-10-06,1,0,4.8
+M01130,Merchant 01130,San Jose,Thai,SMB,2020-08-02,1,0,4.81
+M01131,Merchant 01131,San Jose,Mediterranean,SMB,2023-12-30,1,1,4.32
+M01132,Merchant 01132,San Jose,Thai,SMB,2024-10-13,1,0,4.39
+M01133,Merchant 01133,Berkeley,Mexican,SMB,2025-01-29,1,0,4.39
+M01134,Merchant 01134,Berkeley,American,SMB,2023-05-17,0,0,4.1
+M01135,Merchant 01135,Berkeley,Italian,SMB,2022-04-14,1,0,4.59
+M01136,Merchant 01136,Palo Alto,Thai,Mid-Market,2025-02-01,1,0,4.08
+M01137,Merchant 01137,Fremont,Japanese,Mid-Market,2020-07-17,1,1,4.89
+M01138,Merchant 01138,San Jose,Mexican,Mid-Market,2024-08-04,1,0,4.08
+M01139,Merchant 01139,Berkeley,Indian,SMB,2024-03-23,1,1,3.98
+M01140,Merchant 01140,Berkeley,Indian,SMB,2025-07-10,1,1,3.48
+M01141,Merchant 01141,Oakland,Thai,SMB,2024-07-21,1,0,4.23
+M01142,Merchant 01142,Berkeley,Japanese,SMB,2022-12-15,1,0,4.4
+M01143,Merchant 01143,San Francisco,Indian,SMB,2023-11-13,1,1,4.2
+M01144,Merchant 01144,Berkeley,Chinese,Mid-Market,2021-01-14,1,0,4.91
+M01145,Merchant 01145,Fremont,American,SMB,2023-07-20,1,0,4.0
+M01146,Merchant 01146,San Jose,American,SMB,2022-10-11,1,1,4.49
+M01147,Merchant 01147,Berkeley,Mexican,SMB,2021-12-05,1,0,4.26
+M01148,Merchant 01148,Oakland,Mediterranean,SMB,2020-08-10,1,0,3.91
+M01149,Merchant 01149,Palo Alto,Indian,SMB,2023-11-18,1,1,3.7
+M01150,Merchant 01150,Palo Alto,Japanese,Mid-Market,2021-03-19,1,0,4.84
+M01151,Merchant 01151,San Francisco,Italian,SMB,2022-08-24,1,1,4.58
+M01152,Merchant 01152,Palo Alto,American,SMB,2025-04-15,1,1,3.84
+M01153,Merchant 01153,Fremont,Mediterranean,SMB,2025-07-30,1,0,3.83
+M01154,Merchant 01154,Oakland,American,SMB,2023-08-04,1,1,3.98
+M01155,Merchant 01155,Berkeley,Italian,SMB,2020-12-24,1,0,4.11
+M01156,Merchant 01156,Oakland,Italian,Enterprise,2025-02-09,1,0,4.53
+M01157,Merchant 01157,San Francisco,American,Mid-Market,2020-08-24,1,0,4.12
+M01158,Merchant 01158,San Francisco,Chinese,SMB,2024-04-09,1,0,3.95
+M01159,Merchant 01159,Berkeley,Chinese,SMB,2023-05-27,1,1,4.5
+M01160,Merchant 01160,Oakland,Mexican,Mid-Market,2024-01-06,1,0,4.12
+M01161,Merchant 01161,San Francisco,Italian,Mid-Market,2021-03-16,1,0,3.63
+M01162,Merchant 01162,Palo Alto,Indian,SMB,2020-10-20,1,1,4.36
+M01163,Merchant 01163,Oakland,Mexican,SMB,2021-09-17,1,0,4.49
+M01164,Merchant 01164,Palo Alto,Mediterranean,SMB,2021-05-03,1,0,4.56
+M01165,Merchant 01165,Oakland,Indian,SMB,2021-12-19,1,0,4.13
+M01166,Merchant 01166,Fremont,Thai,Mid-Market,2021-10-29,1,0,4.26
+M01167,Merchant 01167,San Francisco,Chinese,SMB,2023-10-21,1,0,4.33
+M01168,Merchant 01168,Fremont,American,SMB,2021-04-18,1,1,3.98
+M01169,Merchant 01169,Oakland,Indian,SMB,2021-10-28,1,0,4.3
+M01170,Merchant 01170,San Jose,American,Enterprise,2022-12-16,1,0,3.98
+M01171,Merchant 01171,Fremont,Japanese,SMB,2022-09-30,1,1,3.83
+M01172,Merchant 01172,Berkeley,Mexican,Mid-Market,2022-08-24,1,0,4.46
+M01173,Merchant 01173,Palo Alto,Chinese,SMB,2023-01-06,0,0,4.12
+M01174,Merchant 01174,Fremont,Indian,SMB,2023-05-08,0,1,4.3
+M01175,Merchant 01175,Fremont,Mexican,SMB,2024-10-26,0,0,4.27
+M01176,Merchant 01176,Berkeley,Chinese,SMB,2025-03-01,1,0,4.02
+M01177,Merchant 01177,Oakland,Indian,SMB,2024-11-05,1,1,4.77
+M01178,Merchant 01178,Berkeley,Thai,SMB,2021-08-03,1,1,4.13
+M01179,Merchant 01179,Palo Alto,Mexican,SMB,2022-04-12,1,1,4.33
+M01180,Merchant 01180,Berkeley,American,SMB,2024-07-22,1,0,4.72
+M01181,Merchant 01181,Palo Alto,Mexican,SMB,2020-08-10,1,1,4.01
+M01182,Merchant 01182,Palo Alto,Indian,SMB,2025-07-11,1,0,4.12
+M01183,Merchant 01183,Oakland,Chinese,SMB,2024-11-18,0,1,3.88
+M01184,Merchant 01184,Fremont,Japanese,Mid-Market,2020-10-20,1,0,4.13
+M01185,Merchant 01185,Berkeley,Italian,Mid-Market,2022-02-07,1,1,4.63
+M01186,Merchant 01186,Fremont,Chinese,SMB,2022-04-24,1,1,4.28
+M01187,Merchant 01187,Berkeley,Mexican,SMB,2020-08-11,1,0,3.97
+M01188,Merchant 01188,San Francisco,Mediterranean,SMB,2022-06-09,1,0,4.25
+M01189,Merchant 01189,San Francisco,Mediterranean,SMB,2020-11-03,1,0,4.56
+M01190,Merchant 01190,Palo Alto,Mexican,SMB,2020-10-20,1,1,4.06
+M01191,Merchant 01191,Berkeley,Italian,Mid-Market,2024-06-07,1,0,3.77
+M01192,Merchant 01192,Fremont,Indian,SMB,2021-03-24,1,0,4.43
+M01193,Merchant 01193,Palo Alto,Thai,Mid-Market,2023-08-02,1,0,5.0
+M01194,Merchant 01194,Palo Alto,Thai,SMB,2025-03-17,1,0,4.23
+M01195,Merchant 01195,Fremont,Indian,SMB,2023-05-17,1,0,4.65
+M01196,Merchant 01196,Oakland,Japanese,SMB,2021-09-07,1,0,5.0
+M01197,Merchant 01197,Berkeley,American,SMB,2020-10-19,1,1,4.53
+M01198,Merchant 01198,Palo Alto,Italian,Enterprise,2020-04-16,1,0,4.5
+M01199,Merchant 01199,Oakland,Thai,Mid-Market,2022-07-28,1,1,4.2
+M01200,Merchant 01200,San Jose,Mexican,SMB,2021-10-27,1,0,3.98
+M01201,Merchant 01201,Berkeley,Mediterranean,SMB,2023-02-13,0,0,4.47
+M01202,Merchant 01202,San Francisco,Mexican,Mid-Market,2022-12-02,1,1,4.86
+M01203,Merchant 01203,Palo Alto,American,SMB,2020-11-22,1,0,3.84
+M01204,Merchant 01204,Oakland,Japanese,Enterprise,2024-11-10,0,1,4.37
+M01205,Merchant 01205,San Jose,Chinese,SMB,2021-07-10,1,0,4.29
+M01206,Merchant 01206,Berkeley,Italian,Mid-Market,2022-03-23,1,0,4.38
+M01207,Merchant 01207,San Francisco,Thai,SMB,2021-06-26,1,1,3.53
+M01208,Merchant 01208,Fremont,Indian,SMB,2023-11-16,1,0,4.37
+M01209,Merchant 01209,San Jose,Thai,SMB,2021-12-09,1,0,3.94
+M01210,Merchant 01210,Palo Alto,Mexican,SMB,2024-06-16,1,0,4.36
+M01211,Merchant 01211,Berkeley,Thai,SMB,2020-06-24,1,1,4.26
+M01212,Merchant 01212,San Jose,American,SMB,2022-11-19,1,0,4.65
+M01213,Merchant 01213,Berkeley,Italian,SMB,2023-06-28,1,0,3.86
+M01214,Merchant 01214,Oakland,Thai,Mid-Market,2023-10-31,1,0,4.43
+M01215,Merchant 01215,Palo Alto,Japanese,SMB,2025-07-05,1,0,3.55
+M01216,Merchant 01216,San Francisco,Mexican,SMB,2024-02-13,1,0,4.36
+M01217,Merchant 01217,Palo Alto,Mexican,Mid-Market,2021-04-28,0,1,4.6
+M01218,Merchant 01218,San Francisco,Mexican,SMB,2021-11-23,1,1,4.61
+M01219,Merchant 01219,San Jose,Mediterranean,Enterprise,2020-07-30,1,0,4.43
+M01220,Merchant 01220,Oakland,Mediterranean,SMB,2023-08-29,1,1,4.36
+M01221,Merchant 01221,Berkeley,Mexican,SMB,2022-07-08,1,0,4.49
+M01222,Merchant 01222,Palo Alto,Japanese,SMB,2021-09-16,1,0,4.41
+M01223,Merchant 01223,Oakland,Mediterranean,SMB,2020-12-15,1,0,4.69
+M01224,Merchant 01224,Palo Alto,Mediterranean,SMB,2024-01-01,1,1,4.46
+M01225,Merchant 01225,Fremont,Chinese,SMB,2024-01-15,1,1,4.19
+M01226,Merchant 01226,Palo Alto,Mediterranean,SMB,2020-12-30,1,1,4.19
+M01227,Merchant 01227,Palo Alto,Chinese,Mid-Market,2024-07-10,1,0,4.44
+M01228,Merchant 01228,Berkeley,American,SMB,2024-03-02,1,0,4.12
+M01229,Merchant 01229,Berkeley,Mediterranean,Mid-Market,2023-03-01,0,0,4.06
+M01230,Merchant 01230,Oakland,Thai,Enterprise,2020-09-03,1,0,4.2
+M01231,Merchant 01231,Fremont,Italian,Mid-Market,2022-04-30,1,1,3.95
+M01232,Merchant 01232,Oakland,Chinese,SMB,2021-10-04,1,0,4.59
+M01233,Merchant 01233,Berkeley,Mediterranean,Mid-Market,2020-08-19,1,1,4.79
+M01234,Merchant 01234,Oakland,Mexican,SMB,2021-09-14,0,0,4.85
+M01235,Merchant 01235,Berkeley,Italian,SMB,2020-12-23,1,0,4.33
+M01236,Merchant 01236,Fremont,Japanese,Mid-Market,2024-08-01,1,0,4.52
+M01237,Merchant 01237,Fremont,Thai,SMB,2021-02-21,0,0,4.1
+M01238,Merchant 01238,Oakland,Indian,SMB,2022-05-02,1,1,4.3
+M01239,Merchant 01239,Palo Alto,Italian,SMB,2022-11-28,1,1,4.65
+M01240,Merchant 01240,Fremont,Mediterranean,SMB,2021-06-16,1,0,4.13
+M01241,Merchant 01241,Fremont,Thai,SMB,2021-12-08,1,0,4.49
+M01242,Merchant 01242,San Jose,Italian,Mid-Market,2022-05-17,1,1,3.66
+M01243,Merchant 01243,San Jose,Indian,Mid-Market,2022-04-03,1,0,4.57
+M01244,Merchant 01244,Palo Alto,Japanese,SMB,2022-12-28,1,1,4.02
+M01245,Merchant 01245,Fremont,Italian,SMB,2021-10-22,1,0,4.48
+M01246,Merchant 01246,Palo Alto,Chinese,SMB,2020-05-01,1,0,4.51
+M01247,Merchant 01247,Oakland,Thai,SMB,2023-07-08,1,0,4.65
+M01248,Merchant 01248,Fremont,Indian,SMB,2022-01-05,1,0,4.34
+M01249,Merchant 01249,San Jose,Chinese,SMB,2022-07-16,1,1,3.84
+M01250,Merchant 01250,Oakland,Mediterranean,SMB,2020-07-12,1,1,3.66
+M01251,Merchant 01251,Palo Alto,Indian,SMB,2023-10-29,1,1,4.36
+M01252,Merchant 01252,Oakland,Chinese,SMB,2024-12-23,1,1,3.68
+M01253,Merchant 01253,Fremont,Chinese,Enterprise,2022-01-13,1,1,4.51
+M01254,Merchant 01254,Oakland,Indian,SMB,2022-10-30,1,0,4.79
+M01255,Merchant 01255,San Jose,Indian,SMB,2020-03-02,1,0,4.06
+M01256,Merchant 01256,Berkeley,Italian,SMB,2021-12-21,1,1,4.24
+M01257,Merchant 01257,San Jose,American,SMB,2024-07-13,1,0,4.15
+M01258,Merchant 01258,Berkeley,Chinese,SMB,2021-09-25,1,0,4.16
+M01259,Merchant 01259,San Jose,Indian,SMB,2022-01-03,1,0,4.68
+M01260,Merchant 01260,Fremont,Thai,SMB,2020-10-22,1,0,3.85
+M01261,Merchant 01261,San Jose,Japanese,SMB,2024-10-02,1,1,4.74
+M01262,Merchant 01262,San Jose,Italian,SMB,2022-08-13,1,0,4.49
+M01263,Merchant 01263,San Francisco,Indian,SMB,2024-07-24,1,0,3.72
+M01264,Merchant 01264,San Jose,Mediterranean,Mid-Market,2020-04-02,1,0,3.76
+M01265,Merchant 01265,Berkeley,Italian,Enterprise,2024-05-26,1,0,4.62
+M01266,Merchant 01266,Oakland,Indian,SMB,2020-09-10,1,0,3.83
+M01267,Merchant 01267,San Francisco,American,SMB,2021-01-17,1,1,4.78
+M01268,Merchant 01268,Berkeley,Mexican,SMB,2021-11-08,1,0,3.99
+M01269,Merchant 01269,Fremont,Chinese,SMB,2025-01-31,1,0,4.14
+M01270,Merchant 01270,Berkeley,Chinese,SMB,2021-07-13,0,0,3.89
+M01271,Merchant 01271,San Francisco,Mediterranean,SMB,2024-12-01,1,0,3.45
+M01272,Merchant 01272,Oakland,Chinese,SMB,2022-04-19,1,0,3.98
+M01273,Merchant 01273,Oakland,Japanese,SMB,2021-10-12,0,0,3.73
+M01274,Merchant 01274,San Francisco,Japanese,Mid-Market,2021-12-21,1,0,4.09
+M01275,Merchant 01275,Berkeley,Mediterranean,Mid-Market,2022-09-09,1,0,4.59
+M01276,Merchant 01276,Oakland,Mexican,SMB,2024-01-26,1,0,3.63
+M01277,Merchant 01277,San Jose,Chinese,SMB,2022-10-26,1,0,4.19
+M01278,Merchant 01278,San Jose,Chinese,Enterprise,2021-03-22,1,1,5.0
+M01279,Merchant 01279,Oakland,Chinese,SMB,2020-09-07,1,1,4.5
+M01280,Merchant 01280,Berkeley,Italian,SMB,2022-04-18,1,0,4.94
+M01281,Merchant 01281,San Jose,Japanese,SMB,2023-11-30,1,0,3.49
+M01282,Merchant 01282,Berkeley,Thai,SMB,2024-04-18,1,1,4.5
+M01283,Merchant 01283,San Jose,American,SMB,2024-10-12,1,1,4.52
+M01284,Merchant 01284,Fremont,Mexican,SMB,2022-05-28,1,0,4.69
+M01285,Merchant 01285,Fremont,American,SMB,2024-05-21,1,0,4.49
+M01286,Merchant 01286,San Francisco,Mediterranean,SMB,2022-01-03,1,0,4.55
+M01287,Merchant 01287,San Francisco,Japanese,SMB,2023-02-19,0,0,3.42
+M01288,Merchant 01288,Berkeley,American,SMB,2021-04-16,1,1,4.11
+M01289,Merchant 01289,Berkeley,Chinese,SMB,2021-12-09,1,1,4.46
+M01290,Merchant 01290,San Jose,Mediterranean,SMB,2024-06-29,0,1,4.44
+M01291,Merchant 01291,Palo Alto,Mediterranean,SMB,2020-12-29,1,1,3.99
+M01292,Merchant 01292,San Francisco,Japanese,SMB,2023-04-21,1,1,4.49
+M01293,Merchant 01293,Palo Alto,Mediterranean,SMB,2021-06-13,1,0,4.46
+M01294,Merchant 01294,Fremont,Indian,SMB,2025-08-10,1,1,4.23
+M01295,Merchant 01295,Palo Alto,Mexican,Mid-Market,2025-06-18,1,0,4.03
+M01296,Merchant 01296,San Francisco,Japanese,SMB,2022-01-17,1,0,4.24
+M01297,Merchant 01297,Berkeley,Chinese,Mid-Market,2022-04-18,1,1,3.84
+M01298,Merchant 01298,Oakland,American,SMB,2020-10-01,1,0,3.83
+M01299,Merchant 01299,Fremont,Mediterranean,SMB,2021-04-04,1,0,3.93
+M01300,Merchant 01300,Berkeley,American,SMB,2023-10-29,1,0,4.52
+M01301,Merchant 01301,San Francisco,Italian,Mid-Market,2023-07-16,1,1,4.67
+M01302,Merchant 01302,San Francisco,American,Mid-Market,2022-05-14,1,0,4.57
+M01303,Merchant 01303,Oakland,Mexican,Mid-Market,2025-01-02,1,0,4.23
+M01304,Merchant 01304,San Francisco,Thai,Enterprise,2025-07-03,1,0,4.37
+M01305,Merchant 01305,San Francisco,Italian,SMB,2024-06-30,1,1,4.8
+M01306,Merchant 01306,San Jose,Chinese,SMB,2020-05-11,1,0,4.08
+M01307,Merchant 01307,San Jose,Indian,Mid-Market,2021-11-04,1,0,4.49
+M01308,Merchant 01308,Fremont,Thai,SMB,2021-08-01,0,0,4.44
+M01309,Merchant 01309,Berkeley,Italian,SMB,2021-04-16,1,0,4.22
+M01310,Merchant 01310,Oakland,Chinese,SMB,2020-04-08,1,0,4.05
+M01311,Merchant 01311,San Francisco,American,SMB,2025-07-17,0,0,4.46
+M01312,Merchant 01312,San Jose,Mexican,SMB,2024-02-17,1,1,4.65
+M01313,Merchant 01313,Palo Alto,Chinese,Mid-Market,2025-03-04,1,1,5.0
+M01314,Merchant 01314,Berkeley,Chinese,Mid-Market,2025-02-24,0,0,4.89
+M01315,Merchant 01315,Fremont,Japanese,SMB,2024-08-17,1,0,4.37
+M01316,Merchant 01316,Fremont,Mediterranean,SMB,2025-01-27,1,0,4.31
+M01317,Merchant 01317,Palo Alto,Mediterranean,Mid-Market,2020-04-21,1,0,4.26
+M01318,Merchant 01318,Fremont,Chinese,SMB,2024-09-14,1,0,4.16
+M01319,Merchant 01319,Oakland,Chinese,Mid-Market,2022-06-07,1,0,4.41
+M01320,Merchant 01320,Palo Alto,Thai,SMB,2022-05-03,1,0,4.69
+M01321,Merchant 01321,Palo Alto,Japanese,Mid-Market,2020-03-07,1,0,4.52
+M01322,Merchant 01322,Oakland,Mediterranean,Enterprise,2020-04-26,1,0,4.27
+M01323,Merchant 01323,San Francisco,Indian,SMB,2021-06-05,1,0,4.14
+M01324,Merchant 01324,Berkeley,Indian,Mid-Market,2025-07-12,1,0,4.31
+M01325,Merchant 01325,Oakland,Indian,SMB,2020-09-16,1,0,4.5
+M01326,Merchant 01326,Fremont,American,Mid-Market,2022-09-21,1,0,3.84
+M01327,Merchant 01327,Fremont,Thai,SMB,2022-09-16,1,1,3.89
+M01328,Merchant 01328,Palo Alto,Mediterranean,SMB,2021-05-31,1,0,4.07
+M01329,Merchant 01329,San Jose,American,SMB,2024-07-15,1,1,5.0
+M01330,Merchant 01330,Palo Alto,Indian,SMB,2021-04-04,1,0,4.21
+M01331,Merchant 01331,Palo Alto,Mexican,Mid-Market,2023-07-04,1,1,4.17
+M01332,Merchant 01332,San Francisco,Mexican,Mid-Market,2020-05-13,0,0,3.92
+M01333,Merchant 01333,San Jose,Japanese,SMB,2024-08-31,1,1,3.69
+M01334,Merchant 01334,San Jose,Chinese,SMB,2024-08-16,1,0,3.88
+M01335,Merchant 01335,San Francisco,Japanese,Mid-Market,2021-03-28,1,0,4.13
+M01336,Merchant 01336,Berkeley,Indian,SMB,2023-07-18,1,0,4.16
+M01337,Merchant 01337,Palo Alto,Chinese,Mid-Market,2020-09-11,1,0,4.34
+M01338,Merchant 01338,San Jose,Japanese,SMB,2021-09-17,1,1,4.58
+M01339,Merchant 01339,Fremont,Indian,Mid-Market,2023-03-06,1,1,4.34
+M01340,Merchant 01340,San Francisco,Italian,SMB,2025-08-22,1,0,5.0
+M01341,Merchant 01341,Berkeley,Mexican,Mid-Market,2023-01-23,1,0,3.73
+M01342,Merchant 01342,San Francisco,Thai,SMB,2022-03-28,1,1,4.09
+M01343,Merchant 01343,San Jose,Mexican,SMB,2020-03-28,1,1,3.87
+M01344,Merchant 01344,San Jose,American,SMB,2024-12-14,1,1,3.46
+M01345,Merchant 01345,Oakland,American,Mid-Market,2024-10-14,1,0,4.23
+M01346,Merchant 01346,San Francisco,American,SMB,2022-03-09,1,0,4.15
+M01347,Merchant 01347,Oakland,Mediterranean,SMB,2020-09-19,1,0,4.25
+M01348,Merchant 01348,Oakland,Mexican,SMB,2023-12-08,1,0,4.24
+M01349,Merchant 01349,San Francisco,Japanese,SMB,2025-04-05,1,0,4.43
+M01350,Merchant 01350,Fremont,Indian,SMB,2020-05-30,1,0,4.34
+M01351,Merchant 01351,San Francisco,Thai,SMB,2022-07-01,1,0,4.11
+M01352,Merchant 01352,Berkeley,Chinese,SMB,2020-08-22,1,0,3.62
+M01353,Merchant 01353,San Jose,Indian,SMB,2023-06-13,1,1,3.55
+M01354,Merchant 01354,Fremont,Mediterranean,SMB,2021-04-20,1,1,4.17
+M01355,Merchant 01355,San Francisco,Mexican,SMB,2022-06-30,1,0,4.38
+M01356,Merchant 01356,San Jose,Thai,Mid-Market,2024-03-07,1,1,4.78
+M01357,Merchant 01357,Palo Alto,Chinese,Mid-Market,2024-05-27,1,1,4.55
+M01358,Merchant 01358,Berkeley,American,SMB,2022-05-25,1,0,3.94
+M01359,Merchant 01359,San Francisco,Italian,SMB,2024-06-29,1,1,3.95
+M01360,Merchant 01360,Berkeley,Chinese,SMB,2024-05-13,1,1,4.9
+M01361,Merchant 01361,San Jose,Thai,SMB,2024-03-16,1,1,4.14
+M01362,Merchant 01362,Berkeley,Italian,SMB,2022-02-24,1,0,4.12
+M01363,Merchant 01363,Fremont,Thai,Mid-Market,2023-10-30,1,0,4.56
+M01364,Merchant 01364,Oakland,Mediterranean,SMB,2024-03-18,1,0,4.02
+M01365,Merchant 01365,San Francisco,Italian,Mid-Market,2024-12-06,1,0,3.92
+M01366,Merchant 01366,Oakland,Italian,SMB,2020-05-06,1,0,4.04
+M01367,Merchant 01367,Fremont,Thai,SMB,2023-01-28,0,0,4.68
+M01368,Merchant 01368,San Francisco,Thai,SMB,2024-09-27,1,1,4.92
+M01369,Merchant 01369,Fremont,Chinese,SMB,2024-01-16,1,1,4.37
+M01370,Merchant 01370,Fremont,Mediterranean,Mid-Market,2021-01-01,1,0,4.82
+M01371,Merchant 01371,San Jose,Mexican,SMB,2025-07-29,1,0,3.8
+M01372,Merchant 01372,San Francisco,Mediterranean,SMB,2020-03-18,1,0,4.05
+M01373,Merchant 01373,Fremont,American,Enterprise,2023-07-05,1,0,3.88
+M01374,Merchant 01374,San Francisco,Chinese,SMB,2020-11-22,1,1,4.49
+M01375,Merchant 01375,San Jose,Japanese,SMB,2023-06-03,1,1,4.34
+M01376,Merchant 01376,Berkeley,Japanese,SMB,2020-03-13,1,0,4.27
+M01377,Merchant 01377,Palo Alto,Mexican,Mid-Market,2023-05-16,1,0,4.11
+M01378,Merchant 01378,San Francisco,Thai,SMB,2024-11-30,1,0,4.2
+M01379,Merchant 01379,Palo Alto,Thai,SMB,2022-11-13,1,1,4.04
+M01380,Merchant 01380,San Jose,Italian,Mid-Market,2021-06-20,1,0,4.13
+M01381,Merchant 01381,Fremont,Chinese,SMB,2021-03-17,1,1,3.67
+M01382,Merchant 01382,San Francisco,Japanese,SMB,2022-10-23,0,1,4.13
+M01383,Merchant 01383,Berkeley,Japanese,SMB,2022-12-23,1,0,4.23
+M01384,Merchant 01384,Berkeley,Italian,SMB,2025-06-25,1,0,3.89
+M01385,Merchant 01385,Oakland,American,Mid-Market,2025-03-10,1,0,3.99
+M01386,Merchant 01386,Palo Alto,Indian,Mid-Market,2020-04-28,1,1,4.29
+M01387,Merchant 01387,Fremont,Mediterranean,SMB,2022-03-06,1,0,4.74
+M01388,Merchant 01388,Berkeley,Chinese,SMB,2022-01-18,1,1,4.03
+M01389,Merchant 01389,Berkeley,Mexican,SMB,2021-11-09,1,0,4.55
+M01390,Merchant 01390,Fremont,Japanese,Mid-Market,2022-01-08,1,1,4.36
+M01391,Merchant 01391,Berkeley,Italian,SMB,2024-11-05,1,0,3.63
+M01392,Merchant 01392,San Francisco,Japanese,SMB,2023-04-15,1,0,3.64
+M01393,Merchant 01393,San Jose,Italian,Mid-Market,2022-04-23,1,1,3.52
+M01394,Merchant 01394,Oakland,Thai,SMB,2024-12-22,1,0,4.6
+M01395,Merchant 01395,Fremont,Japanese,SMB,2023-12-22,0,0,4.01
+M01396,Merchant 01396,Oakland,Indian,Mid-Market,2021-10-22,1,1,4.21
+M01397,Merchant 01397,Palo Alto,Thai,Mid-Market,2022-09-12,1,1,4.13
+M01398,Merchant 01398,Berkeley,Mexican,Mid-Market,2025-05-06,1,0,3.66
+M01399,Merchant 01399,Oakland,Indian,SMB,2021-09-03,1,1,4.67
+M01400,Merchant 01400,San Francisco,Italian,SMB,2025-03-12,1,0,4.65
+M01401,Merchant 01401,San Francisco,Mediterranean,SMB,2021-07-06,1,1,3.93
+M01402,Merchant 01402,Oakland,Mexican,SMB,2023-06-04,1,0,4.29
+M01403,Merchant 01403,Oakland,Mediterranean,SMB,2020-10-08,1,0,3.7
+M01404,Merchant 01404,Berkeley,Japanese,Mid-Market,2023-07-19,1,1,4.05
+M01405,Merchant 01405,Berkeley,Japanese,SMB,2020-05-13,0,0,3.99
+M01406,Merchant 01406,San Francisco,Indian,Mid-Market,2023-04-30,1,0,3.24
+M01407,Merchant 01407,Oakland,Thai,Mid-Market,2020-03-11,1,0,4.4
+M01408,Merchant 01408,Fremont,Mexican,SMB,2024-02-19,1,0,3.76
+M01409,Merchant 01409,San Jose,Japanese,SMB,2023-08-12,1,0,3.65
+M01410,Merchant 01410,San Jose,Thai,SMB,2022-05-03,0,0,4.13
+M01411,Merchant 01411,San Jose,Chinese,SMB,2024-06-07,1,0,4.1
+M01412,Merchant 01412,Berkeley,Thai,SMB,2020-03-25,1,1,3.95
+M01413,Merchant 01413,San Francisco,American,SMB,2024-07-02,1,0,3.99
+M01414,Merchant 01414,Oakland,Thai,Mid-Market,2021-11-18,1,0,4.86
+M01415,Merchant 01415,Fremont,Mediterranean,SMB,2023-11-12,1,0,4.88
+M01416,Merchant 01416,San Francisco,Japanese,SMB,2024-01-29,1,0,4.09
+M01417,Merchant 01417,San Francisco,Chinese,SMB,2023-10-16,1,0,4.04
+M01418,Merchant 01418,Oakland,Italian,SMB,2020-11-22,1,1,4.39
+M01419,Merchant 01419,Berkeley,Italian,SMB,2023-07-07,0,0,3.89
+M01420,Merchant 01420,San Jose,Japanese,SMB,2021-04-14,1,0,4.16
+M01421,Merchant 01421,San Jose,Italian,SMB,2021-08-14,1,1,3.88
+M01422,Merchant 01422,Palo Alto,American,SMB,2021-06-05,1,0,3.76
+M01423,Merchant 01423,Berkeley,Thai,SMB,2022-11-19,1,0,4.18
+M01424,Merchant 01424,San Jose,Indian,SMB,2021-06-01,1,0,3.8
+M01425,Merchant 01425,Palo Alto,Mediterranean,Enterprise,2021-03-25,1,1,4.88
+M01426,Merchant 01426,Oakland,Japanese,Mid-Market,2024-09-28,1,0,3.78
+M01427,Merchant 01427,Palo Alto,Japanese,Mid-Market,2022-11-30,1,0,4.18
+M01428,Merchant 01428,Oakland,Thai,SMB,2023-08-09,1,1,4.56
+M01429,Merchant 01429,Oakland,Mexican,SMB,2023-08-07,1,0,4.15
+M01430,Merchant 01430,San Jose,Japanese,SMB,2025-05-16,1,0,4.56
+M01431,Merchant 01431,San Jose,Mediterranean,SMB,2024-03-16,1,1,4.42
+M01432,Merchant 01432,San Francisco,Indian,SMB,2023-05-12,1,0,4.14
+M01433,Merchant 01433,Palo Alto,American,SMB,2021-04-17,0,1,4.16
+M01434,Merchant 01434,Palo Alto,American,SMB,2025-06-14,1,1,3.82
+M01435,Merchant 01435,Fremont,Mediterranean,SMB,2025-05-22,1,1,4.29
+M01436,Merchant 01436,Oakland,Italian,Mid-Market,2024-05-02,1,0,3.98
+M01437,Merchant 01437,Oakland,Chinese,Mid-Market,2022-07-04,1,1,3.7
+M01438,Merchant 01438,Oakland,Italian,Mid-Market,2023-10-24,1,0,3.61
+M01439,Merchant 01439,Palo Alto,Chinese,Mid-Market,2023-12-03,1,0,4.2
+M01440,Merchant 01440,San Francisco,Japanese,SMB,2025-05-12,1,1,4.41
+M01441,Merchant 01441,Palo Alto,Japanese,SMB,2025-04-27,1,0,4.41
+M01442,Merchant 01442,Berkeley,Chinese,SMB,2024-07-26,1,1,4.98
+M01443,Merchant 01443,Berkeley,Italian,SMB,2022-10-03,1,0,4.1
+M01444,Merchant 01444,San Francisco,Italian,SMB,2021-04-15,1,0,4.21
+M01445,Merchant 01445,San Jose,Thai,Mid-Market,2024-05-08,1,0,4.17
+M01446,Merchant 01446,Oakland,Mediterranean,SMB,2021-02-04,1,0,3.96
+M01447,Merchant 01447,Palo Alto,Japanese,SMB,2025-07-29,1,1,3.67
+M01448,Merchant 01448,Palo Alto,Indian,SMB,2022-05-20,0,0,4.54
+M01449,Merchant 01449,San Francisco,Thai,SMB,2020-09-26,1,0,4.31
+M01450,Merchant 01450,Oakland,Mediterranean,SMB,2023-07-13,1,0,4.45
+M01451,Merchant 01451,San Jose,Indian,SMB,2023-11-28,1,1,4.24
+M01452,Merchant 01452,Fremont,Mediterranean,SMB,2025-01-02,1,1,3.82
+M01453,Merchant 01453,Palo Alto,Italian,SMB,2020-10-28,1,0,3.98
+M01454,Merchant 01454,San Francisco,Chinese,SMB,2024-11-23,0,1,4.08
+M01455,Merchant 01455,Fremont,Mediterranean,SMB,2021-04-05,1,0,4.18
+M01456,Merchant 01456,Fremont,Chinese,SMB,2025-06-03,1,0,4.57
+M01457,Merchant 01457,San Francisco,Indian,Mid-Market,2024-04-15,0,0,3.71
+M01458,Merchant 01458,Berkeley,Mexican,SMB,2020-07-13,1,0,3.84
+M01459,Merchant 01459,Berkeley,Chinese,SMB,2020-11-25,1,1,4.31
+M01460,Merchant 01460,San Francisco,Thai,SMB,2022-03-27,1,0,4.43
+M01461,Merchant 01461,Oakland,Chinese,Mid-Market,2023-05-18,1,1,4.46
+M01462,Merchant 01462,Fremont,American,SMB,2024-10-02,1,1,4.71
+M01463,Merchant 01463,San Jose,Indian,SMB,2025-05-16,1,0,3.9
+M01464,Merchant 01464,Oakland,American,Enterprise,2022-02-25,1,1,4.55
+M01465,Merchant 01465,San Francisco,Thai,SMB,2025-04-01,1,1,3.14
+M01466,Merchant 01466,San Francisco,Japanese,SMB,2022-11-02,1,0,3.76
+M01467,Merchant 01467,San Francisco,Chinese,SMB,2021-09-22,1,1,4.03
+M01468,Merchant 01468,Palo Alto,Chinese,SMB,2021-01-03,1,1,4.23
+M01469,Merchant 01469,Fremont,Japanese,Mid-Market,2022-10-06,1,1,4.49
+M01470,Merchant 01470,Fremont,Thai,SMB,2024-10-31,1,0,4.42
+M01471,Merchant 01471,Palo Alto,Italian,SMB,2020-08-18,1,1,4.65
+M01472,Merchant 01472,Fremont,Chinese,Enterprise,2021-07-12,1,0,4.7
+M01473,Merchant 01473,Fremont,Italian,SMB,2024-07-29,1,0,3.59
+M01474,Merchant 01474,San Francisco,American,SMB,2021-09-15,1,0,3.84
+M01475,Merchant 01475,San Francisco,Chinese,SMB,2021-12-17,1,1,3.48
+M01476,Merchant 01476,San Francisco,Mexican,SMB,2025-06-02,1,0,3.85
+M01477,Merchant 01477,Berkeley,American,SMB,2024-12-29,1,1,4.47
+M01478,Merchant 01478,Oakland,Mediterranean,SMB,2023-11-01,1,0,4.65
+M01479,Merchant 01479,Oakland,Mexican,SMB,2025-01-31,1,0,4.67
+M01480,Merchant 01480,Berkeley,Thai,SMB,2023-07-19,1,0,4.07
+M01481,Merchant 01481,San Jose,Thai,Mid-Market,2025-04-28,1,0,3.98
+M01482,Merchant 01482,Fremont,Thai,Mid-Market,2024-08-02,1,0,3.83
+M01483,Merchant 01483,San Francisco,Thai,SMB,2023-03-29,1,0,3.91
+M01484,Merchant 01484,Palo Alto,Indian,Mid-Market,2021-07-19,1,1,4.33
+M01485,Merchant 01485,San Jose,Mexican,SMB,2022-10-27,1,0,3.67
+M01486,Merchant 01486,Fremont,American,Mid-Market,2023-03-20,1,1,4.51
+M01487,Merchant 01487,Palo Alto,Italian,SMB,2022-01-09,1,0,4.52
+M01488,Merchant 01488,San Jose,American,SMB,2020-06-07,1,1,4.24
+M01489,Merchant 01489,San Jose,Mexican,SMB,2021-07-02,1,1,4.67
+M01490,Merchant 01490,Fremont,Chinese,Mid-Market,2022-08-11,1,0,4.06
+M01491,Merchant 01491,San Jose,Mexican,SMB,2024-12-02,1,0,4.32
+M01492,Merchant 01492,Oakland,Mexican,SMB,2020-07-23,1,1,4.27
+M01493,Merchant 01493,Oakland,Thai,SMB,2021-06-21,0,1,4.38
+M01494,Merchant 01494,Oakland,Italian,SMB,2020-09-18,1,0,4.56
+M01495,Merchant 01495,Berkeley,Chinese,SMB,2024-03-15,1,0,4.0
+M01496,Merchant 01496,Oakland,Indian,Mid-Market,2022-11-19,1,0,3.96
+M01497,Merchant 01497,Palo Alto,Chinese,SMB,2023-11-13,1,0,3.65
+M01498,Merchant 01498,San Jose,American,SMB,2022-10-12,0,0,4.01
+M01499,Merchant 01499,San Francisco,Mediterranean,SMB,2022-11-10,1,0,4.52
+M01500,Merchant 01500,Palo Alto,Mexican,SMB,2022-05-24,1,0,3.96
+M01501,Merchant 01501,Fremont,Chinese,SMB,2023-05-16,1,0,3.58
+M01502,Merchant 01502,Berkeley,Thai,SMB,2025-06-03,1,0,3.65
+M01503,Merchant 01503,San Jose,Indian,SMB,2025-08-28,1,0,4.24
+M01504,Merchant 01504,San Jose,American,SMB,2021-04-13,1,1,4.31
+M01505,Merchant 01505,Fremont,American,SMB,2023-07-30,1,0,4.16
+M01506,Merchant 01506,Berkeley,Japanese,SMB,2024-09-07,1,1,4.17
+M01507,Merchant 01507,Palo Alto,Thai,SMB,2024-10-09,1,0,4.26
+M01508,Merchant 01508,San Jose,Chinese,SMB,2025-02-04,1,0,4.33
+M01509,Merchant 01509,Oakland,Mexican,SMB,2023-02-12,1,1,4.28
+M01510,Merchant 01510,Fremont,Mexican,Mid-Market,2024-01-14,1,0,4.54
+M01511,Merchant 01511,Oakland,Japanese,SMB,2022-09-23,1,0,4.33
+M01512,Merchant 01512,San Jose,Indian,SMB,2023-04-03,1,0,4.8
+M01513,Merchant 01513,Berkeley,Mexican,SMB,2022-07-03,1,0,4.03
+M01514,Merchant 01514,Berkeley,Mexican,Enterprise,2023-02-04,1,1,3.56
+M01515,Merchant 01515,San Francisco,Italian,SMB,2022-10-04,1,1,4.62
+M01516,Merchant 01516,Palo Alto,Mediterranean,Mid-Market,2024-07-26,1,1,4.38
+M01517,Merchant 01517,Fremont,Thai,SMB,2021-12-19,1,0,4.25
+M01518,Merchant 01518,Berkeley,Italian,SMB,2021-07-18,1,1,3.88
+M01519,Merchant 01519,Palo Alto,Mediterranean,SMB,2024-12-02,1,0,4.63
+M01520,Merchant 01520,San Jose,Chinese,SMB,2021-11-03,0,1,4.33
+M01521,Merchant 01521,Berkeley,Chinese,Mid-Market,2022-04-24,0,0,4.63
+M01522,Merchant 01522,Berkeley,Mexican,SMB,2020-10-13,1,1,4.03
+M01523,Merchant 01523,San Jose,Italian,SMB,2025-05-20,1,1,4.05
+M01524,Merchant 01524,San Jose,American,SMB,2025-06-23,1,0,4.43
+M01525,Merchant 01525,Fremont,Italian,SMB,2025-06-21,1,1,4.58
+M01526,Merchant 01526,Palo Alto,Chinese,SMB,2022-04-24,1,0,4.12
+M01527,Merchant 01527,Berkeley,Mexican,SMB,2024-03-19,1,0,4.38
+M01528,Merchant 01528,Oakland,Italian,Mid-Market,2023-12-23,1,1,5.0
+M01529,Merchant 01529,Berkeley,Mexican,SMB,2024-10-05,1,1,3.9
+M01530,Merchant 01530,Oakland,American,Enterprise,2021-04-14,1,0,5.0
+M01531,Merchant 01531,San Jose,Mexican,SMB,2023-05-03,1,1,3.67
+M01532,Merchant 01532,Berkeley,Mexican,SMB,2021-02-18,0,0,4.06
+M01533,Merchant 01533,San Jose,Mediterranean,SMB,2020-11-04,1,1,3.72
+M01534,Merchant 01534,Oakland,Mediterranean,SMB,2020-08-06,1,0,3.78
+M01535,Merchant 01535,Oakland,Italian,Mid-Market,2024-07-31,0,0,3.83
+M01536,Merchant 01536,San Jose,Indian,SMB,2022-02-13,1,1,4.5
+M01537,Merchant 01537,Palo Alto,Japanese,SMB,2024-03-05,1,0,4.13
+M01538,Merchant 01538,San Francisco,Chinese,Mid-Market,2020-10-08,1,0,3.76
+M01539,Merchant 01539,Berkeley,Mexican,SMB,2024-08-26,1,0,4.16
+M01540,Merchant 01540,Oakland,American,SMB,2020-11-25,1,1,3.75
+M01541,Merchant 01541,Oakland,Mexican,Mid-Market,2022-12-07,1,0,4.73
+M01542,Merchant 01542,Berkeley,Italian,Enterprise,2021-11-14,1,0,4.12
+M01543,Merchant 01543,Palo Alto,Mexican,Mid-Market,2022-08-05,1,0,4.01
+M01544,Merchant 01544,Oakland,Mediterranean,SMB,2020-05-19,1,0,4.76
+M01545,Merchant 01545,Oakland,Japanese,Mid-Market,2021-01-20,1,1,4.17
+M01546,Merchant 01546,Palo Alto,Mediterranean,Mid-Market,2023-06-01,1,1,3.67
+M01547,Merchant 01547,San Jose,Mexican,SMB,2022-04-12,1,1,4.55
+M01548,Merchant 01548,San Francisco,Indian,SMB,2021-12-27,1,0,4.51
+M01549,Merchant 01549,Berkeley,Mexican,SMB,2022-12-17,1,0,4.56
+M01550,Merchant 01550,San Francisco,Italian,SMB,2024-05-02,1,0,3.91
+M01551,Merchant 01551,Berkeley,Japanese,SMB,2021-03-26,1,1,4.22
+M01552,Merchant 01552,Fremont,Chinese,Enterprise,2025-08-16,1,1,4.43
+M01553,Merchant 01553,Berkeley,Italian,SMB,2022-11-03,1,0,5.0
+M01554,Merchant 01554,Oakland,Mexican,SMB,2024-05-14,1,0,2.91
+M01555,Merchant 01555,Fremont,Thai,SMB,2024-05-31,1,1,4.89
+M01556,Merchant 01556,Oakland,American,SMB,2023-11-12,1,0,4.31
+M01557,Merchant 01557,San Jose,Thai,Enterprise,2023-04-11,1,0,4.28
+M01558,Merchant 01558,Berkeley,Chinese,Mid-Market,2023-06-07,1,0,4.2
+M01559,Merchant 01559,San Jose,Italian,Mid-Market,2020-11-28,1,0,3.75
+M01560,Merchant 01560,Palo Alto,Italian,SMB,2023-03-02,1,0,3.84
+M01561,Merchant 01561,Palo Alto,Chinese,SMB,2025-07-31,0,1,4.26
+M01562,Merchant 01562,Berkeley,Italian,SMB,2020-10-29,1,0,4.38
+M01563,Merchant 01563,San Francisco,Japanese,SMB,2022-03-02,1,0,4.2
+M01564,Merchant 01564,San Francisco,Indian,Mid-Market,2025-01-13,1,1,4.41
+M01565,Merchant 01565,San Francisco,Italian,Mid-Market,2020-12-09,0,1,4.51
+M01566,Merchant 01566,Oakland,Italian,SMB,2023-12-10,1,0,4.19
+M01567,Merchant 01567,San Jose,Mexican,SMB,2024-12-20,1,1,4.31
+M01568,Merchant 01568,San Jose,Mexican,SMB,2024-12-03,1,0,4.55
+M01569,Merchant 01569,Palo Alto,Thai,SMB,2024-10-27,1,1,4.2
+M01570,Merchant 01570,San Jose,Thai,SMB,2023-06-30,0,1,5.0
+M01571,Merchant 01571,Palo Alto,Mexican,SMB,2023-12-07,1,0,4.49
+M01572,Merchant 01572,Palo Alto,Chinese,Mid-Market,2023-07-31,1,0,3.9
+M01573,Merchant 01573,San Jose,Indian,SMB,2025-03-04,1,1,4.36
+M01574,Merchant 01574,Oakland,Japanese,SMB,2021-11-05,1,0,3.84
+M01575,Merchant 01575,Fremont,Thai,Mid-Market,2023-03-22,1,0,4.74
+M01576,Merchant 01576,San Francisco,Italian,SMB,2021-07-03,1,1,4.84
+M01577,Merchant 01577,Fremont,Mexican,SMB,2022-11-03,1,0,4.94
+M01578,Merchant 01578,Palo Alto,Indian,SMB,2022-02-26,1,0,4.39
+M01579,Merchant 01579,San Jose,American,SMB,2023-03-15,1,0,3.63
+M01580,Merchant 01580,San Francisco,Mexican,SMB,2025-08-01,1,1,3.97
+M01581,Merchant 01581,San Francisco,Thai,SMB,2025-03-22,1,1,4.06
+M01582,Merchant 01582,Oakland,Italian,Mid-Market,2024-02-25,1,1,4.34
+M01583,Merchant 01583,Oakland,Japanese,SMB,2023-03-05,1,0,4.24
+M01584,Merchant 01584,Oakland,American,SMB,2022-12-02,1,0,3.9
+M01585,Merchant 01585,Fremont,Italian,Mid-Market,2021-08-31,1,0,4.07
+M01586,Merchant 01586,Berkeley,Mediterranean,SMB,2025-02-11,1,0,3.8
+M01587,Merchant 01587,Palo Alto,Thai,SMB,2021-10-18,1,1,4.58
+M01588,Merchant 01588,Palo Alto,Mexican,Mid-Market,2022-11-13,1,0,4.34
+M01589,Merchant 01589,San Francisco,Mediterranean,SMB,2024-03-21,1,1,4.27
+M01590,Merchant 01590,San Francisco,Japanese,Mid-Market,2024-12-02,1,1,4.11
+M01591,Merchant 01591,Oakland,Mediterranean,SMB,2020-03-28,1,0,4.2
+M01592,Merchant 01592,Oakland,Indian,SMB,2020-07-24,1,0,4.34
+M01593,Merchant 01593,Fremont,Japanese,SMB,2022-11-05,0,0,4.04
+M01594,Merchant 01594,Oakland,Thai,SMB,2020-06-22,1,0,5.0
+M01595,Merchant 01595,Berkeley,Italian,Enterprise,2024-10-25,1,0,3.87
+M01596,Merchant 01596,Berkeley,Thai,SMB,2023-07-04,1,1,4.29
+M01597,Merchant 01597,San Jose,Japanese,SMB,2025-02-06,1,0,3.83
+M01598,Merchant 01598,San Francisco,Italian,SMB,2023-11-30,1,0,4.52
+M01599,Merchant 01599,San Francisco,Chinese,SMB,2021-08-26,1,0,4.36
+M01600,Merchant 01600,San Jose,Mediterranean,SMB,2023-05-05,1,0,4.15
+M01601,Merchant 01601,San Francisco,Chinese,SMB,2022-06-02,1,0,4.13
+M01602,Merchant 01602,Oakland,Mediterranean,SMB,2021-07-02,1,1,3.94
+M01603,Merchant 01603,Berkeley,Italian,SMB,2024-12-12,0,0,4.57
+M01604,Merchant 01604,San Jose,American,SMB,2024-09-29,0,0,4.16
+M01605,Merchant 01605,San Jose,Indian,SMB,2020-10-03,1,0,4.67
+M01606,Merchant 01606,Fremont,Chinese,Mid-Market,2024-09-03,1,0,4.4
+M01607,Merchant 01607,Oakland,Mexican,Enterprise,2023-06-18,0,0,4.34
+M01608,Merchant 01608,Berkeley,Japanese,SMB,2024-03-01,1,0,4.24
+M01609,Merchant 01609,Berkeley,Indian,SMB,2023-09-08,1,0,4.53
+M01610,Merchant 01610,Berkeley,Italian,Mid-Market,2023-08-12,1,1,4.24
+M01611,Merchant 01611,Berkeley,Japanese,SMB,2022-04-09,1,0,4.3
+M01612,Merchant 01612,San Francisco,Mexican,SMB,2021-08-22,1,0,4.71
+M01613,Merchant 01613,Fremont,American,SMB,2020-04-29,1,0,3.88
+M01614,Merchant 01614,Fremont,Chinese,SMB,2023-07-17,1,0,4.85
+M01615,Merchant 01615,Palo Alto,Mediterranean,SMB,2022-02-03,1,0,4.86
+M01616,Merchant 01616,Oakland,Mexican,Mid-Market,2025-01-18,1,0,4.18
+M01617,Merchant 01617,Palo Alto,American,Enterprise,2021-09-08,1,0,4.85
+M01618,Merchant 01618,Fremont,Chinese,SMB,2024-09-12,1,0,4.05
+M01619,Merchant 01619,San Jose,Mediterranean,SMB,2020-03-07,1,0,4.39
+M01620,Merchant 01620,San Francisco,American,Mid-Market,2020-07-03,1,0,4.61
+M01621,Merchant 01621,Fremont,Mexican,SMB,2024-05-15,1,1,3.94
+M01622,Merchant 01622,San Jose,Indian,SMB,2023-10-20,1,1,4.39
+M01623,Merchant 01623,San Jose,Mexican,SMB,2025-06-13,0,1,4.57
+M01624,Merchant 01624,Palo Alto,Chinese,SMB,2024-01-26,0,0,4.1
+M01625,Merchant 01625,Palo Alto,Italian,SMB,2022-08-23,1,0,4.2
+M01626,Merchant 01626,San Francisco,Japanese,Mid-Market,2023-08-04,1,1,3.94
+M01627,Merchant 01627,Oakland,Mexican,SMB,2023-08-03,1,0,4.31
+M01628,Merchant 01628,Oakland,Mediterranean,SMB,2024-09-14,1,1,4.26
+M01629,Merchant 01629,Berkeley,Japanese,SMB,2024-11-19,1,1,4.64
+M01630,Merchant 01630,Oakland,American,SMB,2020-11-16,0,1,4.35
+M01631,Merchant 01631,Oakland,Mediterranean,Mid-Market,2021-06-04,1,1,3.9
+M01632,Merchant 01632,Oakland,Thai,SMB,2025-08-18,1,0,4.71
+M01633,Merchant 01633,Oakland,Japanese,SMB,2023-02-10,1,0,3.69
+M01634,Merchant 01634,Palo Alto,Indian,SMB,2023-07-14,1,0,4.59
+M01635,Merchant 01635,San Francisco,Mediterranean,SMB,2024-06-22,1,1,4.04
+M01636,Merchant 01636,Oakland,Italian,SMB,2024-11-16,1,0,4.02
+M01637,Merchant 01637,San Jose,Chinese,SMB,2020-05-09,1,1,3.98
+M01638,Merchant 01638,San Francisco,Italian,SMB,2020-04-01,1,0,4.68
+M01639,Merchant 01639,San Francisco,Chinese,SMB,2025-04-09,1,1,4.48
+M01640,Merchant 01640,Palo Alto,Indian,Mid-Market,2020-12-01,1,0,4.24
+M01641,Merchant 01641,San Francisco,Italian,SMB,2023-06-30,1,0,4.44
+M01642,Merchant 01642,Palo Alto,Mexican,SMB,2022-11-22,1,1,4.52
+M01643,Merchant 01643,Palo Alto,Indian,SMB,2022-09-11,1,0,4.22
+M01644,Merchant 01644,Oakland,Chinese,SMB,2023-01-16,0,1,4.35
+M01645,Merchant 01645,San Jose,Mexican,SMB,2025-03-05,1,0,4.1
+M01646,Merchant 01646,Berkeley,Indian,Mid-Market,2022-03-30,1,1,4.54
+M01647,Merchant 01647,Berkeley,Chinese,Mid-Market,2024-02-24,1,1,4.09
+M01648,Merchant 01648,Fremont,Chinese,Mid-Market,2023-01-04,1,0,4.47
+M01649,Merchant 01649,San Jose,Mexican,SMB,2022-09-15,1,1,4.42
+M01650,Merchant 01650,San Francisco,Mediterranean,Mid-Market,2021-01-29,1,0,4.28
+M01651,Merchant 01651,Palo Alto,Italian,SMB,2022-03-31,0,0,4.28
+M01652,Merchant 01652,Berkeley,Japanese,Mid-Market,2022-05-18,1,1,3.86
+M01653,Merchant 01653,Berkeley,Mexican,Mid-Market,2021-02-02,1,0,4.29
+M01654,Merchant 01654,Berkeley,Mediterranean,SMB,2024-04-17,1,1,4.05
+M01655,Merchant 01655,Oakland,Thai,SMB,2021-11-19,1,0,4.67
+M01656,Merchant 01656,Palo Alto,Mediterranean,SMB,2021-12-25,1,0,4.85
+M01657,Merchant 01657,San Francisco,Japanese,SMB,2021-01-18,1,1,4.33
+M01658,Merchant 01658,Berkeley,Indian,SMB,2024-11-28,1,0,4.23
+M01659,Merchant 01659,Berkeley,Mexican,SMB,2023-07-26,1,0,3.79
+M01660,Merchant 01660,San Jose,Chinese,SMB,2023-08-24,1,0,3.87
+M01661,Merchant 01661,Palo Alto,Indian,SMB,2024-08-21,1,1,4.3
+M01662,Merchant 01662,Berkeley,American,Mid-Market,2020-03-15,1,0,3.84
+M01663,Merchant 01663,Palo Alto,Mexican,SMB,2025-06-09,1,0,3.92
+M01664,Merchant 01664,Palo Alto,Indian,SMB,2023-09-28,1,0,4.73
+M01665,Merchant 01665,San Francisco,American,SMB,2024-04-04,1,1,4.37
+M01666,Merchant 01666,Fremont,Japanese,Mid-Market,2024-05-06,1,1,4.68
+M01667,Merchant 01667,San Francisco,Mediterranean,SMB,2023-07-18,1,0,4.22
+M01668,Merchant 01668,San Francisco,Japanese,Mid-Market,2025-05-14,1,1,4.19
+M01669,Merchant 01669,Fremont,Chinese,SMB,2023-12-11,1,1,4.18
+M01670,Merchant 01670,Fremont,Japanese,SMB,2020-06-07,1,0,3.77
+M01671,Merchant 01671,San Jose,Thai,SMB,2020-04-09,1,0,4.72
+M01672,Merchant 01672,San Francisco,American,SMB,2024-07-22,1,1,4.29
+M01673,Merchant 01673,San Francisco,Mediterranean,Mid-Market,2023-03-24,1,1,3.82
+M01674,Merchant 01674,San Francisco,Japanese,SMB,2023-04-17,1,0,4.03
+M01675,Merchant 01675,Palo Alto,Indian,SMB,2021-05-29,1,0,3.4
+M01676,Merchant 01676,Berkeley,Italian,SMB,2021-10-13,1,0,4.64
+M01677,Merchant 01677,San Jose,Mexican,SMB,2023-01-07,1,0,3.89
+M01678,Merchant 01678,Berkeley,American,SMB,2020-08-27,1,1,4.18
+M01679,Merchant 01679,Palo Alto,Mexican,SMB,2025-03-04,1,1,4.02
+M01680,Merchant 01680,Oakland,American,SMB,2022-10-22,1,0,4.7
+M01681,Merchant 01681,Berkeley,Mexican,SMB,2025-08-06,0,0,4.07
+M01682,Merchant 01682,Oakland,Mediterranean,SMB,2022-01-23,1,0,4.34
+M01683,Merchant 01683,Berkeley,Italian,Mid-Market,2023-10-31,1,1,4.41
+M01684,Merchant 01684,San Jose,Japanese,SMB,2021-06-25,1,0,3.91
+M01685,Merchant 01685,Berkeley,Chinese,SMB,2024-03-30,1,0,4.26
+M01686,Merchant 01686,Fremont,American,SMB,2020-04-24,1,0,3.95
+M01687,Merchant 01687,Berkeley,Thai,SMB,2023-06-21,1,1,4.02
+M01688,Merchant 01688,Berkeley,Thai,SMB,2021-10-30,1,0,4.22
+M01689,Merchant 01689,Palo Alto,Japanese,SMB,2021-01-30,1,0,4.25
+M01690,Merchant 01690,San Jose,Chinese,SMB,2022-12-27,1,0,4.01
+M01691,Merchant 01691,Berkeley,Thai,SMB,2021-04-30,1,1,3.96
+M01692,Merchant 01692,Berkeley,American,SMB,2023-01-29,1,1,4.88
+M01693,Merchant 01693,Oakland,Mexican,SMB,2022-09-16,1,1,5.0
+M01694,Merchant 01694,Palo Alto,Chinese,SMB,2023-06-27,1,0,3.89
+M01695,Merchant 01695,Oakland,Chinese,SMB,2025-05-08,1,0,4.52
+M01696,Merchant 01696,Palo Alto,Italian,SMB,2023-09-13,1,0,3.83
+M01697,Merchant 01697,Fremont,Japanese,SMB,2024-09-02,1,1,3.48
+M01698,Merchant 01698,San Francisco,Chinese,SMB,2022-03-10,1,0,4.1
+M01699,Merchant 01699,Palo Alto,Japanese,SMB,2024-01-12,1,1,4.4
+M01700,Merchant 01700,Berkeley,Japanese,SMB,2025-05-31,1,0,4.36
+M01701,Merchant 01701,Oakland,Chinese,Mid-Market,2024-10-04,1,0,3.96
+M01702,Merchant 01702,San Francisco,American,SMB,2023-02-11,1,1,4.3
+M01703,Merchant 01703,San Jose,Chinese,Mid-Market,2025-03-15,1,0,4.33
+M01704,Merchant 01704,San Jose,Thai,Mid-Market,2022-06-09,1,0,4.1
+M01705,Merchant 01705,Palo Alto,Italian,Mid-Market,2021-12-19,1,0,3.96
+M01706,Merchant 01706,San Francisco,Indian,Mid-Market,2022-10-15,1,0,4.22
+M01707,Merchant 01707,Oakland,Mexican,SMB,2023-02-26,1,0,4.19
+M01708,Merchant 01708,Oakland,Mediterranean,SMB,2021-08-02,0,0,4.97
+M01709,Merchant 01709,San Francisco,Italian,Mid-Market,2024-11-21,1,0,4.21
+M01710,Merchant 01710,Fremont,Italian,SMB,2024-08-17,1,1,3.58
+M01711,Merchant 01711,Berkeley,Japanese,SMB,2022-02-16,1,1,4.28
+M01712,Merchant 01712,San Jose,Japanese,SMB,2022-09-28,0,1,4.04
+M01713,Merchant 01713,San Jose,Japanese,SMB,2022-06-17,0,0,4.22
+M01714,Merchant 01714,Oakland,Chinese,SMB,2024-12-07,1,0,4.55
+M01715,Merchant 01715,Fremont,Mediterranean,SMB,2024-07-08,1,0,4.59
+M01716,Merchant 01716,San Francisco,American,SMB,2022-03-12,1,0,4.52
+M01717,Merchant 01717,Fremont,Japanese,SMB,2022-11-02,1,0,4.58
+M01718,Merchant 01718,San Jose,Italian,Mid-Market,2022-05-13,1,1,4.45
+M01719,Merchant 01719,Fremont,Thai,SMB,2022-09-28,1,0,3.91
+M01720,Merchant 01720,Berkeley,Thai,SMB,2024-01-30,1,1,4.39
+M01721,Merchant 01721,Berkeley,Mexican,SMB,2022-12-25,1,0,4.52
+M01722,Merchant 01722,Oakland,Thai,SMB,2020-09-09,1,0,4.48
+M01723,Merchant 01723,Oakland,American,SMB,2025-06-21,1,0,4.35
+M01724,Merchant 01724,Berkeley,Italian,SMB,2023-03-30,1,1,4.37
+M01725,Merchant 01725,Berkeley,Chinese,SMB,2024-11-07,1,1,3.84
+M01726,Merchant 01726,Palo Alto,Japanese,Enterprise,2023-03-23,1,1,4.34
+M01727,Merchant 01727,San Jose,American,SMB,2024-09-08,1,0,4.51
+M01728,Merchant 01728,Berkeley,Chinese,Mid-Market,2025-01-04,1,0,4.78
+M01729,Merchant 01729,San Francisco,Japanese,SMB,2024-05-22,0,1,5.0
+M01730,Merchant 01730,Berkeley,Chinese,SMB,2023-03-21,1,1,4.27
+M01731,Merchant 01731,Fremont,Indian,Enterprise,2022-12-14,1,0,4.43
+M01732,Merchant 01732,Palo Alto,Mexican,Mid-Market,2022-10-31,1,1,4.29
+M01733,Merchant 01733,San Francisco,Mediterranean,SMB,2021-03-27,1,0,4.18
+M01734,Merchant 01734,San Francisco,Mexican,Mid-Market,2021-10-23,1,0,4.14
+M01735,Merchant 01735,Palo Alto,Mexican,Enterprise,2022-02-03,1,0,4.32
+M01736,Merchant 01736,San Francisco,Mediterranean,SMB,2023-11-28,1,0,3.74
+M01737,Merchant 01737,San Francisco,Mediterranean,Mid-Market,2022-01-14,1,0,4.11
+M01738,Merchant 01738,Fremont,Thai,Enterprise,2025-01-21,1,1,3.93
+M01739,Merchant 01739,Oakland,Mexican,SMB,2025-05-01,1,0,3.58
+M01740,Merchant 01740,San Francisco,Thai,Mid-Market,2023-07-30,1,0,4.2
+M01741,Merchant 01741,Oakland,Chinese,SMB,2021-04-20,1,1,3.73
+M01742,Merchant 01742,Palo Alto,Chinese,SMB,2023-06-16,1,0,4.68
+M01743,Merchant 01743,Palo Alto,Mexican,SMB,2025-04-18,1,1,4.07
+M01744,Merchant 01744,Berkeley,Indian,SMB,2025-02-26,0,0,4.15
+M01745,Merchant 01745,San Jose,Italian,SMB,2025-07-15,1,0,4.23
+M01746,Merchant 01746,Berkeley,Mediterranean,Mid-Market,2022-01-03,0,1,4.62
+M01747,Merchant 01747,Fremont,Mediterranean,SMB,2024-07-07,1,0,4.17
+M01748,Merchant 01748,San Francisco,American,Mid-Market,2021-08-19,0,1,4.48
+M01749,Merchant 01749,San Francisco,Indian,SMB,2023-01-10,1,1,4.16
+M01750,Merchant 01750,Fremont,Thai,SMB,2022-02-22,1,0,3.68
+M01751,Merchant 01751,San Jose,Mexican,SMB,2022-12-20,1,1,4.52
+M01752,Merchant 01752,Berkeley,American,Mid-Market,2022-06-26,1,0,3.96
+M01753,Merchant 01753,Oakland,Italian,SMB,2022-10-29,1,1,3.79
+M01754,Merchant 01754,Oakland,Mexican,SMB,2022-12-12,1,1,3.58
+M01755,Merchant 01755,San Jose,Chinese,SMB,2023-02-15,1,0,3.87
+M01756,Merchant 01756,Fremont,Indian,SMB,2023-02-27,1,0,4.58
+M01757,Merchant 01757,Fremont,Mexican,Mid-Market,2024-08-21,0,0,3.86
+M01758,Merchant 01758,Fremont,Italian,SMB,2020-09-02,1,0,4.72
+M01759,Merchant 01759,Berkeley,Mexican,Mid-Market,2024-08-29,1,0,4.65
+M01760,Merchant 01760,San Jose,Japanese,SMB,2024-09-30,1,1,4.55
+M01761,Merchant 01761,San Jose,Chinese,SMB,2022-04-18,1,1,3.68
+M01762,Merchant 01762,San Jose,Indian,Enterprise,2022-11-11,1,1,4.99
+M01763,Merchant 01763,Berkeley,Mediterranean,SMB,2020-09-16,1,0,4.01
+M01764,Merchant 01764,San Francisco,Thai,SMB,2023-12-01,1,0,4.13
+M01765,Merchant 01765,Fremont,Mediterranean,Mid-Market,2022-04-05,1,1,4.11
+M01766,Merchant 01766,Palo Alto,Italian,SMB,2021-12-21,1,0,4.45
+M01767,Merchant 01767,San Jose,Italian,SMB,2020-06-07,1,0,4.35
+M01768,Merchant 01768,Fremont,American,SMB,2022-08-11,1,1,3.34
+M01769,Merchant 01769,Berkeley,Indian,SMB,2022-09-08,0,0,4.91
+M01770,Merchant 01770,Palo Alto,Japanese,SMB,2023-01-18,1,0,3.75
+M01771,Merchant 01771,San Jose,Mexican,SMB,2023-08-01,1,0,4.56
+M01772,Merchant 01772,Oakland,Chinese,Mid-Market,2024-06-26,1,0,4.36
+M01773,Merchant 01773,Oakland,Chinese,Mid-Market,2024-08-07,1,0,3.86
+M01774,Merchant 01774,Fremont,Mediterranean,SMB,2022-10-15,1,0,4.36
+M01775,Merchant 01775,Fremont,Thai,SMB,2021-12-15,0,1,4.15
+M01776,Merchant 01776,Palo Alto,Japanese,SMB,2025-04-18,1,1,4.22
+M01777,Merchant 01777,San Francisco,American,SMB,2020-05-05,1,1,4.71
+M01778,Merchant 01778,San Francisco,Mediterranean,SMB,2024-04-26,1,1,4.52
+M01779,Merchant 01779,Palo Alto,Chinese,Mid-Market,2025-02-08,1,0,3.74
+M01780,Merchant 01780,Berkeley,Indian,Enterprise,2024-05-22,0,0,4.1
+M01781,Merchant 01781,San Francisco,Mediterranean,SMB,2024-03-18,1,0,4.21
+M01782,Merchant 01782,San Francisco,Mediterranean,SMB,2021-12-01,1,0,4.5
+M01783,Merchant 01783,San Jose,Chinese,SMB,2023-06-10,1,1,3.99
+M01784,Merchant 01784,San Jose,Indian,SMB,2021-05-02,1,0,4.62
+M01785,Merchant 01785,Berkeley,Italian,Enterprise,2024-10-28,1,1,4.05
+M01786,Merchant 01786,Oakland,Indian,Enterprise,2024-06-20,1,0,4.15
+M01787,Merchant 01787,Palo Alto,Chinese,SMB,2022-08-05,1,0,3.96
+M01788,Merchant 01788,San Francisco,Thai,Mid-Market,2023-04-12,1,0,3.92
+M01789,Merchant 01789,San Jose,Thai,SMB,2022-01-25,1,0,4.52
+M01790,Merchant 01790,San Francisco,Mexican,SMB,2023-04-10,1,1,4.55
+M01791,Merchant 01791,Oakland,Italian,Mid-Market,2021-05-06,1,1,3.94
+M01792,Merchant 01792,San Jose,Japanese,SMB,2023-03-24,1,0,4.21
+M01793,Merchant 01793,San Jose,Mexican,SMB,2020-07-03,1,1,4.13
+M01794,Merchant 01794,Fremont,Thai,SMB,2023-11-03,1,1,4.63
+M01795,Merchant 01795,Berkeley,Japanese,SMB,2020-12-12,0,0,4.28
+M01796,Merchant 01796,San Jose,Italian,Enterprise,2025-08-28,1,1,3.67
+M01797,Merchant 01797,Berkeley,Indian,SMB,2023-12-12,1,1,4.05
+M01798,Merchant 01798,Palo Alto,American,SMB,2024-01-09,1,1,4.81
+M01799,Merchant 01799,San Francisco,Mediterranean,SMB,2022-12-05,0,0,4.15
+M01800,Merchant 01800,Fremont,Mediterranean,SMB,2020-11-23,1,0,4.0
+M01801,Merchant 01801,Oakland,Thai,SMB,2023-10-02,1,0,4.31
+M01802,Merchant 01802,San Jose,Mediterranean,SMB,2022-04-14,1,0,4.51
+M01803,Merchant 01803,Palo Alto,Chinese,SMB,2022-04-12,1,1,4.35
+M01804,Merchant 01804,San Jose,Mexican,SMB,2025-07-13,1,1,3.78
+M01805,Merchant 01805,Berkeley,Italian,SMB,2025-08-29,1,1,4.92
+M01806,Merchant 01806,Berkeley,American,Mid-Market,2021-06-25,1,1,3.93
+M01807,Merchant 01807,Oakland,American,Mid-Market,2025-05-10,1,1,4.12
+M01808,Merchant 01808,Fremont,Mexican,SMB,2022-05-22,1,0,4.38
+M01809,Merchant 01809,Oakland,Indian,SMB,2023-11-28,1,0,4.27
+M01810,Merchant 01810,San Jose,Indian,SMB,2021-10-29,0,1,3.84
+M01811,Merchant 01811,Berkeley,Mexican,SMB,2023-03-30,1,1,3.93
+M01812,Merchant 01812,Oakland,Chinese,SMB,2023-05-26,1,0,4.19
+M01813,Merchant 01813,San Francisco,Italian,SMB,2024-04-29,1,0,4.01
+M01814,Merchant 01814,Berkeley,American,SMB,2022-11-27,1,0,3.89
+M01815,Merchant 01815,San Francisco,Mexican,Enterprise,2020-09-19,1,0,4.4
+M01816,Merchant 01816,Oakland,American,Mid-Market,2022-01-09,1,0,4.31
+M01817,Merchant 01817,Palo Alto,Japanese,Mid-Market,2023-11-01,1,0,3.88
+M01818,Merchant 01818,Berkeley,Chinese,SMB,2025-02-22,1,1,4.2
+M01819,Merchant 01819,San Francisco,Italian,Mid-Market,2025-03-29,1,0,4.64
+M01820,Merchant 01820,Oakland,American,Mid-Market,2025-05-14,1,1,4.04
+M01821,Merchant 01821,Berkeley,Thai,SMB,2020-06-27,1,1,4.19
+M01822,Merchant 01822,Oakland,Thai,Mid-Market,2024-02-27,0,1,4.65
+M01823,Merchant 01823,Berkeley,Mediterranean,Mid-Market,2025-01-08,1,0,4.32
+M01824,Merchant 01824,Berkeley,Mediterranean,Enterprise,2021-06-14,1,0,4.07
+M01825,Merchant 01825,San Jose,Thai,SMB,2020-02-27,1,1,4.39
+M01826,Merchant 01826,Palo Alto,Japanese,Mid-Market,2024-07-14,1,0,4.27
+M01827,Merchant 01827,San Jose,American,SMB,2020-10-05,1,0,3.49
+M01828,Merchant 01828,San Francisco,Italian,SMB,2025-04-20,1,1,5.0
+M01829,Merchant 01829,Fremont,Chinese,SMB,2023-11-26,1,0,4.36
+M01830,Merchant 01830,Berkeley,Mediterranean,SMB,2023-02-21,1,0,4.34
+M01831,Merchant 01831,San Jose,Indian,SMB,2025-08-12,1,1,4.06
+M01832,Merchant 01832,San Francisco,Japanese,Mid-Market,2022-07-16,1,1,4.19
+M01833,Merchant 01833,Oakland,Italian,SMB,2023-01-13,1,1,4.73
+M01834,Merchant 01834,Palo Alto,Chinese,SMB,2020-08-29,1,0,4.89
+M01835,Merchant 01835,Oakland,Italian,Mid-Market,2020-03-02,1,1,3.89
+M01836,Merchant 01836,San Francisco,American,SMB,2023-05-18,1,0,4.64
+M01837,Merchant 01837,Palo Alto,Italian,SMB,2024-02-13,1,1,3.93
+M01838,Merchant 01838,Fremont,Mexican,SMB,2020-10-14,1,0,3.83
+M01839,Merchant 01839,Palo Alto,Italian,SMB,2022-03-13,1,0,3.93
+M01840,Merchant 01840,Palo Alto,American,SMB,2023-07-01,1,0,3.66
+M01841,Merchant 01841,Berkeley,Mediterranean,SMB,2024-11-04,1,0,4.33
+M01842,Merchant 01842,Berkeley,Japanese,SMB,2022-11-10,1,0,3.9
+M01843,Merchant 01843,San Francisco,Indian,Mid-Market,2022-12-07,1,0,4.17
+M01844,Merchant 01844,Palo Alto,American,Mid-Market,2024-07-19,1,0,4.63
+M01845,Merchant 01845,Oakland,Mediterranean,Mid-Market,2022-04-13,1,1,4.1
+M01846,Merchant 01846,Fremont,Indian,SMB,2020-08-06,1,0,4.91
+M01847,Merchant 01847,Berkeley,Thai,Mid-Market,2024-04-08,0,1,3.63
+M01848,Merchant 01848,San Jose,Mediterranean,SMB,2023-06-28,1,1,4.65
+M01849,Merchant 01849,San Francisco,Mediterranean,SMB,2025-09-01,0,1,4.54
+M01850,Merchant 01850,San Francisco,Mediterranean,Mid-Market,2025-01-16,1,0,4.39
+M01851,Merchant 01851,Fremont,Italian,SMB,2024-01-29,1,0,4.03
+M01852,Merchant 01852,San Jose,American,SMB,2024-11-26,1,1,3.61
+M01853,Merchant 01853,Fremont,Mexican,SMB,2024-02-20,1,1,4.38
+M01854,Merchant 01854,San Jose,Thai,SMB,2024-10-04,1,1,4.38
+M01855,Merchant 01855,San Francisco,Thai,SMB,2024-12-06,1,1,4.08
+M01856,Merchant 01856,San Francisco,Italian,SMB,2020-08-03,1,1,3.69
+M01857,Merchant 01857,Fremont,Chinese,Enterprise,2025-05-17,1,0,4.09
+M01858,Merchant 01858,San Francisco,Italian,SMB,2024-08-27,1,0,4.23
+M01859,Merchant 01859,San Francisco,Indian,SMB,2020-02-23,0,1,4.72
+M01860,Merchant 01860,Oakland,Mediterranean,SMB,2025-06-13,1,0,4.62
+M01861,Merchant 01861,Palo Alto,Japanese,SMB,2021-06-11,1,0,4.21
+M01862,Merchant 01862,Berkeley,Thai,Mid-Market,2021-11-03,0,0,4.3
+M01863,Merchant 01863,San Jose,Mexican,Mid-Market,2023-01-01,1,1,4.11
+M01864,Merchant 01864,San Jose,Mexican,SMB,2023-11-07,0,0,3.84
+M01865,Merchant 01865,Fremont,Thai,Mid-Market,2020-11-07,1,1,3.59
+M01866,Merchant 01866,Palo Alto,Thai,Mid-Market,2025-06-08,0,0,4.3
+M01867,Merchant 01867,San Francisco,Mediterranean,SMB,2022-09-03,1,1,3.78
+M01868,Merchant 01868,San Jose,Italian,SMB,2020-10-24,1,1,4.1
+M01869,Merchant 01869,Palo Alto,Japanese,SMB,2021-08-13,1,1,4.58
+M01870,Merchant 01870,San Francisco,Indian,SMB,2024-12-15,1,0,4.83
+M01871,Merchant 01871,San Jose,Thai,Mid-Market,2022-05-17,1,0,4.34
+M01872,Merchant 01872,San Jose,Mediterranean,SMB,2022-09-03,0,1,4.31
+M01873,Merchant 01873,San Jose,Thai,SMB,2022-11-20,1,0,4.6
+M01874,Merchant 01874,Fremont,Italian,SMB,2024-09-23,1,0,4.5
+M01875,Merchant 01875,Oakland,Mediterranean,Mid-Market,2021-09-17,1,0,3.53
+M01876,Merchant 01876,San Jose,Indian,Mid-Market,2022-05-13,0,0,3.93
+M01877,Merchant 01877,Fremont,Indian,SMB,2022-05-16,1,0,3.99
+M01878,Merchant 01878,Palo Alto,Mexican,SMB,2023-04-09,1,1,3.99
+M01879,Merchant 01879,Palo Alto,Chinese,SMB,2022-12-26,1,0,4.74
+M01880,Merchant 01880,San Jose,Italian,SMB,2025-01-19,1,1,4.8
+M01881,Merchant 01881,Palo Alto,Mediterranean,SMB,2021-11-27,1,1,4.78
+M01882,Merchant 01882,Palo Alto,Mediterranean,SMB,2022-02-13,1,1,3.56
+M01883,Merchant 01883,San Jose,Indian,SMB,2022-03-15,1,1,4.22
+M01884,Merchant 01884,San Jose,Japanese,SMB,2022-12-23,1,0,4.78
+M01885,Merchant 01885,Palo Alto,Indian,SMB,2021-12-24,0,0,3.81
+M01886,Merchant 01886,Palo Alto,Indian,SMB,2025-06-18,1,0,4.92
+M01887,Merchant 01887,Oakland,Mexican,Enterprise,2022-04-09,1,0,3.88
+M01888,Merchant 01888,Berkeley,Thai,SMB,2023-07-02,1,1,4.46
+M01889,Merchant 01889,Oakland,Indian,Enterprise,2025-05-12,1,0,4.03
+M01890,Merchant 01890,San Jose,Mexican,SMB,2021-08-10,1,0,3.91
+M01891,Merchant 01891,Fremont,Japanese,SMB,2022-06-10,1,0,4.46
+M01892,Merchant 01892,Fremont,Italian,SMB,2020-02-28,1,0,4.37
+M01893,Merchant 01893,Berkeley,Thai,SMB,2021-03-11,1,0,3.6
+M01894,Merchant 01894,Fremont,American,SMB,2023-08-01,1,0,4.49
+M01895,Merchant 01895,San Francisco,Chinese,SMB,2021-10-05,0,0,4.49
+M01896,Merchant 01896,San Francisco,Mexican,SMB,2021-11-18,1,0,3.95
+M01897,Merchant 01897,Berkeley,Mexican,Enterprise,2023-09-03,1,0,4.22
+M01898,Merchant 01898,Oakland,Japanese,Mid-Market,2024-10-20,1,0,4.78
+M01899,Merchant 01899,Palo Alto,American,SMB,2024-06-16,0,1,4.61
+M01900,Merchant 01900,Fremont,Japanese,SMB,2023-08-02,1,0,3.99
+M01901,Merchant 01901,Palo Alto,Thai,SMB,2022-01-11,1,1,4.17
+M01902,Merchant 01902,San Francisco,Mexican,SMB,2022-11-12,1,1,3.67
+M01903,Merchant 01903,Berkeley,American,SMB,2023-01-25,1,0,5.0
+M01904,Merchant 01904,Oakland,Chinese,Mid-Market,2025-06-05,1,1,4.34
+M01905,Merchant 01905,San Francisco,Italian,SMB,2024-10-14,1,1,4.04
+M01906,Merchant 01906,San Francisco,American,SMB,2025-06-26,1,1,4.27
+M01907,Merchant 01907,San Jose,Italian,SMB,2022-04-05,1,0,4.35
+M01908,Merchant 01908,Berkeley,Chinese,SMB,2022-11-21,1,1,4.49
+M01909,Merchant 01909,Fremont,Italian,SMB,2023-07-25,1,0,4.14
+M01910,Merchant 01910,Fremont,Japanese,Mid-Market,2024-01-03,1,1,4.71
+M01911,Merchant 01911,Palo Alto,Chinese,SMB,2023-11-15,1,0,4.64
+M01912,Merchant 01912,San Jose,Chinese,SMB,2025-07-18,1,1,3.8
+M01913,Merchant 01913,San Francisco,American,Enterprise,2023-06-30,1,0,4.52
+M01914,Merchant 01914,Berkeley,Thai,SMB,2021-06-25,1,0,4.97
+M01915,Merchant 01915,San Jose,Italian,Mid-Market,2021-01-22,0,1,4.5
+M01916,Merchant 01916,Berkeley,Mexican,SMB,2020-04-06,1,0,4.15
+M01917,Merchant 01917,San Jose,Japanese,SMB,2020-09-04,0,0,4.22
+M01918,Merchant 01918,Palo Alto,Mexican,Mid-Market,2023-02-15,1,0,4.45
+M01919,Merchant 01919,Palo Alto,Mexican,SMB,2020-04-02,1,0,4.19
+M01920,Merchant 01920,San Francisco,Chinese,Mid-Market,2025-03-25,0,0,4.11
+M01921,Merchant 01921,Berkeley,Chinese,SMB,2025-07-05,1,0,3.88
+M01922,Merchant 01922,Fremont,Mediterranean,SMB,2020-04-20,1,0,4.53
+M01923,Merchant 01923,Palo Alto,American,SMB,2025-02-04,0,1,4.73
+M01924,Merchant 01924,San Jose,Italian,SMB,2021-08-29,1,1,4.0
+M01925,Merchant 01925,Fremont,Mediterranean,Mid-Market,2022-11-04,1,0,4.01
+M01926,Merchant 01926,Palo Alto,American,SMB,2024-03-19,1,0,4.58
+M01927,Merchant 01927,Palo Alto,Chinese,SMB,2021-12-25,0,1,4.24
+M01928,Merchant 01928,San Jose,Chinese,Mid-Market,2021-09-25,1,0,4.52
+M01929,Merchant 01929,Berkeley,American,SMB,2020-06-21,1,0,4.1
+M01930,Merchant 01930,Berkeley,Japanese,SMB,2023-06-27,1,1,4.61
+M01931,Merchant 01931,Palo Alto,Indian,SMB,2024-11-14,1,1,4.29
+M01932,Merchant 01932,San Francisco,American,Mid-Market,2020-12-07,1,1,4.36
+M01933,Merchant 01933,San Jose,Indian,SMB,2020-06-22,1,1,4.81
+M01934,Merchant 01934,Berkeley,Chinese,SMB,2022-05-01,1,0,4.29
+M01935,Merchant 01935,Fremont,Chinese,Enterprise,2023-07-05,0,0,3.82
+M01936,Merchant 01936,Fremont,Mediterranean,Mid-Market,2020-09-29,1,0,4.37
+M01937,Merchant 01937,Palo Alto,Mexican,SMB,2023-11-15,1,0,4.83
+M01938,Merchant 01938,San Jose,Japanese,SMB,2021-09-29,0,0,4.27
+M01939,Merchant 01939,Berkeley,Italian,SMB,2025-02-19,1,0,4.63
+M01940,Merchant 01940,Fremont,Indian,SMB,2020-05-16,1,0,4.74
+M01941,Merchant 01941,San Jose,American,SMB,2023-10-21,1,0,4.88
+M01942,Merchant 01942,San Jose,Thai,SMB,2023-10-01,1,0,4.03
+M01943,Merchant 01943,Oakland,Mediterranean,SMB,2020-03-02,1,0,3.94
+M01944,Merchant 01944,San Francisco,Japanese,Mid-Market,2023-12-25,1,1,3.81
+M01945,Merchant 01945,San Jose,Thai,SMB,2023-05-04,1,1,4.11
+M01946,Merchant 01946,San Jose,Japanese,SMB,2023-01-09,1,1,3.9
+M01947,Merchant 01947,Palo Alto,American,SMB,2025-03-13,1,1,4.48
+M01948,Merchant 01948,Berkeley,Chinese,SMB,2024-01-08,1,0,4.45
+M01949,Merchant 01949,Fremont,Mediterranean,SMB,2022-08-11,1,0,3.62
+M01950,Merchant 01950,Berkeley,Mexican,Mid-Market,2021-06-22,1,0,4.31
+M01951,Merchant 01951,Fremont,American,SMB,2024-10-02,1,0,4.38
+M01952,Merchant 01952,Berkeley,Japanese,SMB,2025-04-23,0,1,3.93
+M01953,Merchant 01953,San Jose,American,Enterprise,2022-02-18,1,0,3.53
+M01954,Merchant 01954,Oakland,Mediterranean,SMB,2020-08-05,1,0,4.08
+M01955,Merchant 01955,Fremont,Chinese,Mid-Market,2021-07-08,1,0,4.59
+M01956,Merchant 01956,Fremont,Thai,SMB,2020-07-08,1,1,4.38
+M01957,Merchant 01957,San Francisco,Italian,SMB,2021-01-07,1,0,4.62
+M01958,Merchant 01958,Palo Alto,Mediterranean,Enterprise,2024-06-29,0,0,4.4
+M01959,Merchant 01959,San Jose,Mediterranean,SMB,2022-01-10,1,1,3.99
+M01960,Merchant 01960,Palo Alto,Mediterranean,Mid-Market,2021-05-24,1,0,4.54
+M01961,Merchant 01961,San Francisco,Mexican,SMB,2022-05-06,1,0,4.22
+M01962,Merchant 01962,Oakland,Italian,Enterprise,2025-04-17,0,0,4.5
+M01963,Merchant 01963,Oakland,Indian,Enterprise,2022-05-28,0,0,4.28
+M01964,Merchant 01964,Oakland,Italian,SMB,2024-08-25,0,1,4.54
+M01965,Merchant 01965,San Francisco,Thai,SMB,2023-12-18,1,0,4.16
+M01966,Merchant 01966,Palo Alto,Mediterranean,SMB,2020-09-09,1,0,3.81
+M01967,Merchant 01967,Fremont,Japanese,SMB,2020-09-07,1,0,4.4
+M01968,Merchant 01968,San Jose,Mediterranean,SMB,2021-10-16,1,1,4.62
+M01969,Merchant 01969,Oakland,American,SMB,2021-03-06,1,0,4.33
+M01970,Merchant 01970,Palo Alto,Mexican,Enterprise,2023-08-11,1,0,4.18
+M01971,Merchant 01971,Berkeley,Japanese,Mid-Market,2025-08-07,1,0,4.75
+M01972,Merchant 01972,San Jose,Mediterranean,SMB,2023-08-02,1,1,4.36
+M01973,Merchant 01973,Fremont,Chinese,SMB,2020-05-17,1,0,4.06
+M01974,Merchant 01974,Fremont,Italian,SMB,2023-06-25,1,0,4.16
+M01975,Merchant 01975,Oakland,American,SMB,2021-10-04,1,0,4.66
+M01976,Merchant 01976,San Francisco,Chinese,Enterprise,2022-11-30,0,0,4.22
+M01977,Merchant 01977,Berkeley,Japanese,Mid-Market,2024-08-27,1,0,4.37
+M01978,Merchant 01978,San Jose,Japanese,SMB,2022-02-19,1,0,4.16
+M01979,Merchant 01979,Berkeley,Japanese,SMB,2022-02-02,1,0,4.68
+M01980,Merchant 01980,Oakland,Indian,Mid-Market,2021-09-14,1,1,4.3
+M01981,Merchant 01981,Oakland,Japanese,SMB,2020-08-24,1,0,4.27
+M01982,Merchant 01982,Fremont,Chinese,Mid-Market,2025-01-04,1,1,3.85
+M01983,Merchant 01983,Berkeley,Mediterranean,SMB,2020-09-06,1,1,4.12
+M01984,Merchant 01984,Oakland,Thai,SMB,2025-02-07,1,0,4.18
+M01985,Merchant 01985,Fremont,Thai,SMB,2020-07-07,1,0,3.89
+M01986,Merchant 01986,Palo Alto,Indian,Mid-Market,2025-02-24,1,1,4.01
+M01987,Merchant 01987,Fremont,Mediterranean,Mid-Market,2021-11-27,1,0,3.79
+M01988,Merchant 01988,San Francisco,Thai,SMB,2022-08-27,0,0,4.22
+M01989,Merchant 01989,San Jose,Chinese,Mid-Market,2023-03-16,1,1,4.4
+M01990,Merchant 01990,Oakland,Indian,SMB,2021-10-06,1,1,4.65
+M01991,Merchant 01991,San Francisco,Chinese,SMB,2022-07-20,1,0,4.47
+M01992,Merchant 01992,Fremont,American,Mid-Market,2023-02-21,1,0,3.95
+M01993,Merchant 01993,San Jose,Thai,SMB,2025-03-17,0,1,4.23
+M01994,Merchant 01994,Oakland,Thai,SMB,2025-02-04,0,1,4.82
+M01995,Merchant 01995,San Jose,Japanese,SMB,2021-07-27,0,1,3.71
+M01996,Merchant 01996,San Jose,Chinese,SMB,2021-02-07,1,1,4.0
+M01997,Merchant 01997,San Jose,Japanese,SMB,2024-09-13,1,0,4.55
+M01998,Merchant 01998,San Jose,American,SMB,2023-07-11,1,1,4.77
+M01999,Merchant 01999,San Francisco,Italian,SMB,2022-03-15,1,0,4.25
+M02000,Merchant 02000,San Jose,Indian,SMB,2021-11-18,1,0,4.82
